@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 11/2 North Avenue- Strathmore inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:40 to 10:20. With Travel time of 6 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 206/324 Pascoe Vale Road- Essendon inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:22 to 11:02. With Travel time of 2 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 97a Waverley St- Moonee Ponds inspection window starts at 11:15 and Finishes at 11:30. It is inspected from 11:09 to 11:49. With Travel time of 7 mins. With an area duration of 20. And has an early start of 11:15 and a late finish of 11:30.
+Inspection at 234/2 Gillies Street- Essendon North inspection window starts at 12:15 and Finishes at 12:30. It is inspected from 12:15 to 12:35. With Travel time of 6 mins. With an area duration of 0. And has an early start of 12:15 and a late finish of 12:30.
+Inspection at 1/57 Holmes Road- Moonee Ponds inspection window starts at 12:55 and Finishes at 13:10. It is inspected from 12:55 to 13:15. With Travel time of 7 mins. With an area duration of 0. And has an early start of 12:55 and a late finish of 13:10.
+Inspection at 58 Margaret Street- Moonee Ponds inspection window starts at 14:00 and Finishes at 14:15. It is inspected from 14:00 to 14:20. With Travel time of 3 mins. With an area duration of 0. And has an early start of 14:00 and a late finish of 14:15.
+Inspection at 2/76 Bent Street- Moonee Ponds inspection window starts at 16:10 and Finishes at 16:25. It is inspected from 16:10 to 16:30. With Travel time of 3 mins. With an area duration of 0. And has an early start of 16:10 and a late finish of 16:25.
+After Improve inspections are: 
+Inspection at 11/2 North Avenue- Strathmore inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:40 to 10:20. With Travel time of 6 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 23 Woodland Street- Strathmore inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:30 to 11:35. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 97a Waverley St- Moonee Ponds inspection window starts at 11:15 and Finishes at 11:30. It is inspected from 11:09 to 11:49. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:15 and a late finish of 11:30.
+Inspection at 234/2 Gillies Street- Essendon North inspection window starts at 12:15 and Finishes at 12:30. It is inspected from 12:15 to 12:35. With Travel time of 6 mins. With an area duration of 0. And has an early start of 12:15 and a late finish of 12:30.
+Inspection at 98C Napier Street- Essendon inspection window starts at 13:20 and Finishes at 13:35. It is inspected from 13:20 to 16:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:20 and a late finish of 13:35.
+Inspection at 1/190 St Leonards Road- Ascot Vale inspection window starts at 15:40 and Finishes at 15:55. It is inspected from 15:20 to 16:30. With Travel time of 0 mins. With an area duration of 0. And has an early start of 15:40 and a late finish of 15:55.
+Inspection at 2/76 Bent Street- Moonee Ponds inspection window starts at 16:10 and Finishes at 16:25. It is inspected from 16:10 to 16:30. With Travel time of 0 mins. With an area duration of 0. And has an early start of 16:10 and a late finish of 16:25.
+Construct aspect of algorithm took 15230milliseconds to run. 
+Improve aspect of algorithm took 19703milliseconds to run.
+ Overall the algorithm took 34934milliseconds to run.

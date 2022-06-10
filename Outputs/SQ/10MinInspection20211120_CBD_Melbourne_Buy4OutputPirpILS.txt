@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 910/333 Exhibition Street- Melbourne inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:50 to 12:10. With Travel time of 10 mins. With an area duration of 10. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 514/33 Mackenzie Street- Melbourne inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:50 to 14:10. With Travel time of 0 mins. With an area duration of 10. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 3511/1 Freshwater Place- Southbank inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:50 to 15:10. With Travel time of 13 mins. With an area duration of 10. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 4203/568 Collins St- Melbourne inspection window starts at 17:15 and Finishes at 17:45. It is inspected from 17:05 to 17:25. With Travel time of 10 mins. With an area duration of 10. And has an early start of 17:15 and a late finish of 17:45.
+After Improve inspections are: 
+Inspection at 910/333 Exhibition Street- Melbourne inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:50 to 12:10. With Travel time of 10 mins. With an area duration of 10. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 514/33 Mackenzie Street- Melbourne inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:50 to 14:10. With Travel time of 0 mins. With an area duration of 10. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 3511/1 Freshwater Place- Southbank inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:50 to 15:10. With Travel time of 13 mins. With an area duration of 10. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 4203/568 Collins St- Melbourne inspection window starts at 17:15 and Finishes at 17:45. It is inspected from 17:05 to 17:25. With Travel time of 10 mins. With an area duration of 10. And has an early start of 17:15 and a late finish of 17:45.
+Construct aspect of algorithm took 9896milliseconds to run. 
+Improve aspect of algorithm took 16079milliseconds to run.
+ Overall the algorithm took 25975milliseconds to run.

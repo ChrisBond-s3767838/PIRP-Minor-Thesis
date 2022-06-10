@@ -1,0 +1,16 @@
+After construction the inspections are: 
+Inspection at 4/44 Victoria Street- Coburg inspection window starts at 09:15 and Finishes at 09:45. It is inspected from 09:03 to 09:43. With Travel time of 3 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:45.
+Inspection at 2/50 Miranda Road- Reservoir inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:59 to 10:39. With Travel time of 16 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 69 Oakover Road- Preston inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:51 to 11:31. With Travel time of 12 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 10 Plow Street- Thornbury inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:35 to 12:15. With Travel time of 4 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 174 Raleigh Street- Thornbury inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:30 to 12:50. With Travel time of 3 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 2 Oxford Drive- Bundoora inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:06 to 13:46. With Travel time of 16 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+After Improve inspections are: 
+Inspection at 4/44 Victoria Street- Coburg inspection window starts at 09:15 and Finishes at 09:45. It is inspected from 09:03 to 09:43. With Travel time of 3 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:45.
+Inspection at 9 Janet Crescent- Bundoora inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 12:00. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 10 Plow Street- Thornbury inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:35 to 12:15. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 34 Harding Street- Coburg inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:30 to 13:30. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 2 Oxford Drive- Bundoora inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:06 to 13:46. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Construct aspect of algorithm took 14415milliseconds to run. 
+Improve aspect of algorithm took 23624milliseconds to run.
+ Overall the algorithm took 38039milliseconds to run.

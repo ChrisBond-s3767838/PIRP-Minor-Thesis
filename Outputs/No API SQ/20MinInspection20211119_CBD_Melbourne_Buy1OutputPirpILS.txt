@@ -1,0 +1,7 @@
+After construction the inspections are: 
+Inspection at 1910E/888 Collins Street- Docklands inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:20 to 17:50. With Travel time of 8 mins. With an area duration of 10. And has an early start of 17:30 and a late finish of 18:00.
+After Improve inspections are: 
+Inspection at 1910E/888 Collins Street- Docklands inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:20 to 17:50. With Travel time of 8 mins. With an area duration of 10. And has an early start of 17:30 and a late finish of 18:00.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

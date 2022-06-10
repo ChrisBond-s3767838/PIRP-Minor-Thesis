@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 7/21-25 Wensley Street- Diamond Creek inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:40 to 12:15. With Travel time of 17 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 72 Resolution Circuit- Doreen inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:29 to 13:04. With Travel time of 14 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 15 Faithful Way- Doreen inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:13 to 13:28. With Travel time of 9 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 69 Downey Drive- Doreen inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:45. With Travel time of 2 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 7/21-25 Wensley Street- Diamond Creek inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:40 to 12:15. With Travel time of 17 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 72 Resolution Circuit- Doreen inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:29 to 13:04. With Travel time of 14 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 15 Faithful Way- Doreen inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:13 to 13:28. With Travel time of 9 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 69 Downey Drive- Doreen inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:45. With Travel time of 2 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 7245milliseconds to run. 
+Improve aspect of algorithm took 10459milliseconds to run.
+ Overall the algorithm took 17705milliseconds to run.

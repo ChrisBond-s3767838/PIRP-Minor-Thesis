@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 143 Aberdeen Street- Newtown inspection window starts at 10:25 and Finishes at 10:40. It is inspected from 10:05 to 10:45. With Travel time of 9 mins. With an area duration of 20. And has an early start of 10:25 and a late finish of 10:40.
+Inspection at 48 Yaraan Street- Bell Park inspection window starts at 11:05 and Finishes at 11:20. It is inspected from 10:53 to 11:33. With Travel time of 8 mins. With an area duration of 20. And has an early start of 11:05 and a late finish of 11:20.
+Inspection at 78A Vines Road- Hamlyn Heights inspection window starts at 12:05 and Finishes at 12:20. It is inspected from 11:45 to 12:25. With Travel time of 2 mins. With an area duration of 20. And has an early start of 12:05 and a late finish of 12:20.
+Inspection at 299 Boundary Road- Mount Duneed inspection window starts at 14:20 and Finishes at 14:30. It is inspected from 14:00 to 14:40. With Travel time of 17 mins. With an area duration of 20. And has an early start of 14:20 and a late finish of 14:30.
+After Improve inspections are: 
+Inspection at 143 Aberdeen Street- Newtown inspection window starts at 10:25 and Finishes at 10:40. It is inspected from 10:05 to 10:45. With Travel time of 9 mins. With an area duration of 20. And has an early start of 10:25 and a late finish of 10:40.
+Inspection at 48 Yaraan Street- Bell Park inspection window starts at 11:05 and Finishes at 11:20. It is inspected from 10:53 to 11:33. With Travel time of 8 mins. With an area duration of 20. And has an early start of 11:05 and a late finish of 11:20.
+Inspection at 1B Heyers Road- Grovedale inspection window starts at 11:30 and Finishes at 12:45. It is inspected from 11:33 to 14:40. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:45.
+Inspection at 299 Boundary Road- Mount Duneed inspection window starts at 14:20 and Finishes at 14:30. It is inspected from 14:00 to 14:40. With Travel time of 0 mins. With an area duration of 20. And has an early start of 14:20 and a late finish of 14:30.
+Construct aspect of algorithm took 7403milliseconds to run. 
+Improve aspect of algorithm took 10544milliseconds to run.
+ Overall the algorithm took 17947milliseconds to run.

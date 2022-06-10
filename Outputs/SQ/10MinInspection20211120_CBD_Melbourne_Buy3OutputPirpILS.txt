@@ -1,0 +1,20 @@
+After construction the inspections are: 
+Inspection at 2906/81 South Wharf Drive- Docklands inspection window starts at 11:00 and Finishes at 12:00. It is inspected from 10:50 to 11:10. With Travel time of 7 mins. With an area duration of 10. And has an early start of 11:00 and a late finish of 12:00.
+Inspection at 417/39 Coventry Street- Southbank inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:20 to 12:40. With Travel time of 11 mins. With an area duration of 10. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 608/20 Rakaia Way- Docklands inspection window starts at 13:15 and Finishes at 13:40. It is inspected from 13:05 to 13:25. With Travel time of 13 mins. With an area duration of 10. And has an early start of 13:15 and a late finish of 13:40.
+Inspection at 2102S/883 Collins Street- Docklands inspection window starts at 13:45 and Finishes at 14:15. It is inspected from 13:35 to 13:55. With Travel time of 7 mins. With an area duration of 10. And has an early start of 13:45 and a late finish of 14:15.
+Inspection at 1904/33 Clarke Street- Southbank inspection window starts at 14:15 and Finishes at 14:45. It is inspected from 14:15 to 14:25. With Travel time of 11 mins. With an area duration of 0. And has an early start of 14:15 and a late finish of 14:45.
+Inspection at 604/463 Docklands Drive- Docklands inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:10. With Travel time of 10 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 1005/68 La Trobe Street- Melbourne inspection window starts at 16:00 and Finishes at 16:20. It is inspected from 15:50 to 16:10. With Travel time of 12 mins. With an area duration of 10. And has an early start of 16:00 and a late finish of 16:20.
+Inspection at 1102/22 Coromandel Place- Melbourne inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:20 to 17:40. With Travel time of 5 mins. With an area duration of 10. And has an early start of 17:30 and a late finish of 18:00.
+After Improve inspections are: 
+Inspection at 2906/81 South Wharf Drive- Docklands inspection window starts at 11:00 and Finishes at 12:00. It is inspected from 10:50 to 11:10. With Travel time of 7 mins. With an area duration of 10. And has an early start of 11:00 and a late finish of 12:00.
+Inspection at 2012/8 Marmion Place- Docklands inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 13:25. With Travel time of 0 mins. With an area duration of 10. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 608/20 Rakaia Way- Docklands inspection window starts at 13:15 and Finishes at 13:40. It is inspected from 13:05 to 13:25. With Travel time of 0 mins. With an area duration of 10. And has an early start of 13:15 and a late finish of 13:40.
+Inspection at 2102S/883 Collins Street- Docklands inspection window starts at 13:45 and Finishes at 14:15. It is inspected from 13:35 to 13:55. With Travel time of 7 mins. With an area duration of 10. And has an early start of 13:45 and a late finish of 14:15.
+Inspection at 604/463 Docklands Drive- Docklands inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:10. With Travel time of 10 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 3207/250 City Road- Southbank inspection window starts at 15:45 and Finishes at 16:15. It is inspected from 15:45 to 17:40. With Travel time of 0 mins. With an area duration of 10. And has an early start of 15:45 and a late finish of 16:15.
+Inspection at 1102/22 Coromandel Place- Melbourne inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:20 to 17:40. With Travel time of 0 mins. With an area duration of 10. And has an early start of 17:30 and a late finish of 18:00.
+Construct aspect of algorithm took 20894milliseconds to run. 
+Improve aspect of algorithm took 32460milliseconds to run.
+ Overall the algorithm took 53355milliseconds to run.

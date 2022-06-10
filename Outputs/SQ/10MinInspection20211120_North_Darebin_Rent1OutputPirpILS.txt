@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 27A Lindenow Street- Reservoir inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:09 to 09:39. With Travel time of 9 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 3/34 Barton Street- Reservoir inspection window starts at 10:00 and Finishes at 10:20. It is inspected from 10:00 to 10:10. With Travel time of 3 mins. With an area duration of 0. And has an early start of 10:00 and a late finish of 10:20.
+After Improve inspections are: 
+Inspection at 27A Lindenow Street- Reservoir inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:09 to 09:39. With Travel time of 9 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 3/34 Barton Street- Reservoir inspection window starts at 10:00 and Finishes at 10:20. It is inspected from 10:00 to 10:10. With Travel time of 3 mins. With an area duration of 0. And has an early start of 10:00 and a late finish of 10:20.
+Construct aspect of algorithm took 5782milliseconds to run. 
+Improve aspect of algorithm took 14347milliseconds to run.
+ Overall the algorithm took 20129milliseconds to run.

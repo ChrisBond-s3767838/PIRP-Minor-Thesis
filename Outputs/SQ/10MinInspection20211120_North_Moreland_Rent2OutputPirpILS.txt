@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 12/162 Cumberland Road- Pascoe Vale inspection window starts at 09:15 and Finishes at 09:30. It is inspected from 09:12 to 09:42. With Travel time of 12 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:30.
+Inspection at 5/66-68A Brunswick Road- Brunswick inspection window starts at 10:05 and Finishes at 10:20. It is inspected from 09:57 to 10:27. With Travel time of 15 mins. With an area duration of 20. And has an early start of 10:05 and a late finish of 10:20.
+Inspection at 203/8 Olive York Way- Brunswick West inspection window starts at 10:40 and Finishes at 11:00. It is inspected from 10:37 to 11:07. With Travel time of 10 mins. With an area duration of 20. And has an early start of 10:40 and a late finish of 11:00.
+Inspection at 4/29 Nunan Street- Brunswick East inspection window starts at 12:05 and Finishes at 12:20. It is inspected from 11:45 to 12:15. With Travel time of 12 mins. With an area duration of 20. And has an early start of 12:05 and a late finish of 12:20.
+Inspection at 201/1C Michael Street- Brunswick inspection window starts at 13:10 and Finishes at 13:25. It is inspected from 13:10 to 13:20. With Travel time of 10 mins. With an area duration of 0. And has an early start of 13:10 and a late finish of 13:25.
+Inspection at 2/132 Nicholson Street- Brunswick East inspection window starts at 13:55 and Finishes at 14:10. It is inspected from 13:55 to 14:05. With Travel time of 6 mins. With an area duration of 0. And has an early start of 13:55 and a late finish of 14:10.
+Inspection at 701/288 Albert Street- Brunswick inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:30 to 16:40. With Travel time of 7 mins. With an area duration of 0. And has an early start of 16:30 and a late finish of 16:45.
+After Improve inspections are: 
+Inspection at 12/162 Cumberland Road- Pascoe Vale inspection window starts at 09:15 and Finishes at 09:30. It is inspected from 09:12 to 09:42. With Travel time of 12 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:30.
+Inspection at 5/66-68A Brunswick Road- Brunswick inspection window starts at 10:05 and Finishes at 10:20. It is inspected from 09:57 to 10:27. With Travel time of 15 mins. With an area duration of 20. And has an early start of 10:05 and a late finish of 10:20.
+Inspection at 13/2 Mascoma St- Pascoe Vale inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:30 to 12:15. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 4/29 Nunan Street- Brunswick East inspection window starts at 12:05 and Finishes at 12:20. It is inspected from 11:45 to 12:15. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:05 and a late finish of 12:20.
+Inspection at 201/1C Michael Street- Brunswick inspection window starts at 13:10 and Finishes at 13:25. It is inspected from 13:10 to 13:20. With Travel time of 10 mins. With an area duration of 0. And has an early start of 13:10 and a late finish of 13:25.
+Inspection at 1/421 Brunswick Road- Brunswick West inspection window starts at 13:50 and Finishes at 14:05. It is inspected from 13:50 to 16:40. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:50 and a late finish of 14:05.
+Inspection at 701/288 Albert Street- Brunswick inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:30 to 16:40. With Travel time of 0 mins. With an area duration of 0. And has an early start of 16:30 and a late finish of 16:45.
+Construct aspect of algorithm took 17448milliseconds to run. 
+Improve aspect of algorithm took 35260milliseconds to run.
+ Overall the algorithm took 52708milliseconds to run.

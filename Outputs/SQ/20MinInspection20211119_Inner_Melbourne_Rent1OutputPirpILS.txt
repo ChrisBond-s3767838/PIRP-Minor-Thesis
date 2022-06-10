@@ -1,0 +1,7 @@
+After construction the inspections are: 
+Inspection at 307/61 Galada Avenue- Parkville inspection window starts at 16:10 and Finishes at 16:25. It is inspected from 16:00 to 16:30. With Travel time of 10 mins. With an area duration of 10. And has an early start of 16:10 and a late finish of 16:25.
+After Improve inspections are: 
+Inspection at 307/61 Galada Avenue- Parkville inspection window starts at 16:10 and Finishes at 16:25. It is inspected from 16:00 to 16:30. With Travel time of 10 mins. With an area duration of 10. And has an early start of 16:10 and a late finish of 16:25.
+Construct aspect of algorithm took 1840milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 11841milliseconds to run.

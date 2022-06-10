@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 25 Talbot Street- Hadfield inspection window starts at 09:45 and Finishes at 10:15. It is inspected from 09:25 to 10:05. With Travel time of 5 mins. With an area duration of 20. And has an early start of 09:45 and a late finish of 10:15.
+Inspection at 4/7 Sylvan Grove- Pascoe Vale inspection window starts at 10:45 and Finishes at 11:15. It is inspected from 10:25 to 11:05. With Travel time of 5 mins. With an area duration of 20. And has an early start of 10:45 and a late finish of 11:15.
+Inspection at 115/360 Lygon Street- Brunswick East inspection window starts at 11:40 and Finishes at 12:00. It is inspected from 11:20 to 12:00. With Travel time of 15 mins. With an area duration of 20. And has an early start of 11:40 and a late finish of 12:00.
+Inspection at 122 Mitchell Street- Brunswick East inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 2 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 3/105 Vincent Street- Oak Park inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:38 to 13:58. With Travel time of 18 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 25 Talbot Street- Hadfield inspection window starts at 09:45 and Finishes at 10:15. It is inspected from 09:25 to 10:05. With Travel time of 5 mins. With an area duration of 20. And has an early start of 09:45 and a late finish of 10:15.
+Inspection at 1 Collings Street- Brunswick West inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:10 to 12:35. With Travel time of 0 mins. With an area duration of 0. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at C36/415 Brunswick Road- Brunswick West inspection window starts at 12:15 and Finishes at 12:30. It is inspected from 11:55 to 13:20. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:15 and a late finish of 12:30.
+Inspection at 122 Mitchell Street- Brunswick East inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 3/105 Vincent Street- Oak Park inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:38 to 13:58. With Travel time of 18 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 7726milliseconds to run. 
+Improve aspect of algorithm took 16058milliseconds to run.
+ Overall the algorithm took 23784milliseconds to run.

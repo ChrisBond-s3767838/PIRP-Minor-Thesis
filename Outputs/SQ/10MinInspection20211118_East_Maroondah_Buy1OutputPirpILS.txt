@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 1/22 Diana Street- Croydon inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:10. With Travel time of 8 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 63 Maidstone Street- Ringwood inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:19 to 15:49. With Travel time of 9 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 2/13-15 Paul Street- Croydon inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:00 to 17:10. With Travel time of 15 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 8/4-6 Rosedale Crescent- Ringwood East inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:30 to 17:40. With Travel time of 10 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 3 Mcgivern Court- Bayswater North inspection window starts at 17:30 and Finishes at 18:30. It is inspected from 17:53 to 18:23. With Travel time of 13 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:30.
+After Improve inspections are: 
+Inspection at 1/22 Diana Street- Croydon inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:10. With Travel time of 8 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 63 Maidstone Street- Ringwood inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:19 to 15:49. With Travel time of 9 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 2/13-15 Paul Street- Croydon inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:00 to 17:10. With Travel time of 15 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 8/4-6 Rosedale Crescent- Ringwood East inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:30 to 17:40. With Travel time of 10 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 3 Mcgivern Court- Bayswater North inspection window starts at 17:30 and Finishes at 18:30. It is inspected from 17:53 to 18:23. With Travel time of 13 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:30.
+Construct aspect of algorithm took 14206milliseconds to run. 
+Improve aspect of algorithm took 57717milliseconds to run.
+ Overall the algorithm took 71924milliseconds to run.

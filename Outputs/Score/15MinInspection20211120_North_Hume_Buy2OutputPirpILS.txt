@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 17 Erinbank Crescent- Westmeadows inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:40 to 10:15. With Travel time of 6 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 32/20 Hyde Park Avenue- Craigieburn inspection window starts at 10:40 and Finishes at 11:10. It is inspected from 10:37 to 11:12. With Travel time of 22 mins. With an area duration of 20. And has an early start of 10:40 and a late finish of 11:10.
+Inspection at 20 Charm Road- Greenvale inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:40 to 12:15. With Travel time of 12 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 11 Fame Way- Craigieburn inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:15. With Travel time of 9 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 32 Nebula Crescent- Mickleham inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:45. With Travel time of 7 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 17 Erinbank Crescent- Westmeadows inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:40 to 10:15. With Travel time of 6 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 19 Rossiter Avenue- Roxburgh Park inspection window starts at 10:45 and Finishes at 11:15. It is inspected from 10:25 to 12:15. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:45 and a late finish of 11:15.
+Inspection at 20 Charm Road- Greenvale inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:40 to 12:15. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 1/335 Grand Blvd- Craigieburn inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:45. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 32 Nebula Crescent- Mickleham inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:45. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 10408milliseconds to run. 
+Improve aspect of algorithm took 24485milliseconds to run.
+ Overall the algorithm took 34893milliseconds to run.

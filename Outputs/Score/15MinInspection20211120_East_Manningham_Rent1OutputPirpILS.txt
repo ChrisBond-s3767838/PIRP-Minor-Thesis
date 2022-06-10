@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 1/9 Standring Close- Donvale inspection window starts at 14:15 and Finishes at 14:30. It is inspected from 13:55 to 14:30. With Travel time of 5 mins. With an area duration of 20. And has an early start of 14:15 and a late finish of 14:30.
+Inspection at 34 Tortice Drive- Ringwood North inspection window starts at 15:30 and Finishes at 15:45. It is inspected from 15:10 to 15:45. With Travel time of 12 mins. With an area duration of 20. And has an early start of 15:30 and a late finish of 15:45.
+After Improve inspections are: 
+Inspection at 1/9 Standring Close- Donvale inspection window starts at 14:15 and Finishes at 14:30. It is inspected from 13:55 to 14:30. With Travel time of 5 mins. With an area duration of 20. And has an early start of 14:15 and a late finish of 14:30.
+Inspection at 34 Tortice Drive- Ringwood North inspection window starts at 15:30 and Finishes at 15:45. It is inspected from 15:10 to 15:45. With Travel time of 12 mins. With an area duration of 20. And has an early start of 15:30 and a late finish of 15:45.
+Construct aspect of algorithm took 2496milliseconds to run. 
+Improve aspect of algorithm took 10034milliseconds to run.
+ Overall the algorithm took 12530milliseconds to run.

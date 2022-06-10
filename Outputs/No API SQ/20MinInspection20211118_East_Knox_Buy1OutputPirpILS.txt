@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 52 Arbroath Road- Wantirna South inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:20. With Travel time of 2 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 9/127 Tyner Road- Wantirna South inspection window starts at 17:30 and Finishes at 17:45. It is inspected from 17:30 to 17:50. With Travel time of 2 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 17:45.
+After Improve inspections are: 
+Inspection at 52 Arbroath Road- Wantirna South inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:20. With Travel time of 2 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 9/127 Tyner Road- Wantirna South inspection window starts at 17:30 and Finishes at 17:45. It is inspected from 17:30 to 17:50. With Travel time of 2 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 17:45.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

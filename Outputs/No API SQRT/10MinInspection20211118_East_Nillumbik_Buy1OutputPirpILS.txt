@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 19 Frank Street- Eltham inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:40 to 14:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 8-10 Nicholson Close- Research inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:10. With Travel time of 2 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 14 Dandallo Drive- Eltham inspection window starts at 16:45 and Finishes at 17:15. It is inspected from 16:45 to 16:55. With Travel time of 26 mins. With an area duration of 0. And has an early start of 16:45 and a late finish of 17:15.
+Inspection at 51 Stanley Avenue- Eltham inspection window starts at 17:45 and Finishes at 18:15. It is inspected from 17:45 to 17:55. With Travel time of 28 mins. With an area duration of 0. And has an early start of 17:45 and a late finish of 18:15.
+Inspection at 29 Riversdale Avenue- Eltham North inspection window starts at 17:45 and Finishes at 18:15. It is inspected from 17:58 to 18:08. With Travel time of 3 mins. With an area duration of 0. And has an early start of 17:45 and a late finish of 18:15.
+After Improve inspections are: 
+Inspection at 19 Frank Street- Eltham inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:40 to 14:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 8-10 Nicholson Close- Research inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:10. With Travel time of 2 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 14 Dandallo Drive- Eltham inspection window starts at 16:45 and Finishes at 17:15. It is inspected from 16:45 to 16:55. With Travel time of 26 mins. With an area duration of 0. And has an early start of 16:45 and a late finish of 17:15.
+Inspection at 51 Stanley Avenue- Eltham inspection window starts at 17:45 and Finishes at 18:15. It is inspected from 17:45 to 17:55. With Travel time of 0 mins. With an area duration of 0. And has an early start of 17:45 and a late finish of 18:15.
+Inspection at 29 Riversdale Avenue- Eltham North inspection window starts at 17:45 and Finishes at 18:15. It is inspected from 17:58 to 18:08. With Travel time of 3 mins. With an area duration of 0. And has an early start of 17:45 and a late finish of 18:15.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

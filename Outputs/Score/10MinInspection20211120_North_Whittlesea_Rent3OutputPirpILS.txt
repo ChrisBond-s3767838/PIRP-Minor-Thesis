@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 2/13 Bali Place- Lalor inspection window starts at 09:25 and Finishes at 09:40. It is inspected from 09:21 to 09:51. With Travel time of 21 mins. With an area duration of 20. And has an early start of 09:25 and a late finish of 09:40.
+Inspection at 13 Kincaid Drive- Mernda inspection window starts at 10:20 and Finishes at 10:35. It is inspected from 10:10 to 10:40. With Travel time of 19 mins. With an area duration of 20. And has an early start of 10:20 and a late finish of 10:35.
+Inspection at 34 Merino Drive- Mernda inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:30 to 16:40. With Travel time of 2 mins. With an area duration of 0. And has an early start of 16:30 and a late finish of 16:45.
+After Improve inspections are: 
+Inspection at 2/13 Bali Place- Lalor inspection window starts at 09:25 and Finishes at 09:40. It is inspected from 09:21 to 09:51. With Travel time of 21 mins. With an area duration of 20. And has an early start of 09:25 and a late finish of 09:40.
+Inspection at 13 Kincaid Drive- Mernda inspection window starts at 10:20 and Finishes at 10:35. It is inspected from 10:10 to 10:40. With Travel time of 19 mins. With an area duration of 20. And has an early start of 10:20 and a late finish of 10:35.
+Inspection at 34 Merino Drive- Mernda inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:30 to 16:40. With Travel time of 2 mins. With an area duration of 0. And has an early start of 16:30 and a late finish of 16:45.
+Construct aspect of algorithm took 8138milliseconds to run. 
+Improve aspect of algorithm took 12303milliseconds to run.
+ Overall the algorithm took 20442milliseconds to run.

@@ -1,0 +1,28 @@
+After construction the inspections are: 
+Inspection at 10/44 Dundas Street- Thornbury inspection window starts at 09:20 and Finishes at 09:30. It is inspected from 09:06 to 09:41. With Travel time of 6 mins. With an area duration of 20. And has an early start of 09:20 and a late finish of 09:30.
+ Competing Inspection at 10/44 Dundas Street- Thornbury inspection window starts at 09:20 and Finishes at 09:30. It is inspected from 09:06 to 09:41. With Travel time of 6 mins. With an area duration of 20. And has an early start of 09:20 and a late finish of 09:30.
+Inspection at 5/76 Dundas Street- Thornbury inspection window starts at 09:45 and Finishes at 10:00. It is inspected from 09:45 to 10:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 09:45 and a late finish of 10:00.
+ Competing Inspection at 5/76 Dundas Street- Thornbury inspection window starts at 09:45 and Finishes at 10:00. It is inspected from 09:45 to 10:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 09:45 and a late finish of 10:00.
+ Competing Inspection at 2/9 Hayes Street- Northcote inspection window starts at 09:50 and Finishes at 10:05. It is inspected from 09:46 to 10:21. With Travel time of 5 mins. With an area duration of 20. And has an early start of 09:50 and a late finish of 10:05.
+After InsertC the inspections are: 
+Inspection at 10/44 Dundas Street- Thornbury inspection window starts at 09:20 and Finishes at 09:30. It is inspected from 09:06 to 09:41. With Travel time of 6 mins. With an area duration of 20. And has an early start of 09:20 and a late finish of 09:30.
+ Competing Inspection at 10/44 Dundas Street- Thornbury inspection window starts at 09:20 and Finishes at 09:30. It is inspected from 09:06 to 09:41. With Travel time of 6 mins. With an area duration of 20. And has an early start of 09:20 and a late finish of 09:30.
+Inspection at 5/76 Dundas Street- Thornbury inspection window starts at 09:45 and Finishes at 10:00. It is inspected from 09:45 to 10:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 09:45 and a late finish of 10:00.
+ Competing Inspection at 5/76 Dundas Street- Thornbury inspection window starts at 09:45 and Finishes at 10:00. It is inspected from 09:45 to 10:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 09:45 and a late finish of 10:00.
+ Competing Inspection at 2/9 Hayes Street- Northcote inspection window starts at 09:50 and Finishes at 10:05. It is inspected from 09:46 to 10:21. With Travel time of 5 mins. With an area duration of 20. And has an early start of 09:50 and a late finish of 10:05.
+After Neighbourhood Replace the inspections are: 
+Inspection at 10/44 Dundas Street- Thornbury inspection window starts at 09:20 and Finishes at 09:30. It is inspected from 09:06 to 09:41. With Travel time of 6 mins. With an area duration of 20. And has an early start of 09:20 and a late finish of 09:30.
+ Competing Inspection at 10/44 Dundas Street- Thornbury inspection window starts at 09:20 and Finishes at 09:30. It is inspected from 09:06 to 09:41. With Travel time of 6 mins. With an area duration of 20. And has an early start of 09:20 and a late finish of 09:30.
+Inspection at 5/76 Dundas Street- Thornbury inspection window starts at 09:45 and Finishes at 10:00. It is inspected from 09:45 to 10:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 09:45 and a late finish of 10:00.
+ Competing Inspection at 5/76 Dundas Street- Thornbury inspection window starts at 09:45 and Finishes at 10:00. It is inspected from 09:45 to 10:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 09:45 and a late finish of 10:00.
+ Competing Inspection at 2/9 Hayes Street- Northcote inspection window starts at 09:50 and Finishes at 10:05. It is inspected from 09:46 to 10:21. With Travel time of 5 mins. With an area duration of 20. And has an early start of 09:50 and a late finish of 10:05.
+After Improve inspections are: 
+Inspection at 10/44 Dundas Street- Thornbury inspection window starts at 09:20 and Finishes at 09:30. It is inspected from 09:06 to 09:41. With Travel time of 6 mins. With an area duration of 20. And has an early start of 09:20 and a late finish of 09:30.
+ Competing Inspection at 10/44 Dundas Street- Thornbury inspection window starts at 09:20 and Finishes at 09:30. It is inspected from 09:06 to 09:41. With Travel time of 6 mins. With an area duration of 20. And has an early start of 09:20 and a late finish of 09:30.
+Inspection at 5/76 Dundas Street- Thornbury inspection window starts at 09:45 and Finishes at 10:00. It is inspected from 09:45 to 10:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 09:45 and a late finish of 10:00.
+ Competing Inspection at 5/76 Dundas Street- Thornbury inspection window starts at 09:45 and Finishes at 10:00. It is inspected from 09:45 to 10:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 09:45 and a late finish of 10:00.
+ Competing Inspection at 2/9 Hayes Street- Northcote inspection window starts at 09:50 and Finishes at 10:05. It is inspected from 09:46 to 10:21. With Travel time of 5 mins. With an area duration of 20. And has an early start of 09:50 and a late finish of 10:05.
+Construct aspect of algorithm took 3848milliseconds to run. 
+Improve aspect of algorithm took 0milliseconds to run.
+ Neighbourhood Replace aspect of algorithm took 0milliseconds to run. 
+Overall the algorithm took 3848milliseconds to run.

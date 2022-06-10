@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 19 Cascades View- Yallambie inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:10 to 09:45. With Travel time of 8 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 204/1a Noel Street- Ivanhoe inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:59 to 10:34. With Travel time of 14 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 6 Gladman Street- Greensborough inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:48 to 11:23. With Travel time of 14 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 7 St Hubert Road- Ivanhoe East inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:40 to 12:15. With Travel time of 14 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 3/280 Grimshaw Street- Watsonia North inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:29 to 13:04. With Travel time of 14 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 14/77 St James Road- Rosanna inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:12 to 13:47. With Travel time of 8 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 19 Cascades View- Yallambie inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:10 to 09:45. With Travel time of 8 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 30 Berrima Road- Rosanna inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 10:00 to 11:15. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 1/36 Torbay Street- Macleod inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 12:15. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 7 St Hubert Road- Ivanhoe East inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:40 to 12:15. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 3/280 Grimshaw Street- Watsonia North inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:29 to 13:04. With Travel time of 14 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 14/77 St James Road- Rosanna inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:12 to 13:47. With Travel time of 8 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 11073milliseconds to run. 
+Improve aspect of algorithm took 13156milliseconds to run.
+ Overall the algorithm took 24230milliseconds to run.

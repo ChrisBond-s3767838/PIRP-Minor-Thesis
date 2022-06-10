@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 1108/339 Swanston Street- Melbourne inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:35 to 15:05. With Travel time of 7 mins. With an area duration of 10. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 305B/399 Bourke Street- Melbourne inspection window starts at 17:30 and Finishes at 17:45. It is inspected from 17:20 to 17:50. With Travel time of 6 mins. With an area duration of 10. And has an early start of 17:30 and a late finish of 17:45.
+After Improve inspections are: 
+Inspection at 1108/339 Swanston Street- Melbourne inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:35 to 15:05. With Travel time of 7 mins. With an area duration of 10. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 305B/399 Bourke Street- Melbourne inspection window starts at 17:30 and Finishes at 17:45. It is inspected from 17:20 to 17:50. With Travel time of 6 mins. With an area duration of 10. And has an early start of 17:30 and a late finish of 17:45.
+Construct aspect of algorithm took 3226milliseconds to run. 
+Improve aspect of algorithm took 11312milliseconds to run.
+ Overall the algorithm took 14538milliseconds to run.

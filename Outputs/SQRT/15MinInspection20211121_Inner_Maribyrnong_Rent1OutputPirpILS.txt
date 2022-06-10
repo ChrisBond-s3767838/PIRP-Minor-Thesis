@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 16/13 Ormond Road- West Footscray inspection window starts at 10:15 and Finishes at 10:25. It is inspected from 10:05 to 10:30. With Travel time of 1 mins. With an area duration of 10. And has an early start of 10:15 and a late finish of 10:25.
+Inspection at 3/13 Empire Street- Footscray inspection window starts at 12:25 and Finishes at 12:35. It is inspected from 12:15 to 12:40. With Travel time of 6 mins. With an area duration of 10. And has an early start of 12:25 and a late finish of 12:35.
+Inspection at 7/6 Eldridge Street- Footscray inspection window starts at 13:15 and Finishes at 13:25. It is inspected from 13:15 to 13:30. With Travel time of 1 mins. With an area duration of 0. And has an early start of 13:15 and a late finish of 13:25.
+Inspection at 807/234-240 Barkly Street- Footscray inspection window starts at 14:15 and Finishes at 14:25. It is inspected from 14:05 to 14:30. With Travel time of 4 mins. With an area duration of 10. And has an early start of 14:15 and a late finish of 14:25.
+Inspection at 3/55 Swan Street- Footscray inspection window starts at 15:00 and Finishes at 15:10. It is inspected from 15:00 to 15:15. With Travel time of 3 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:10.
+After Improve inspections are: 
+Inspection at 16/13 Ormond Road- West Footscray inspection window starts at 10:15 and Finishes at 10:25. It is inspected from 10:05 to 10:30. With Travel time of 1 mins. With an area duration of 10. And has an early start of 10:15 and a late finish of 10:25.
+Inspection at 3/13 Empire Street- Footscray inspection window starts at 12:25 and Finishes at 12:35. It is inspected from 12:15 to 12:40. With Travel time of 6 mins. With an area duration of 10. And has an early start of 12:25 and a late finish of 12:35.
+Inspection at 3/20 Empire Street- Footscray inspection window starts at 12:55 and Finishes at 13:10. It is inspected from 12:55 to 14:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:55 and a late finish of 13:10.
+Inspection at 1208/240 Barkly Street- Footscray inspection window starts at 14:00 and Finishes at 14:10. It is inspected from 14:00 to 15:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:00 and a late finish of 14:10.
+Inspection at 3/55 Swan Street- Footscray inspection window starts at 15:00 and Finishes at 15:10. It is inspected from 15:00 to 15:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:10.
+Construct aspect of algorithm took 8786milliseconds to run. 
+Improve aspect of algorithm took 12001milliseconds to run.
+ Overall the algorithm took 20788milliseconds to run.

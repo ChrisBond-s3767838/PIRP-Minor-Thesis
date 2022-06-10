@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 10 Pearce Street- Yarraville inspection window starts at 10:40 and Finishes at 10:50. It is inspected from 10:30 to 11:00. With Travel time of 9 mins. With an area duration of 10. And has an early start of 10:40 and a late finish of 10:50.
+Inspection at 11/6 Eldridge Street- Footscray inspection window starts at 12:50 and Finishes at 13:05. It is inspected from 12:40 to 13:10. With Travel time of 9 mins. With an area duration of 10. And has an early start of 12:50 and a late finish of 13:05.
+Inspection at 2/5 Wattle Street- West Footscray inspection window starts at 14:00 and Finishes at 14:15. It is inspected from 13:50 to 14:20. With Travel time of 7 mins. With an area duration of 10. And has an early start of 14:00 and a late finish of 14:15.
+Inspection at 463B Geelong Road- Yarraville inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:35 to 15:05. With Travel time of 2 mins. With an area duration of 10. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 1a Dickson Street- Kingsville inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:20. With Travel time of 5 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at 10 Pearce Street- Yarraville inspection window starts at 10:40 and Finishes at 10:50. It is inspected from 10:30 to 11:00. With Travel time of 9 mins. With an area duration of 10. And has an early start of 10:40 and a late finish of 10:50.
+Inspection at 11/6 Eldridge Street- Footscray inspection window starts at 12:50 and Finishes at 13:05. It is inspected from 12:40 to 13:10. With Travel time of 9 mins. With an area duration of 10. And has an early start of 12:50 and a late finish of 13:05.
+Inspection at 7 Donald Street- Footscray inspection window starts at 13:45 and Finishes at 13:55. It is inspected from 13:45 to 15:05. With Travel time of 0 mins. With an area duration of 10. And has an early start of 13:45 and a late finish of 13:55.
+Inspection at 463B Geelong Road- Yarraville inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:35 to 15:05. With Travel time of 0 mins. With an area duration of 10. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 1a Dickson Street- Kingsville inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:20. With Travel time of 5 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+Construct aspect of algorithm took 6272milliseconds to run. 
+Improve aspect of algorithm took 18517milliseconds to run.
+ Overall the algorithm took 24789milliseconds to run.

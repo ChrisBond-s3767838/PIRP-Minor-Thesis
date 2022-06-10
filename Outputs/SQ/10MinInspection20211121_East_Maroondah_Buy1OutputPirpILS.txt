@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 2/343 Maroondah Highway- Croydon North inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:40 to 13:10. With Travel time of 3 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 1/5 Arlington Street- Ringwood inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:40 to 14:10. With Travel time of 12 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 20 Skyline Place- Heathmont inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+After Improve inspections are: 
+Inspection at 2/343 Maroondah Highway- Croydon North inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:40 to 13:10. With Travel time of 3 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 1/5 Arlington Street- Ringwood inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:40 to 14:10. With Travel time of 12 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 20 Skyline Place- Heathmont inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Construct aspect of algorithm took 4396milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 14396milliseconds to run.

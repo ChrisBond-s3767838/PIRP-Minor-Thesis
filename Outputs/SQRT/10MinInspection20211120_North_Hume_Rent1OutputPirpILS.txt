@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 16 Willsmere Way- Mickleham inspection window starts at 09:00 and Finishes at 09:20. It is inspected from 09:08 to 09:38. With Travel time of 8 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:20.
+Inspection at 11 Corringa Way- Craigieburn inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 10:00 to 10:10. With Travel time of 13 mins. With an area duration of 0. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 48 Bainbridge Close- Craigieburn inspection window starts at 10:25 and Finishes at 10:35. It is inspected from 10:25 to 10:35. With Travel time of 7 mins. With an area duration of 0. And has an early start of 10:25 and a late finish of 10:35.
+Inspection at 65 Bicentennial Crescent- Meadow Heights inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:49 to 11:19. With Travel time of 14 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+After Improve inspections are: 
+Inspection at 16 Willsmere Way- Mickleham inspection window starts at 09:00 and Finishes at 09:20. It is inspected from 09:08 to 09:38. With Travel time of 8 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:20.
+Inspection at 11 Corringa Way- Craigieburn inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 10:00 to 10:10. With Travel time of 13 mins. With an area duration of 0. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 48 Bainbridge Close- Craigieburn inspection window starts at 10:25 and Finishes at 10:35. It is inspected from 10:25 to 10:35. With Travel time of 7 mins. With an area duration of 0. And has an early start of 10:25 and a late finish of 10:35.
+Inspection at 65 Bicentennial Crescent- Meadow Heights inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:49 to 11:19. With Travel time of 14 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Construct aspect of algorithm took 9298milliseconds to run. 
+Improve aspect of algorithm took 14566milliseconds to run.
+ Overall the algorithm took 23864milliseconds to run.

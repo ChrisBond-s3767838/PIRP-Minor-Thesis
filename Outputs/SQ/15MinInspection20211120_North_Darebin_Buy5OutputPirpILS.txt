@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 12 Mat Rush Avenue- Bundoora inspection window starts at 10:00 and Finishes at 10:00. It is inspected from 09:40 to 10:15. With Travel time of 20 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:00.
+Inspection at 3/5 Aberdeen Street-- Reservoir inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:27 to 11:02. With Travel time of 12 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 10 Plow Street- Thornbury inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:15 to 11:50. With Travel time of 13 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 3/84 St David Street- Thornbury inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:15. With Travel time of 2 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 2/301 St Georges Road- Northcote inspection window starts at 12:35 and Finishes at 12:55. It is inspected from 12:20 to 12:55. With Travel time of 5 mins. With an area duration of 20. And has an early start of 12:35 and a late finish of 12:55.
+Inspection at 33 Hanslope Avenue- Alphington inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:06 to 13:41. With Travel time of 11 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+After Improve inspections are: 
+Inspection at 12 Mat Rush Avenue- Bundoora inspection window starts at 10:00 and Finishes at 10:00. It is inspected from 09:40 to 10:15. With Travel time of 20 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:00.
+Inspection at 61 Beavers Road- Northcote inspection window starts at 10:45 and Finishes at 11:15. It is inspected from 10:45 to 11:45. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:45 and a late finish of 11:15.
+Inspection at 10 Plow Street- Thornbury inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:15 to 11:50. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 3/84 St David Street- Thornbury inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:15. With Travel time of 2 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 34 Harding Street- Coburg inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:15 to 13:25. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 33 Hanslope Avenue- Alphington inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:06 to 13:41. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Construct aspect of algorithm took 11744milliseconds to run. 
+Improve aspect of algorithm took 12742milliseconds to run.
+ Overall the algorithm took 24487milliseconds to run.

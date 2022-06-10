@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 26/95 Rouse Street- Port Melbourne inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:20 to 11:40. With Travel time of 2 mins. With an area duration of 10. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 205/455 Graham Street- Port Melbourne inspection window starts at 14:20 and Finishes at 14:40. It is inspected from 14:20 to 14:30. With Travel time of 3 mins. With an area duration of 0. And has an early start of 14:20 and a late finish of 14:40.
+Inspection at 51 Richardson Street- Albert Park inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:34 to 14:54. With Travel time of 4 mins. With an area duration of 10. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 214/85 Market Street- South Melbourne inspection window starts at 15:15 and Finishes at 15:45. It is inspected from 15:05 to 15:25. With Travel time of 7 mins. With an area duration of 10. And has an early start of 15:15 and a late finish of 15:45.
+Inspection at 136 Princes Street- Port Melbourne inspection window starts at 15:30 and Finishes at 16:00. It is inspected from 15:32 to 15:42. With Travel time of 7 mins. With an area duration of 0. And has an early start of 15:30 and a late finish of 16:00.
+After Improve inspections are: 
+Inspection at 26/95 Rouse Street- Port Melbourne inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:20 to 11:40. With Travel time of 2 mins. With an area duration of 10. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 205/455 Graham Street- Port Melbourne inspection window starts at 14:20 and Finishes at 14:40. It is inspected from 14:20 to 14:30. With Travel time of 3 mins. With an area duration of 0. And has an early start of 14:20 and a late finish of 14:40.
+Inspection at 51 Richardson Street- Albert Park inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:34 to 14:54. With Travel time of 4 mins. With an area duration of 10. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 214/85 Market Street- South Melbourne inspection window starts at 15:15 and Finishes at 15:45. It is inspected from 15:05 to 15:25. With Travel time of 7 mins. With an area duration of 10. And has an early start of 15:15 and a late finish of 15:45.
+Inspection at 136 Princes Street- Port Melbourne inspection window starts at 15:30 and Finishes at 16:00. It is inspected from 15:32 to 15:42. With Travel time of 7 mins. With an area duration of 0. And has an early start of 15:30 and a late finish of 16:00.
+Construct aspect of algorithm took 11258milliseconds to run. 
+Improve aspect of algorithm took 20575milliseconds to run.
+ Overall the algorithm took 31833milliseconds to run.

@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 9 MacMillan Street- Mooroolbark inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 15:40 to 16:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 3 Thorpe Street- Lilydale inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 89 Birmingham Road- Mount Evelyn inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:24 to 18:04. With Travel time of 4 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:00.
+After Improve inspections are: 
+Inspection at 9 MacMillan Street- Mooroolbark inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 15:40 to 16:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 3 Thorpe Street- Lilydale inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 89 Birmingham Road- Mount Evelyn inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:24 to 18:04. With Travel time of 4 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:00.
+Construct aspect of algorithm took 5987milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 15987milliseconds to run.

@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 13/248 The Avenue- Parkville inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:20 to 09:50. With Travel time of 11 mins. With an area duration of 10. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 22/22 Agnes Street- East Melbourne inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:20 to 10:50. With Travel time of 16 mins. With an area duration of 10. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 558 Victoria Parade- East Melbourne inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 11:20. With Travel time of 6 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 108/33 Cliveden Close- East Melbourne inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 5 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 2-6 Morrison Place- East Melbourne inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:20. With Travel time of 5 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 52 Mill Street- Carlton inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:50 to 15:20. With Travel time of 520 mins. With an area duration of 10. And has an early start of 15:00 and a late finish of 15:30.
+After Improve inspections are: 
+Inspection at 13/248 The Avenue- Parkville inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:20 to 09:50. With Travel time of 11 mins. With an area duration of 10. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 22/22 Agnes Street- East Melbourne inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:20 to 10:50. With Travel time of 16 mins. With an area duration of 10. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 558 Victoria Parade- East Melbourne inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 11:20. With Travel time of 6 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 108/33 Cliveden Close- East Melbourne inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 2-6 Morrison Place- East Melbourne inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:20. With Travel time of 5 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 52 Mill Street- Carlton inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:50 to 15:20. With Travel time of 520 mins. With an area duration of 10. And has an early start of 15:00 and a late finish of 15:30.
+Construct aspect of algorithm took 15181milliseconds to run. 
+Improve aspect of algorithm took 38588milliseconds to run.
+ Overall the algorithm took 53769milliseconds to run.

@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 8/157-161 Bouverie Street- Carlton inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:50 to 13:10. With Travel time of 3 mins. With an area duration of 10. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 402P/191 Powlett Street- East Melbourne inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:20 to 13:40. With Travel time of 10 mins. With an area duration of 10. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 417 Queensberry Street- North Melbourne inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:50 to 14:10. With Travel time of 9 mins. With an area duration of 10. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 42/192-196 The Avenue- Parkville inspection window starts at 15:00 and Finishes at 15:20. It is inspected from 14:50 to 15:10. With Travel time of 9 mins. With an area duration of 10. And has an early start of 15:00 and a late finish of 15:20.
+Inspection at 13 Charles Street- Carlton inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:10. With Travel time of 7 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at 8/157-161 Bouverie Street- Carlton inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:50 to 13:10. With Travel time of 3 mins. With an area duration of 10. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 402P/191 Powlett Street- East Melbourne inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:20 to 13:40. With Travel time of 10 mins. With an area duration of 10. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at G01/280 Albert Street- East Melbourne inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 14:00 to 15:10. With Travel time of 0 mins. With an area duration of 10. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 42/192-196 The Avenue- Parkville inspection window starts at 15:00 and Finishes at 15:20. It is inspected from 14:50 to 15:10. With Travel time of 0 mins. With an area duration of 10. And has an early start of 15:00 and a late finish of 15:20.
+Inspection at 13 Charles Street- Carlton inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:10. With Travel time of 7 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+Construct aspect of algorithm took 12555milliseconds to run. 
+Improve aspect of algorithm took 18745milliseconds to run.
+ Overall the algorithm took 31301milliseconds to run.

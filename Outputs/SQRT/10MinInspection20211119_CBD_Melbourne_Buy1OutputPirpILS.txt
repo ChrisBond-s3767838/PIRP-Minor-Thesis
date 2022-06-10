@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 516/13 Point Park Crescent- Docklands inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:20 to 11:40. With Travel time of 6 mins. With an area duration of 10. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 3718/220 SPENCER STREET- Melbourne inspection window starts at 12:20 and Finishes at 12:40. It is inspected from 12:10 to 12:30. With Travel time of 9 mins. With an area duration of 10. And has an early start of 12:20 and a late finish of 12:40.
+Inspection at 3213/639 Lonsdale Street- Melbourne inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:30 to 17:40. With Travel time of 4 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 2209E/888 Collins Street- Docklands inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:47 to 18:07. With Travel time of 7 mins. With an area duration of 10. And has an early start of 17:30 and a late finish of 18:00.
+After Improve inspections are: 
+Inspection at 516/13 Point Park Crescent- Docklands inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:20 to 11:40. With Travel time of 6 mins. With an area duration of 10. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 3901/245 City Road- Southbank inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:20 to 17:40. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 3213/639 Lonsdale Street- Melbourne inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:30 to 17:40. With Travel time of 0 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 2209E/888 Collins Street- Docklands inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:47 to 18:07. With Travel time of 7 mins. With an area duration of 10. And has an early start of 17:30 and a late finish of 18:00.
+Construct aspect of algorithm took 11977milliseconds to run. 
+Improve aspect of algorithm took 12423milliseconds to run.
+ Overall the algorithm took 24401milliseconds to run.

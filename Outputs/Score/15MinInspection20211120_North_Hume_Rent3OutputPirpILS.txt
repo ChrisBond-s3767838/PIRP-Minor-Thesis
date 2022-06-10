@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 51 Hamilton Street- Craigieburn inspection window starts at 14:05 and Finishes at 14:20. It is inspected from 13:45 to 14:20. With Travel time of 14 mins. With an area duration of 20. And has an early start of 14:05 and a late finish of 14:20.
+Inspection at 2 Crestwood Lane- Craigieburn inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:45 to 15:00. With Travel time of 2 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 8 Conebush street- Kalkallo inspection window starts at 15:25 and Finishes at 15:40. It is inspected from 15:14 to 15:49. With Travel time of 14 mins. With an area duration of 20. And has an early start of 15:25 and a late finish of 15:40.
+After Improve inspections are: 
+Inspection at 51 Hamilton Street- Craigieburn inspection window starts at 14:05 and Finishes at 14:20. It is inspected from 13:45 to 14:20. With Travel time of 14 mins. With an area duration of 20. And has an early start of 14:05 and a late finish of 14:20.
+Inspection at 2 Crestwood Lane- Craigieburn inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:45 to 15:00. With Travel time of 2 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 8 Conebush street- Kalkallo inspection window starts at 15:25 and Finishes at 15:40. It is inspected from 15:14 to 15:49. With Travel time of 14 mins. With an area duration of 20. And has an early start of 15:25 and a late finish of 15:40.
+Construct aspect of algorithm took 6827milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 16827milliseconds to run.

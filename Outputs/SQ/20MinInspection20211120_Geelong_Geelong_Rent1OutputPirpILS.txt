@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 4/7 Stafford Street- Herne Hill inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:40 to 10:20. With Travel time of 12 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 8 Aria Close- Lara inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 10:40 to 11:20. With Travel time of 19 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 3/12-14 Karlovac Court- Bell Park inspection window starts at 12:35 and Finishes at 12:50. It is inspected from 12:15 to 12:55. With Travel time of 14 mins. With an area duration of 20. And has an early start of 12:35 and a late finish of 12:50.
+Inspection at 299 Boundary Road- Mount Duneed inspection window starts at 14:20 and Finishes at 14:30. It is inspected from 14:00 to 14:40. With Travel time of 21 mins. With an area duration of 20. And has an early start of 14:20 and a late finish of 14:30.
+After Improve inspections are: 
+Inspection at 4/7 Stafford Street- Herne Hill inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:40 to 10:20. With Travel time of 12 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 83 Cedar Road- Lara inspection window starts at 11:25 and Finishes at 11:40. It is inspected from 11:25 to 12:55. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:25 and a late finish of 11:40.
+Inspection at 3/12-14 Karlovac Court- Bell Park inspection window starts at 12:35 and Finishes at 12:50. It is inspected from 12:15 to 12:55. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:35 and a late finish of 12:50.
+Inspection at 299 Boundary Road- Mount Duneed inspection window starts at 14:20 and Finishes at 14:30. It is inspected from 14:00 to 14:40. With Travel time of 21 mins. With an area duration of 20. And has an early start of 14:20 and a late finish of 14:30.
+Construct aspect of algorithm took 5823milliseconds to run. 
+Improve aspect of algorithm took 11962milliseconds to run.
+ Overall the algorithm took 17785milliseconds to run.

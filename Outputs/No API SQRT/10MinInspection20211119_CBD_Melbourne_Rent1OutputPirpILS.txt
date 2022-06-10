@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 1212/628 Flinders Street- Docklands inspection window starts at 12:45 and Finishes at 13:00. It is inspected from 12:35 to 12:55. With Travel time of 20 mins. With an area duration of 10. And has an early start of 12:45 and a late finish of 13:00.
+Inspection at 4407/601 Little Lonsdale Street- Melbourne inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:20 to 13:40. With Travel time of 7 mins. With an area duration of 10. And has an early start of 13:30 and a late finish of 13:45.
+Inspection at 701/5 SUTHERLAND STREET- Melbourne inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:50 to 15:10. With Travel time of 44 mins. With an area duration of 10. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 1401/90 Lorimer Street- Docklands inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 16:04 to 16:24. With Travel time of 54 mins. With an area duration of 10. And has an early start of 16:00 and a late finish of 16:15.
+Inspection at 4105/200 Spencer St- Melbourne inspection window starts at 16:50 and Finishes at 16:55. It is inspected from 16:50 to 17:00. With Travel time of 10 mins. With an area duration of 0. And has an early start of 16:50 and a late finish of 16:55.
+Inspection at 305B/399 Bourke Street- Melbourne inspection window starts at 17:30 and Finishes at 17:45. It is inspected from 17:20 to 17:40. With Travel time of 10 mins. With an area duration of 10. And has an early start of 17:30 and a late finish of 17:45.
+After Improve inspections are: 
+Inspection at 1212/628 Flinders Street- Docklands inspection window starts at 12:45 and Finishes at 13:00. It is inspected from 12:35 to 12:55. With Travel time of 20 mins. With an area duration of 10. And has an early start of 12:45 and a late finish of 13:00.
+Inspection at 4407/601 Little Lonsdale Street- Melbourne inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:20 to 13:40. With Travel time of 7 mins. With an area duration of 10. And has an early start of 13:30 and a late finish of 13:45.
+Inspection at 1108/339 Swanston Street- Melbourne inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:35 to 16:40. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 509/628 Flinders Street- Docklands inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:30 to 17:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 16:30 and a late finish of 16:45.
+Inspection at 4105/200 Spencer St- Melbourne inspection window starts at 16:50 and Finishes at 16:55. It is inspected from 16:50 to 17:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 16:50 and a late finish of 16:55.
+Inspection at 305B/399 Bourke Street- Melbourne inspection window starts at 17:30 and Finishes at 17:45. It is inspected from 17:20 to 17:40. With Travel time of 10 mins. With an area duration of 10. And has an early start of 17:30 and a late finish of 17:45.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

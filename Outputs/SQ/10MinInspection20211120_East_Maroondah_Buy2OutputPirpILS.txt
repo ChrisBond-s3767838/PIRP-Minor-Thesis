@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 8 Grand View Avenue- Croydon inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of 13 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 1/363 Bayswater Road- Bayswater North inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:40 to 11:10. With Travel time of 8 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 29 Great Ryrie Street- Ringwood inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:40 to 12:10. With Travel time of 6 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 3 Campbell Street- Heathmont inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:12 to 12:42. With Travel time of 2 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 29 Kalawar Avenue- Bayswater North inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:10. With Travel time of 9 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 7 Gallipoli Parade- Croydon inspection window starts at 16:15 and Finishes at 16:45. It is inspected from 16:18 to 16:28. With Travel time of 8 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:45.
+After Improve inspections are: 
+Inspection at 8 Grand View Avenue- Croydon inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of 13 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 1/363 Bayswater Road- Bayswater North inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:40 to 11:10. With Travel time of 8 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 29 Great Ryrie Street- Ringwood inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:40 to 12:10. With Travel time of 6 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 3 Campbell Street- Heathmont inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:12 to 12:42. With Travel time of 2 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 29 Kalawar Avenue- Bayswater North inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:10. With Travel time of 9 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 7 Gallipoli Parade- Croydon inspection window starts at 16:15 and Finishes at 16:45. It is inspected from 16:18 to 16:28. With Travel time of 8 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:45.
+Construct aspect of algorithm took 13846milliseconds to run. 
+Improve aspect of algorithm took 58563milliseconds to run.
+ Overall the algorithm took 72410milliseconds to run.

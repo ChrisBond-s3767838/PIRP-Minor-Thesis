@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 309/29 Market Street- Melbourne inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:50 to 10:15. With Travel time of 8 mins. With an area duration of 10. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 2208/5 Sutherland Street- Melbourne inspection window starts at 13:45 and Finishes at 14:00. It is inspected from 13:35 to 14:00. With Travel time of 5 mins. With an area duration of 10. And has an early start of 13:45 and a late finish of 14:00.
+Inspection at 2908/568 Collins Street- Melbourne inspection window starts at 15:10 and Finishes at 15:25. It is inspected from 15:00 to 15:25. With Travel time of 8 mins. With an area duration of 10. And has an early start of 15:10 and a late finish of 15:25.
+Inspection at 85/283 Spring Street- Melbourne inspection window starts at 15:50 and Finishes at 16:05. It is inspected from 15:40 to 16:05. With Travel time of 9 mins. With an area duration of 10. And has an early start of 15:50 and a late finish of 16:05.
+After Improve inspections are: 
+Inspection at 309/29 Market Street- Melbourne inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:50 to 10:15. With Travel time of 8 mins. With an area duration of 10. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 2208/5 Sutherland Street- Melbourne inspection window starts at 13:45 and Finishes at 14:00. It is inspected from 13:35 to 14:00. With Travel time of 5 mins. With an area duration of 10. And has an early start of 13:45 and a late finish of 14:00.
+Inspection at 2908/568 Collins Street- Melbourne inspection window starts at 15:10 and Finishes at 15:25. It is inspected from 15:00 to 15:25. With Travel time of 8 mins. With an area duration of 10. And has an early start of 15:10 and a late finish of 15:25.
+Inspection at 85/283 Spring Street- Melbourne inspection window starts at 15:50 and Finishes at 16:05. It is inspected from 15:40 to 16:05. With Travel time of 9 mins. With an area duration of 10. And has an early start of 15:50 and a late finish of 16:05.
+Construct aspect of algorithm took 6151milliseconds to run. 
+Improve aspect of algorithm took 41763milliseconds to run.
+ Overall the algorithm took 47914milliseconds to run.

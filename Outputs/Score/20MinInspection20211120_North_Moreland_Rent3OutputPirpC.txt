@@ -1,0 +1,27 @@
+After construction the inspections are: 
+Inspection at 113/37-43 Breese Street- Brunswick inspection window starts at 09:30 and Finishes at 09:55. It is inspected from 09:10 to 09:50. With Travel time of 2 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 09:55.
+ Competing Inspection at 113/37-43 Breese Street- Brunswick inspection window starts at 09:30 and Finishes at 09:55. It is inspected from 09:10 to 09:50. With Travel time of 2 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 09:55.
+ Competing Inspection at 7/1 Gladstone Parade- Glenroy inspection window starts at 09:30 and Finishes at 09:45. It is inspected from 09:17 to 09:57. With Travel time of 17 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 09:45.
+ Competing Inspection at 247D Albion Street- Brunswick inspection window starts at 09:25 and Finishes at 09:40. It is inspected from 09:05 to 09:45. With Travel time of 3 mins. With an area duration of 20. And has an early start of 09:25 and a late finish of 09:40.
+After InsertC the inspections are: 
+Inspection at 502/1 Lygon Street- Brunswick inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:30 to 12:50. With Travel time of 9 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 2/97 Donald Street- Brunswick inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 16:00 to 16:20. With Travel time of 7 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:15.
+Inspection at 2/97 Donald Street- Brunswick inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 16:00 to 16:20. With Travel time of 4 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:15.
+Inspection at 14/900 Pascoe Vale Road- Glenroy inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:10 to 10:50. With Travel time of 17 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 48 Victoria Street- Brunswick East inspection window starts at 17:30 and Finishes at 17:45. It is inspected from 17:10 to 17:50. With Travel time of 20 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 17:45.
+After Neighbourhood Replace the inspections are: 
+Inspection at 502/1 Lygon Street- Brunswick inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:30 to 12:50. With Travel time of 9 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 2/97 Donald Street- Brunswick inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 16:00 to 16:20. With Travel time of 7 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:15.
+Inspection at 2/97 Donald Street- Brunswick inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 16:00 to 16:20. With Travel time of 4 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:15.
+Inspection at 14/900 Pascoe Vale Road- Glenroy inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:10 to 10:50. With Travel time of 17 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 48 Victoria Street- Brunswick East inspection window starts at 17:30 and Finishes at 17:45. It is inspected from 17:10 to 17:50. With Travel time of 20 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 17:45.
+After Improve inspections are: 
+Inspection at 502/1 Lygon Street- Brunswick inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:30 to 12:50. With Travel time of 9 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 2/97 Donald Street- Brunswick inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 16:00 to 16:20. With Travel time of 7 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:15.
+Inspection at 2/97 Donald Street- Brunswick inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 16:00 to 16:20. With Travel time of 4 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:15.
+Inspection at 14/900 Pascoe Vale Road- Glenroy inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:10 to 10:50. With Travel time of 17 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 48 Victoria Street- Brunswick East inspection window starts at 17:30 and Finishes at 17:45. It is inspected from 17:10 to 17:50. With Travel time of 20 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 17:45.
+Construct aspect of algorithm took 2733milliseconds to run. 
+Improve aspect of algorithm took 8995milliseconds to run.
+ Neighbourhood Replace aspect of algorithm took 0milliseconds to run. 
+Overall the algorithm took 11729milliseconds to run.

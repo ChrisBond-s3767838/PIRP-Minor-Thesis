@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 15 Conrad Court- Whittington inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:20. With Travel time of 22 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 4 Macken Court- Highton inspection window starts at 11:15 and Finishes at 11:45. It is inspected from 10:55 to 11:35. With Travel time of 16 mins. With an area duration of 20. And has an early start of 11:15 and a late finish of 11:45.
+Inspection at 2/68 Marshalltown Road- Marshall inspection window starts at 11:50 and Finishes at 12:20. It is inspected from 11:46 to 12:26. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:50 and a late finish of 12:20.
+Inspection at 3/311 Torquay Road- Grovedale inspection window starts at 12:40 and Finishes at 13:00. It is inspected from 12:30 to 13:10. With Travel time of 4 mins. With an area duration of 20. And has an early start of 12:40 and a late finish of 13:00.
+Inspection at 27 Waulu Avenue- Clifton Springs inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:42 to 14:22. With Travel time of 32 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+After Improve inspections are: 
+Inspection at 15 Conrad Court- Whittington inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:20. With Travel time of 22 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 13 Cedar Grove- Highton inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:30 to 12:10. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 2/68 Marshalltown Road- Marshall inspection window starts at 11:50 and Finishes at 12:20. It is inspected from 11:46 to 12:26. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:50 and a late finish of 12:20.
+Inspection at 3/311 Torquay Road- Grovedale inspection window starts at 12:40 and Finishes at 13:00. It is inspected from 12:30 to 13:10. With Travel time of 4 mins. With an area duration of 20. And has an early start of 12:40 and a late finish of 13:00.
+Inspection at 27 Waulu Avenue- Clifton Springs inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:42 to 14:22. With Travel time of 32 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Construct aspect of algorithm took 8086milliseconds to run. 
+Improve aspect of algorithm took 12501milliseconds to run.
+ Overall the algorithm took 20587milliseconds to run.

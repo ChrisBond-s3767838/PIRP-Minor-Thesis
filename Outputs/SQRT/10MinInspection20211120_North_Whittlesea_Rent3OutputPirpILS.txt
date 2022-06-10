@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 1a Maxwell Street- Lalor inspection window starts at 10:20 and Finishes at 10:35. It is inspected from 10:00 to 10:30. With Travel time of 23 mins. With an area duration of 20. And has an early start of 10:20 and a late finish of 10:35.
+Inspection at 50 Hurlstone Crescent- Mill Park inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:10 to 12:40. With Travel time of 11 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 3/114 The Boulevard- Thomastown inspection window starts at 15:15 and Finishes at 15:30. It is inspected from 15:15 to 15:25. With Travel time of 10 mins. With an area duration of 0. And has an early start of 15:15 and a late finish of 15:30.
+Inspection at 34 Merino Drive- Mernda inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:10 to 16:40. With Travel time of 22 mins. With an area duration of 20. And has an early start of 16:30 and a late finish of 16:45.
+After Improve inspections are: 
+Inspection at 1a Maxwell Street- Lalor inspection window starts at 10:20 and Finishes at 10:35. It is inspected from 10:00 to 10:30. With Travel time of 23 mins. With an area duration of 20. And has an early start of 10:20 and a late finish of 10:35.
+Inspection at 50 Hurlstone Crescent- Mill Park inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:10 to 12:40. With Travel time of 11 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 3/114 The Boulevard- Thomastown inspection window starts at 15:15 and Finishes at 15:30. It is inspected from 15:15 to 15:25. With Travel time of 10 mins. With an area duration of 0. And has an early start of 15:15 and a late finish of 15:30.
+Inspection at 34 Merino Drive- Mernda inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:10 to 16:40. With Travel time of 22 mins. With an area duration of 20. And has an early start of 16:30 and a late finish of 16:45.
+Construct aspect of algorithm took 10092milliseconds to run. 
+Improve aspect of algorithm took 12923milliseconds to run.
+ Overall the algorithm took 23015milliseconds to run.

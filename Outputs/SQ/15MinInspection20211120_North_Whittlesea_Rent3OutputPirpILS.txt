@@ -1,0 +1,7 @@
+After construction the inspections are: 
+Inspection at 34 Merino Drive- Mernda inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:10 to 16:45. With Travel time of 4 mins. With an area duration of 20. And has an early start of 16:30 and a late finish of 16:45.
+After Improve inspections are: 
+Inspection at 34 Merino Drive- Mernda inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:10 to 16:45. With Travel time of 4 mins. With an area duration of 20. And has an early start of 16:30 and a late finish of 16:45.
+Construct aspect of algorithm took 1749milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 11749milliseconds to run.

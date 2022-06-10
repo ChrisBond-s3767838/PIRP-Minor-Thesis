@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 1002/52 Park Street- South Melbourne inspection window starts at 15:10 and Finishes at 15:25. It is inspected from 15:00 to 15:30. With Travel time of 7 mins. With an area duration of 10. And has an early start of 15:10 and a late finish of 15:25.
+Inspection at 103/88 Park Street- South Melbourne inspection window starts at 16:15 and Finishes at 16:30. It is inspected from 16:15 to 16:35. With Travel time of 11 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at 1002/52 Park Street- South Melbourne inspection window starts at 15:10 and Finishes at 15:25. It is inspected from 15:00 to 15:30. With Travel time of 7 mins. With an area duration of 10. And has an early start of 15:10 and a late finish of 15:25.
+Inspection at 103/88 Park Street- South Melbourne inspection window starts at 16:15 and Finishes at 16:30. It is inspected from 16:15 to 16:35. With Travel time of 11 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:30.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

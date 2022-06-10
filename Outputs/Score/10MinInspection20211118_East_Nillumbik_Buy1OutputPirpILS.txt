@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 10 Stirling Court- Eltham North inspection window starts at 16:30 and Finishes at 17:00. It is inspected from 16:10 to 16:40. With Travel time of 7 mins. With an area duration of 20. And has an early start of 16:30 and a late finish of 17:00.
+Inspection at 25 Dandallo Drive- Eltham inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:30 to 17:40. With Travel time of 7 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 29 Riversdale Avenue- Eltham North inspection window starts at 17:45 and Finishes at 18:15. It is inspected from 17:46 to 17:56. With Travel time of 6 mins. With an area duration of 0. And has an early start of 17:45 and a late finish of 18:15.
+Inspection at 51 Stanley Avenue- Eltham inspection window starts at 17:45 and Finishes at 18:15. It is inspected from 18:01 to 18:11. With Travel time of 5 mins. With an area duration of 0. And has an early start of 17:45 and a late finish of 18:15.
+After Improve inspections are: 
+Inspection at 10 Stirling Court- Eltham North inspection window starts at 16:30 and Finishes at 17:00. It is inspected from 16:10 to 16:40. With Travel time of 7 mins. With an area duration of 20. And has an early start of 16:30 and a late finish of 17:00.
+Inspection at 25 Dandallo Drive- Eltham inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:30 to 17:40. With Travel time of 7 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 29 Riversdale Avenue- Eltham North inspection window starts at 17:45 and Finishes at 18:15. It is inspected from 17:46 to 17:56. With Travel time of 6 mins. With an area duration of 0. And has an early start of 17:45 and a late finish of 18:15.
+Inspection at 51 Stanley Avenue- Eltham inspection window starts at 17:45 and Finishes at 18:15. It is inspected from 18:01 to 18:11. With Travel time of 5 mins. With an area duration of 0. And has an early start of 17:45 and a late finish of 18:15.
+Construct aspect of algorithm took 7607milliseconds to run. 
+Improve aspect of algorithm took 13444milliseconds to run.
+ Overall the algorithm took 21052milliseconds to run.

@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 24 Bamburgh Street- Jacana inspection window starts at 09:30 and Finishes at 09:50. It is inspected from 09:10 to 09:50. With Travel time of 3 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 09:50.
+Inspection at 140 Ripplebrook Drive- Broadmeadows inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 10:00 to 10:20. With Travel time of 4 mins. With an area duration of 0. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 22 Kinnaird Street- Jacana inspection window starts at 10:35 and Finishes at 10:45. It is inspected from 10:35 to 10:55. With Travel time of 4 mins. With an area duration of 0. And has an early start of 10:35 and a late finish of 10:45.
+After Improve inspections are: 
+Inspection at 24 Bamburgh Street- Jacana inspection window starts at 09:30 and Finishes at 09:50. It is inspected from 09:10 to 09:50. With Travel time of 3 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 09:50.
+Inspection at 140 Ripplebrook Drive- Broadmeadows inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 10:00 to 10:20. With Travel time of 4 mins. With an area duration of 0. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 22 Kinnaird Street- Jacana inspection window starts at 10:35 and Finishes at 10:45. It is inspected from 10:35 to 10:55. With Travel time of 4 mins. With an area duration of 0. And has an early start of 10:35 and a late finish of 10:45.
+Construct aspect of algorithm took 5791milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 15791milliseconds to run.

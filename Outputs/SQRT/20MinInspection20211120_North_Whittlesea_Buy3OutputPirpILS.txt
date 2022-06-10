@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 9 Zieria Drive- South Morang inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:14 to 09:54. With Travel time of 14 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 56 Roycroft Avenue- Mill Park inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 10:03 to 10:43. With Travel time of 9 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 78 Blossom Park Drive- Mill Park inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 11:20. With Travel time of 4 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 17 Brandybuck Lane- Mernda inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:36 to 12:16. With Travel time of 16 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 39 David Street- Lalor inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:37 to 13:17. With Travel time of 21 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+After Improve inspections are: 
+Inspection at 9 Zieria Drive- South Morang inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:14 to 09:54. With Travel time of 14 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 3 Bella Court- Thomastown inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 10:00 to 11:20. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 3/42 Tramoo Street- Lalor inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 12:05. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 17 Brandybuck Lane- Mernda inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:36 to 12:16. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 39 David Street- Lalor inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:37 to 13:17. With Travel time of 21 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Construct aspect of algorithm took 12123milliseconds to run. 
+Improve aspect of algorithm took 11427milliseconds to run.
+ Overall the algorithm took 23550milliseconds to run.

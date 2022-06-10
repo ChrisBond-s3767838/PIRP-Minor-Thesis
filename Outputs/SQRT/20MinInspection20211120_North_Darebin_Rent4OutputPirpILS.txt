@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 2/88 McFadzean Avenue- Reservoir inspection window starts at 11:45 and Finishes at 12:00. It is inspected from 11:25 to 12:05. With Travel time of 17 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:00.
+Inspection at 12 Pixel Circuit- Coburg North inspection window starts at 12:20 and Finishes at 12:35. It is inspected from 12:14 to 12:54. With Travel time of 9 mins. With an area duration of 20. And has an early start of 12:20 and a late finish of 12:35.
+After Improve inspections are: 
+Inspection at 2/88 McFadzean Avenue- Reservoir inspection window starts at 11:45 and Finishes at 12:00. It is inspected from 11:25 to 12:05. With Travel time of 17 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:00.
+Inspection at 12 Pixel Circuit- Coburg North inspection window starts at 12:20 and Finishes at 12:35. It is inspected from 12:14 to 12:54. With Travel time of 9 mins. With an area duration of 20. And has an early start of 12:20 and a late finish of 12:35.
+Construct aspect of algorithm took 4158milliseconds to run. 
+Improve aspect of algorithm took 10788milliseconds to run.
+ Overall the algorithm took 14946milliseconds to run.

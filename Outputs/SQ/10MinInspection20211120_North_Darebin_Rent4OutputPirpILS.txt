@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 3/6 McCracken Avenue- Northcote inspection window starts at 11:45 and Finishes at 12:00. It is inspected from 11:25 to 11:55. With Travel time of 2 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:00.
+Inspection at 8 Separation Street- Northcote inspection window starts at 12:05 and Finishes at 12:15. It is inspected from 12:05 to 12:15. With Travel time of 2 mins. With an area duration of 0. And has an early start of 12:05 and a late finish of 12:15.
+Inspection at 9/57 Gillies Street- Fairfield inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:21 to 12:51. With Travel time of 6 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 58d Leinster Grove- Thornbury inspection window starts at 13:00 and Finishes at 13:15. It is inspected from 13:02 to 13:32. With Travel time of 11 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:15.
+After Improve inspections are: 
+Inspection at 3/6 McCracken Avenue- Northcote inspection window starts at 11:45 and Finishes at 12:00. It is inspected from 11:25 to 11:55. With Travel time of 2 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:00.
+Inspection at 4 Normanby Avenue- Thornbury inspection window starts at 12:00 and Finishes at 12:15. It is inspected from 12:00 to 12:40. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:15.
+Inspection at 9/57 Gillies Street- Fairfield inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:21 to 12:51. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 58d Leinster Grove- Thornbury inspection window starts at 13:00 and Finishes at 13:15. It is inspected from 13:02 to 13:32. With Travel time of 11 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:15.
+Construct aspect of algorithm took 11098milliseconds to run. 
+Improve aspect of algorithm took 13887milliseconds to run.
+ Overall the algorithm took 24986milliseconds to run.

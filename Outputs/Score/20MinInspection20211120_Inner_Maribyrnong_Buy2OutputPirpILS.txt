@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 9/4 Saltriver Place- Footscray inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:20 to 10:50. With Travel time of 8 mins. With an area duration of 10. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 53 Mill Avenue- Yarraville inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:50 to 12:20. With Travel time of 12 mins. With an area duration of 10. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 2/27 Ormond Road- West Footscray inspection window starts at 13:45 and Finishes at 14:15. It is inspected from 13:45 to 14:05. With Travel time of 6 mins. With an area duration of 0. And has an early start of 13:45 and a late finish of 14:15.
+Inspection at 17 Eldridge Street- Footscray inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:20 to 14:50. With Travel time of 7 mins. With an area duration of 10. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 2/80 Moreland Street- Footscray inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:20. With Travel time of 7 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+After Improve inspections are: 
+Inspection at 9/4 Saltriver Place- Footscray inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:20 to 10:50. With Travel time of 8 mins. With an area duration of 10. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 16 Aliwal Street- West Footscray inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:50 to 14:05. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 2/27 Ormond Road- West Footscray inspection window starts at 13:45 and Finishes at 14:15. It is inspected from 13:45 to 14:05. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:45 and a late finish of 14:15.
+Inspection at 17 Eldridge Street- Footscray inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:20 to 14:50. With Travel time of 7 mins. With an area duration of 10. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 2/80 Moreland Street- Footscray inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:20. With Travel time of 7 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Construct aspect of algorithm took 9516milliseconds to run. 
+Improve aspect of algorithm took 11475milliseconds to run.
+ Overall the algorithm took 20991milliseconds to run.

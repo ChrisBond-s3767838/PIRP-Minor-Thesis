@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 2/10 Stanlake Street- Footscray inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:05 to 12:35. With Travel time of 9 mins. With an area duration of 10. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 7/37 Clarendon Parade- West Footscray inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:50 to 13:20. With Travel time of 8 mins. With an area duration of 10. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 11 Glamis Road- West Footscray inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:30 to 14:50. With Travel time of 2 mins. With an area duration of 0. And has an early start of 14:30 and a late finish of 15:00.
+After Improve inspections are: 
+Inspection at 2/10 Stanlake Street- Footscray inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:05 to 12:35. With Travel time of 9 mins. With an area duration of 10. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 7/37 Clarendon Parade- West Footscray inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:50 to 13:20. With Travel time of 8 mins. With an area duration of 10. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 11 Glamis Road- West Footscray inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:30 to 14:50. With Travel time of 2 mins. With an area duration of 0. And has an early start of 14:30 and a late finish of 15:00.
+Construct aspect of algorithm took 3378milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 13378milliseconds to run.

@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 4/7 Stafford Street- Herne Hill inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:40 to 10:10. With Travel time of 14 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 1B Heyers Road- Grovedale inspection window starts at 11:30 and Finishes at 12:45. It is inspected from 11:10 to 11:40. With Travel time of 15 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:45.
+Inspection at 970 Anakie Road- Lovely Banks inspection window starts at 12:20 and Finishes at 12:40. It is inspected from 12:00 to 12:30. With Travel time of 19 mins. With an area duration of 20. And has an early start of 12:20 and a late finish of 12:40.
+Inspection at 132 Thacker Street- Ocean Grove inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:10 to 13:40. With Travel time of 40 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 13:45.
+Inspection at 299 Boundary Road- Mount Duneed inspection window starts at 14:20 and Finishes at 14:30. It is inspected from 14:20 to 14:30. With Travel time of 24 mins. With an area duration of 0. And has an early start of 14:20 and a late finish of 14:30.
+After Improve inspections are: 
+Inspection at 4/7 Stafford Street- Herne Hill inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:40 to 10:10. With Travel time of 14 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 83 Cedar Road- Lara inspection window starts at 11:25 and Finishes at 11:40. It is inspected from 11:05 to 12:30. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:25 and a late finish of 11:40.
+Inspection at 970 Anakie Road- Lovely Banks inspection window starts at 12:20 and Finishes at 12:40. It is inspected from 12:00 to 12:30. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:20 and a late finish of 12:40.
+Inspection at 3/12-14 Karlovac Court- Bell Park inspection window starts at 12:35 and Finishes at 12:50. It is inspected from 12:30 to 14:30. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:35 and a late finish of 12:50.
+Inspection at 299 Boundary Road- Mount Duneed inspection window starts at 14:20 and Finishes at 14:30. It is inspected from 14:20 to 14:30. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:20 and a late finish of 14:30.
+Construct aspect of algorithm took 10142milliseconds to run. 
+Improve aspect of algorithm took 11943milliseconds to run.
+ Overall the algorithm took 22086milliseconds to run.

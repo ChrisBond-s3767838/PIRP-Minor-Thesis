@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 11 Williams Road- Mooroolbark inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 7 Norwich Close- Chirnside Park inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:20 to 17:50. With Travel time of 10 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 3/34 Orchard Street- Kilsyth inspection window starts at 17:30 and Finishes at 18:15. It is inspected from 18:04 to 18:34. With Travel time of 14 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:15.
+After Improve inspections are: 
+Inspection at 11 Williams Road- Mooroolbark inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 7 Norwich Close- Chirnside Park inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:20 to 17:50. With Travel time of 10 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 3/34 Orchard Street- Kilsyth inspection window starts at 17:30 and Finishes at 18:15. It is inspected from 18:04 to 18:34. With Travel time of 14 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:15.
+Construct aspect of algorithm took 5745milliseconds to run. 
+Improve aspect of algorithm took 10384milliseconds to run.
+ Overall the algorithm took 16130milliseconds to run.

@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 3/284 Dorcas Street- South Melbourne inspection window starts at 10:30 and Finishes at 10:40. It is inspected from 10:20 to 10:50. With Travel time of 3 mins. With an area duration of 10. And has an early start of 10:30 and a late finish of 10:40.
+Inspection at 403/38 Bank Street- South Melbourne inspection window starts at 11:10 and Finishes at 11:25. It is inspected from 11:10 to 11:30. With Travel time of 4 mins. With an area duration of 0. And has an early start of 11:10 and a late finish of 11:25.
+Inspection at 1004/138 Ferrars Street- South Melbourne inspection window starts at 14:45 and Finishes at 15:30. It is inspected from 14:45 to 15:05. With Travel time of 7 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:30.
+Inspection at 1004/8 Dorcas Street- South Melbourne inspection window starts at 16:15 and Finishes at 16:30. It is inspected from 16:15 to 16:35. With Travel time of 7 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at 3/284 Dorcas Street- South Melbourne inspection window starts at 10:30 and Finishes at 10:40. It is inspected from 10:20 to 10:50. With Travel time of 3 mins. With an area duration of 10. And has an early start of 10:30 and a late finish of 10:40.
+Inspection at 403/38 Bank Street- South Melbourne inspection window starts at 11:10 and Finishes at 11:25. It is inspected from 11:10 to 11:30. With Travel time of 4 mins. With an area duration of 0. And has an early start of 11:10 and a late finish of 11:25.
+Inspection at 1004/138 Ferrars Street- South Melbourne inspection window starts at 14:45 and Finishes at 15:30. It is inspected from 14:45 to 15:05. With Travel time of 7 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:30.
+Inspection at 1004/8 Dorcas Street- South Melbourne inspection window starts at 16:15 and Finishes at 16:30. It is inspected from 16:15 to 16:35. With Travel time of 7 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:30.
+Construct aspect of algorithm took 6495milliseconds to run. 
+Improve aspect of algorithm took 23259milliseconds to run.
+ Overall the algorithm took 29755milliseconds to run.

@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 4/85 Hutton Street- Thornbury inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:11 to 09:51. With Travel time of 11 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 18 Cheddar Road- Reservoir inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:10 to 10:50. With Travel time of 11 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 13 Rolland Street- Coburg inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:03 to 11:43. With Travel time of 13 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 23 Robusta Avenue- Bundoora inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:40 to 13:20. With Travel time of 22 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 205/49 Plenty Road- Preston inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:39 to 14:19. With Travel time of 19 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 4/85 Hutton Street- Thornbury inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:11 to 09:51. With Travel time of 11 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 18 Cheddar Road- Reservoir inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:10 to 10:50. With Travel time of 11 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 13 Rolland Street- Coburg inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:03 to 11:43. With Travel time of 13 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 23 Robusta Avenue- Bundoora inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:40 to 13:20. With Travel time of 22 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 205/49 Plenty Road- Preston inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:39 to 14:19. With Travel time of 19 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 9346milliseconds to run. 
+Improve aspect of algorithm took 18513milliseconds to run.
+ Overall the algorithm took 27860milliseconds to run.

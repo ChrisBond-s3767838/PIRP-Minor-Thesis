@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 408/64 Sahi Crescent- Roxburgh Park inspection window starts at 14:15 and Finishes at 14:35. It is inspected from 13:55 to 14:30. With Travel time of 13 mins. With an area duration of 20. And has an early start of 14:15 and a late finish of 14:35.
+Inspection at 26 SUMAR DRIVE- Craigieburn inspection window starts at 14:50 and Finishes at 15:05. It is inspected from 14:46 to 15:21. With Travel time of 16 mins. With an area duration of 20. And has an early start of 14:50 and a late finish of 15:05.
+Inspection at 9 KALES COURT- Kalkallo inspection window starts at 15:45 and Finishes at 16:00. It is inspected from 15:36 to 16:11. With Travel time of 15 mins. With an area duration of 20. And has an early start of 15:45 and a late finish of 16:00.
+After Improve inspections are: 
+Inspection at 408/64 Sahi Crescent- Roxburgh Park inspection window starts at 14:15 and Finishes at 14:35. It is inspected from 13:55 to 14:30. With Travel time of 13 mins. With an area duration of 20. And has an early start of 14:15 and a late finish of 14:35.
+Inspection at 26 SUMAR DRIVE- Craigieburn inspection window starts at 14:50 and Finishes at 15:05. It is inspected from 14:46 to 15:21. With Travel time of 16 mins. With an area duration of 20. And has an early start of 14:50 and a late finish of 15:05.
+Inspection at 9 KALES COURT- Kalkallo inspection window starts at 15:45 and Finishes at 16:00. It is inspected from 15:36 to 16:11. With Travel time of 15 mins. With an area duration of 20. And has an early start of 15:45 and a late finish of 16:00.
+Construct aspect of algorithm took 5120milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 15120milliseconds to run.

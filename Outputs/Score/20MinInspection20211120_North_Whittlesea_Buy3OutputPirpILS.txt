@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 2/28 Mulga Street- Thomastown inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:10 to 09:50. With Travel time of 4 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 56 Roycroft Avenue- Mill Park inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:58 to 10:38. With Travel time of 8 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 65 Fulham Way- Wollert inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:52 to 11:32. With Travel time of 14 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 18 Grattan Street- South Morang inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:40 to 13:20. With Travel time of 16 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+After Improve inspections are: 
+Inspection at 2/28 Mulga Street- Thomastown inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:10 to 09:50. With Travel time of 4 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 3 Bella Court- Thomastown inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 10:00 to 11:20. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 3/42 Tramoo Street- Lalor inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 13:20. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 18 Grattan Street- South Morang inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:40 to 13:20. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Construct aspect of algorithm took 8359milliseconds to run. 
+Improve aspect of algorithm took 15743milliseconds to run.
+ Overall the algorithm took 24102milliseconds to run.

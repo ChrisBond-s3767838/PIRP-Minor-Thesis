@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 14/49 Brougham Street- North Melbourne inspection window starts at 09:30 and Finishes at 09:45. It is inspected from 09:20 to 09:50. With Travel time of 5 mins. With an area duration of 10. And has an early start of 09:30 and a late finish of 09:45.
+Inspection at 908/65 Dudley Street- West Melbourne inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:20 to 10:50. With Travel time of 8 mins. With an area duration of 10. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 211/49-51 Rathdowne Street- Carlton inspection window starts at 12:00 and Finishes at 12:15. It is inspected from 11:50 to 12:20. With Travel time of 8 mins. With an area duration of 10. And has an early start of 12:00 and a late finish of 12:15.
+Inspection at 305/95 Berkeley Street- Carlton inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:30 to 13:50. With Travel time of 3 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 13:45.
+Inspection at 124 Faraday Street- Carlton inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:45 to 15:05. With Travel time of 5 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 1111/188 Macaulay Road- North Melbourne inspection window starts at 17:00 and Finishes at 17:15. It is inspected from 17:00 to 17:20. With Travel time of 12 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:15.
+After Improve inspections are: 
+Inspection at 14/49 Brougham Street- North Melbourne inspection window starts at 09:30 and Finishes at 09:45. It is inspected from 09:20 to 09:50. With Travel time of 5 mins. With an area duration of 10. And has an early start of 09:30 and a late finish of 09:45.
+Inspection at 908/65 Dudley Street- West Melbourne inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:20 to 10:50. With Travel time of 8 mins. With an area duration of 10. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 211/49-51 Rathdowne Street- Carlton inspection window starts at 12:00 and Finishes at 12:15. It is inspected from 11:50 to 12:20. With Travel time of 8 mins. With an area duration of 10. And has an early start of 12:00 and a late finish of 12:15.
+Inspection at 305/95 Berkeley Street- Carlton inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:30 to 13:50. With Travel time of 3 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 13:45.
+Inspection at 124 Faraday Street- Carlton inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:45 to 15:05. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 1111/188 Macaulay Road- North Melbourne inspection window starts at 17:00 and Finishes at 17:15. It is inspected from 17:00 to 17:20. With Travel time of 12 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:15.
+Construct aspect of algorithm took 11937milliseconds to run. 
+Improve aspect of algorithm took 31317milliseconds to run.
+ Overall the algorithm took 43255milliseconds to run.

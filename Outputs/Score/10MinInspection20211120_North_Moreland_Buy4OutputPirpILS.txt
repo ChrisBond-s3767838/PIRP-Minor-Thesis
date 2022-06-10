@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 3/4 Pottery Court- Brunswick inspection window starts at 09:15 and Finishes at 09:45. It is inspected from 09:14 to 09:44. With Travel time of 14 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:45.
+Inspection at 1 Collings Street- Brunswick West inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:10 to 10:40. With Travel time of 4 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 4/7 Sylvan Grove- Pascoe Vale inspection window starts at 10:45 and Finishes at 11:15. It is inspected from 10:50 to 11:20. With Travel time of 10 mins. With an area duration of 20. And has an early start of 10:45 and a late finish of 11:15.
+Inspection at C36/415 Brunswick Road- Brunswick West inspection window starts at 12:15 and Finishes at 12:30. It is inspected from 12:15 to 12:25. With Travel time of 10 mins. With an area duration of 0. And has an early start of 12:15 and a late finish of 12:30.
+Inspection at 211/358 Moreland Road- Brunswick West inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:31 to 12:41. With Travel time of 6 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 122 Mitchell Street- Brunswick East inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:47 to 13:17. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 1/67 Morell Street- Glenroy inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:32 to 14:02. With Travel time of 15 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 13:45.
+After Improve inspections are: 
+Inspection at 3/4 Pottery Court- Brunswick inspection window starts at 09:15 and Finishes at 09:45. It is inspected from 09:14 to 09:44. With Travel time of 14 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:45.
+Inspection at 1 Collings Street- Brunswick West inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:10 to 10:40. With Travel time of 4 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 1/9 Kitchener Road- Pascoe Vale inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 12:25. With Travel time of 0 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at C36/415 Brunswick Road- Brunswick West inspection window starts at 12:15 and Finishes at 12:30. It is inspected from 12:15 to 12:25. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:15 and a late finish of 12:30.
+Inspection at 211/358 Moreland Road- Brunswick West inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:31 to 12:41. With Travel time of 6 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 122 Mitchell Street- Brunswick East inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:47 to 13:17. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 1/67 Morell Street- Glenroy inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:32 to 14:02. With Travel time of 15 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 13:45.
+Construct aspect of algorithm took 18213milliseconds to run. 
+Improve aspect of algorithm took 33857milliseconds to run.
+ Overall the algorithm took 52071milliseconds to run.

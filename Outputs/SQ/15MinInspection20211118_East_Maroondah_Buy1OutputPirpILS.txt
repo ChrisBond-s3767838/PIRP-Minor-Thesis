@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 1/22 Diana Street- Croydon inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:15. With Travel time of 8 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 29 Orchard Grove- Heathmont inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:15. With Travel time of 10 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 3 Mcgivern Court- Bayswater North inspection window starts at 17:30 and Finishes at 18:30. It is inspected from 17:27 to 18:02. With Travel time of 12 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:30.
+After Improve inspections are: 
+Inspection at 1/22 Diana Street- Croydon inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:15. With Travel time of 8 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 29 Orchard Grove- Heathmont inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:15. With Travel time of 10 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 3 Mcgivern Court- Bayswater North inspection window starts at 17:30 and Finishes at 18:30. It is inspected from 17:27 to 18:02. With Travel time of 12 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:30.
+Construct aspect of algorithm took 5331milliseconds to run. 
+Improve aspect of algorithm took 17725milliseconds to run.
+ Overall the algorithm took 23057milliseconds to run.

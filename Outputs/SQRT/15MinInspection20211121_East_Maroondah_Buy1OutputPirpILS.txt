@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 176 Eastfield Road- Croydon South inspection window starts at 10:15 and Finishes at 10:45. It is inspected from 09:55 to 10:30. With Travel time of 7 mins. With an area duration of 20. And has an early start of 10:15 and a late finish of 10:45.
+Inspection at 8 Mimosa Court- Croydon South inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:30 to 11:45. With Travel time of 4 mins. With an area duration of 0. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 3 Mcgivern Court- Bayswater North inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:56 to 12:31. With Travel time of 11 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 20 Skyline Place- Heathmont inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:15. With Travel time of 13 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+After Improve inspections are: 
+Inspection at 176 Eastfield Road- Croydon South inspection window starts at 10:15 and Finishes at 10:45. It is inspected from 09:55 to 10:30. With Travel time of 7 mins. With an area duration of 20. And has an early start of 10:15 and a late finish of 10:45.
+Inspection at 8 Mimosa Court- Croydon South inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:30 to 11:45. With Travel time of 4 mins. With an area duration of 0. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 33 Velma Grove- Ringwood East inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:10 to 15:15. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 20 Skyline Place- Heathmont inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:15. With Travel time of 0 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Construct aspect of algorithm took 9121milliseconds to run. 
+Improve aspect of algorithm took 10346milliseconds to run.
+ Overall the algorithm took 19468milliseconds to run.

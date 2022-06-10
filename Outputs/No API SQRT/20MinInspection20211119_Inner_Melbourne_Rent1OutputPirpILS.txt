@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 316/51-67 Rathdowne Street- Carlton inspection window starts at 11:45 and Finishes at 12:00. It is inspected from 11:35 to 12:05. With Travel time of 2 mins. With an area duration of 10. And has an early start of 11:45 and a late finish of 12:00.
+Inspection at 202/211 Peel Street- North Melbourne inspection window starts at 13:15 and Finishes at 13:30. It is inspected from 13:05 to 13:35. With Travel time of 11 mins. With an area duration of 10. And has an early start of 13:15 and a late finish of 13:30.
+Inspection at 18/357-363 Rathdowne Street- Carlton inspection window starts at 14:30 and Finishes at 14:45. It is inspected from 14:30 to 14:50. With Travel time of 11 mins. With an area duration of 0. And has an early start of 14:30 and a late finish of 14:45.
+Inspection at 2/16 Fitzgibbon Street- Parkville inspection window starts at 15:30 and Finishes at 15:45. It is inspected from 15:20 to 15:50. With Travel time of 10 mins. With an area duration of 10. And has an early start of 15:30 and a late finish of 15:45.
+Inspection at 11/11 Haines Street- North Melbourne inspection window starts at 16:15 and Finishes at 16:20. It is inspected from 16:15 to 16:35. With Travel time of 6 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:20.
+After Improve inspections are: 
+Inspection at 316/51-67 Rathdowne Street- Carlton inspection window starts at 11:45 and Finishes at 12:00. It is inspected from 11:35 to 12:05. With Travel time of 2 mins. With an area duration of 10. And has an early start of 11:45 and a late finish of 12:00.
+Inspection at 309/151 Princes Street- Carlton inspection window starts at 13:45 and Finishes at 14:00. It is inspected from 13:45 to 14:50. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:45 and a late finish of 14:00.
+Inspection at 18/357-363 Rathdowne Street- Carlton inspection window starts at 14:30 and Finishes at 14:45. It is inspected from 14:30 to 14:50. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:30 and a late finish of 14:45.
+Inspection at 13/10-12 Lennon Street- Parkville inspection window starts at 15:20 and Finishes at 15:35. It is inspected from 15:20 to 16:35. With Travel time of 0 mins. With an area duration of 0. And has an early start of 15:20 and a late finish of 15:35.
+Inspection at 11/11 Haines Street- North Melbourne inspection window starts at 16:15 and Finishes at 16:20. It is inspected from 16:15 to 16:35. With Travel time of 0 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:20.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

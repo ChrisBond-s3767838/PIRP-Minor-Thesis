@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 104/17 Rex Avenue- Alphington inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 10:40 to 11:20. With Travel time of 12 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 6/10-12 Separation Street- Fairfield inspection window starts at 11:40 and Finishes at 11:55. It is inspected from 11:40 to 12:00. With Travel time of 3 mins. With an area duration of 0. And has an early start of 11:40 and a late finish of 11:55.
+After Improve inspections are: 
+Inspection at 104/17 Rex Avenue- Alphington inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 10:40 to 11:20. With Travel time of 12 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 6/10-12 Separation Street- Fairfield inspection window starts at 11:40 and Finishes at 11:55. It is inspected from 11:40 to 12:00. With Travel time of 3 mins. With an area duration of 0. And has an early start of 11:40 and a late finish of 11:55.
+Construct aspect of algorithm took 4398milliseconds to run. 
+Improve aspect of algorithm took 10110milliseconds to run.
+ Overall the algorithm took 14508milliseconds to run.

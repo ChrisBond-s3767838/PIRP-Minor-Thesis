@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 2/13-15 Paul Street- Croydon inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:20. With Travel time of 13 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 20 Trawalla Road- Croydon inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:30 to 17:50. With Travel time of 2 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 3 Mcgivern Court- Bayswater North inspection window starts at 17:30 and Finishes at 18:30. It is inspected from 17:54 to 18:34. With Travel time of 4 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:30.
+After Improve inspections are: 
+Inspection at 2/13-15 Paul Street- Croydon inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:20. With Travel time of 13 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 20 Trawalla Road- Croydon inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:30 to 17:50. With Travel time of 2 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 3 Mcgivern Court- Bayswater North inspection window starts at 17:30 and Finishes at 18:30. It is inspected from 17:54 to 18:34. With Travel time of 4 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:30.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 4/35 Hamilton Street- Craigieburn inspection window starts at 09:15 and Finishes at 09:30. It is inspected from 09:08 to 09:38. With Travel time of 8 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:30.
+Inspection at 8 Marsden Walk- Roxburgh Park inspection window starts at 10:00 and Finishes at 10:10. It is inspected from 09:49 to 10:19. With Travel time of 11 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:10.
+Inspection at 5 Bodmin Court- Craigieburn inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:30 to 10:40. With Travel time of 7 mins. With an area duration of 0. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 22 Somersby Road- Craigieburn inspection window starts at 10:40 and Finishes at 11:00. It is inspected from 10:48 to 10:58. With Travel time of 8 mins. With an area duration of 0. And has an early start of 10:40 and a late finish of 11:00.
+After Improve inspections are: 
+Inspection at 4/35 Hamilton Street- Craigieburn inspection window starts at 09:15 and Finishes at 09:30. It is inspected from 09:08 to 09:38. With Travel time of 8 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:30.
+Inspection at 8 Marsden Walk- Roxburgh Park inspection window starts at 10:00 and Finishes at 10:10. It is inspected from 09:49 to 10:19. With Travel time of 11 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:10.
+Inspection at 5 Bodmin Court- Craigieburn inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:30 to 10:40. With Travel time of 7 mins. With an area duration of 0. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 22 Somersby Road- Craigieburn inspection window starts at 10:40 and Finishes at 11:00. It is inspected from 10:48 to 10:58. With Travel time of 8 mins. With an area duration of 0. And has an early start of 10:40 and a late finish of 11:00.
+Construct aspect of algorithm took 9386milliseconds to run. 
+Improve aspect of algorithm took 11427milliseconds to run.
+ Overall the algorithm took 20813milliseconds to run.

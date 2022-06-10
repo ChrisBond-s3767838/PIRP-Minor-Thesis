@@ -1,0 +1,21 @@
+After construction the inspections are: 
+Inspection at 8 Rosemar Circuit- Viewbank inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:10 to 09:45. With Travel time of 10 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 30 Berrima Road- Rosanna inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:50 to 10:25. With Travel time of 5 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 1/36 Torbay Street- Macleod inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:40 to 11:15. With Travel time of 6 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 2/168 Hawdon Street- Heidelberg inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:21 to 11:56. With Travel time of 6 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 1 Jessop Street- Greensborough inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:07 to 12:42. With Travel time of 11 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 46 Fairlie Avenue- Macleod inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:15. With Travel time of 6 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 46 Jones Crescent- Rosanna inspection window starts at 13:15 and Finishes at 13:45. It is inspected from 13:18 to 13:33. With Travel time of 3 mins. With an area duration of 0. And has an early start of 13:15 and a late finish of 13:45.
+Inspection at 30 Hardy Terrace- Ivanhoe East inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:44 to 14:19. With Travel time of 11 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 8 Rosemar Circuit- Viewbank inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:10 to 09:45. With Travel time of 10 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 30 Berrima Road- Rosanna inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:50 to 10:25. With Travel time of 5 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 1/36 Torbay Street- Macleod inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:40 to 11:15. With Travel time of 6 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 2/168 Hawdon Street- Heidelberg inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:21 to 11:56. With Travel time of 6 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 305/109 Cape Street- Heidelberg inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 13:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 46 Fairlie Avenue- Macleod inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 46 Jones Crescent- Rosanna inspection window starts at 13:15 and Finishes at 13:45. It is inspected from 13:18 to 13:33. With Travel time of 3 mins. With an area duration of 0. And has an early start of 13:15 and a late finish of 13:45.
+Inspection at 30 Hardy Terrace- Ivanhoe East inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:44 to 14:19. With Travel time of 11 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 15505milliseconds to run. 
+Improve aspect of algorithm took 21128milliseconds to run.
+ Overall the algorithm took 36634milliseconds to run.

@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 52 Arbroath Road- Wantirna South inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:10. With Travel time of 2 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 53 Mercia Avenue- The Basin inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:20 to 17:50. With Travel time of 10 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 1442 Mountain Highway- The Basin inspection window starts at 17:45 and Finishes at 18:15. It is inspected from 17:51 to 18:01. With Travel time of 1 mins. With an area duration of 0. And has an early start of 17:45 and a late finish of 18:15.
+After Improve inspections are: 
+Inspection at 52 Arbroath Road- Wantirna South inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:10. With Travel time of 2 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 53 Mercia Avenue- The Basin inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:20 to 17:50. With Travel time of 10 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 1442 Mountain Highway- The Basin inspection window starts at 17:45 and Finishes at 18:15. It is inspected from 17:51 to 18:01. With Travel time of 1 mins. With an area duration of 0. And has an early start of 17:45 and a late finish of 18:15.
+Construct aspect of algorithm took 34milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10034milliseconds to run.

@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 2/11 Griffen Street- Hamlyn Heights inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:10 to 09:50. With Travel time of 7 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 67 Peter Street- Grovedale inspection window starts at 10:30 and Finishes at 10:50. It is inspected from 10:10 to 10:50. With Travel time of 16 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:50.
+Inspection at 58 Pethajohn Parade- Grovedale inspection window starts at 11:15 and Finishes at 11:45. It is inspected from 11:15 to 11:35. With Travel time of 3 mins. With an area duration of 0. And has an early start of 11:15 and a late finish of 11:45.
+Inspection at 23 Riatta Avenue- Grovedale inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:20. With Travel time of 4 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 17 Wandana Drive- Wandana Heights inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:40 to 13:20. With Travel time of 11 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 10/203-207 Little Malop Street- Geelong inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:34 to 14:14. With Travel time of 14 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 2/125 Autumn Street- Geelong West inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+After Improve inspections are: 
+Inspection at 2/11 Griffen Street- Hamlyn Heights inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:10 to 09:50. With Travel time of 7 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 3 McCurdy Road- Herne Hill inspection window starts at 10:15 and Finishes at 10:45. It is inspected from 10:15 to 11:35. With Travel time of 0 mins. With an area duration of 0. And has an early start of 10:15 and a late finish of 10:45.
+Inspection at 58 Pethajohn Parade- Grovedale inspection window starts at 11:15 and Finishes at 11:45. It is inspected from 11:15 to 11:35. With Travel time of 0 mins. With an area duration of 0. And has an early start of 11:15 and a late finish of 11:45.
+Inspection at 23 Riatta Avenue- Grovedale inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:20. With Travel time of 4 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 5 Carina Street- Lara inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:40 to 14:00. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 10/203-207 Little Malop Street- Geelong inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:34 to 14:14. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 2/125 Autumn Street- Geelong West inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Construct aspect of algorithm took 17397milliseconds to run. 
+Improve aspect of algorithm took 15678milliseconds to run.
+ Overall the algorithm took 33075milliseconds to run.

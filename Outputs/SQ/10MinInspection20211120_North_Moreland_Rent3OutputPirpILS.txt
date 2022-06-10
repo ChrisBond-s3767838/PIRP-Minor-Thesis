@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 113/37-43 Breese Street- Brunswick inspection window starts at 09:30 and Finishes at 09:55. It is inspected from 09:10 to 09:40. With Travel time of 2 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 09:55.
+Inspection at 3/262 Sussex Street- Pascoe Vale inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:53 to 10:23. With Travel time of 13 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 13/556 Moreland Road- Brunswick West inspection window starts at 11:20 and Finishes at 11:35. It is inspected from 11:00 to 11:30. With Travel time of 8 mins. With an area duration of 20. And has an early start of 11:20 and a late finish of 11:35.
+Inspection at 27/123 Victoria Street- Brunswick East inspection window starts at 11:45 and Finishes at 12:00. It is inspected from 11:41 to 12:11. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:00.
+Inspection at 27 Loongana Avenue- Glenroy inspection window starts at 14:50 and Finishes at 15:00. It is inspected from 14:30 to 15:00. With Travel time of 20 mins. With an area duration of 20. And has an early start of 14:50 and a late finish of 15:00.
+Inspection at 48 Victoria Street- Brunswick East inspection window starts at 17:30 and Finishes at 17:45. It is inspected from 17:30 to 17:40. With Travel time of 19 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 17:45.
+After Improve inspections are: 
+Inspection at 113/37-43 Breese Street- Brunswick inspection window starts at 09:30 and Finishes at 09:55. It is inspected from 09:10 to 09:40. With Travel time of 2 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 09:55.
+Inspection at 32/21 Station Road- Oak Park inspection window starts at 09:50 and Finishes at 10:05. It is inspected from 09:50 to 11:30. With Travel time of 0 mins. With an area duration of 20. And has an early start of 09:50 and a late finish of 10:05.
+Inspection at 13/556 Moreland Road- Brunswick West inspection window starts at 11:20 and Finishes at 11:35. It is inspected from 11:00 to 11:30. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:20 and a late finish of 11:35.
+Inspection at 4/451 Gaffney Street- Pascoe Vale inspection window starts at 12:00 and Finishes at 12:15. It is inspected from 12:00 to 15:00. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:15.
+Inspection at 27 Loongana Avenue- Glenroy inspection window starts at 14:50 and Finishes at 15:00. It is inspected from 14:30 to 15:00. With Travel time of 0 mins. With an area duration of 20. And has an early start of 14:50 and a late finish of 15:00.
+Inspection at 48 Victoria Street- Brunswick East inspection window starts at 17:30 and Finishes at 17:45. It is inspected from 17:30 to 17:40. With Travel time of 19 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 17:45.
+Construct aspect of algorithm took 15551milliseconds to run. 
+Improve aspect of algorithm took 31621milliseconds to run.
+ Overall the algorithm took 47173milliseconds to run.

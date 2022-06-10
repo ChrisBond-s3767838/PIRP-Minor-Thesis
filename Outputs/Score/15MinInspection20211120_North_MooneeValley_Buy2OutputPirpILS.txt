@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 2/63 Lincoln Road- Essendon inspection window starts at 09:15 and Finishes at 09:30. It is inspected from 09:02 to 09:37. With Travel time of 2 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:30.
+Inspection at 77 Napier Crescent- Essendon inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:30 to 10:45. With Travel time of 3 mins. With an area duration of 0. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 15/232 Ascot Vale Road- Ascot Vale inspection window starts at 11:30 and Finishes at 11:50. It is inspected from 11:10 to 11:45. With Travel time of 8 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 11:50.
+Inspection at 29 Newman Street- Niddrie inspection window starts at 11:50 and Finishes at 12:20. It is inspected from 11:56 to 12:31. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:50 and a late finish of 12:20.
+Inspection at 21 Flower Street- Essendon inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:40 to 12:55. With Travel time of 9 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 4a Hampton Road- Essendon West inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:45. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 2/63 Lincoln Road- Essendon inspection window starts at 09:15 and Finishes at 09:30. It is inspected from 09:02 to 09:37. With Travel time of 2 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:30.
+Inspection at 77 Napier Crescent- Essendon inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:30 to 10:45. With Travel time of 3 mins. With an area duration of 0. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 15/232 Ascot Vale Road- Ascot Vale inspection window starts at 11:30 and Finishes at 11:50. It is inspected from 11:10 to 11:45. With Travel time of 8 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 11:50.
+Inspection at 29 Newman Street- Niddrie inspection window starts at 11:50 and Finishes at 12:20. It is inspected from 11:56 to 12:31. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:50 and a late finish of 12:20.
+Inspection at 2 Stanford Street- Ascot Vale inspection window starts at 12:45 and Finishes at 13:15. It is inspected from 12:45 to 13:45. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:45 and a late finish of 13:15.
+Inspection at 4a Hampton Road- Essendon West inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:45. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 11271milliseconds to run. 
+Improve aspect of algorithm took 28467milliseconds to run.
+ Overall the algorithm took 39738milliseconds to run.

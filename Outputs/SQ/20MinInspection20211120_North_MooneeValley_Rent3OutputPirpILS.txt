@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 392 Buckley St- Essendon inspection window starts at 10:05 and Finishes at 10:15. It is inspected from 09:45 to 10:25. With Travel time of 5 mins. With an area duration of 20. And has an early start of 10:05 and a late finish of 10:15.
+Inspection at 32 Hamilton Street- Niddrie inspection window starts at 12:00 and Finishes at 12:15. It is inspected from 11:40 to 12:20. With Travel time of 4 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:15.
+Inspection at 9/76-80 Parer Road- Airport West inspection window starts at 13:10 and Finishes at 13:15. It is inspected from 12:50 to 13:30. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:10 and a late finish of 13:15.
+Inspection at 2013/18 Mt Alexander Road- Travancore inspection window starts at 13:50 and Finishes at 14:05. It is inspected from 13:42 to 14:22. With Travel time of 12 mins. With an area duration of 20. And has an early start of 13:50 and a late finish of 14:05.
+Inspection at 3/44 Kerferd Street- Essendon North inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 16:00 to 16:20. With Travel time of 11 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:15.
+After Improve inspections are: 
+Inspection at 392 Buckley St- Essendon inspection window starts at 10:05 and Finishes at 10:15. It is inspected from 09:45 to 10:25. With Travel time of 5 mins. With an area duration of 20. And has an early start of 10:05 and a late finish of 10:15.
+Inspection at 824/40 Hall Street- Moonee Ponds inspection window starts at 12:00 and Finishes at 12:15. It is inspected from 11:40 to 13:30. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:15.
+Inspection at 9/76-80 Parer Road- Airport West inspection window starts at 13:10 and Finishes at 13:15. It is inspected from 12:50 to 13:30. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:10 and a late finish of 13:15.
+Inspection at 2013/18 Mt Alexander Road- Travancore inspection window starts at 13:50 and Finishes at 14:05. It is inspected from 13:42 to 14:22. With Travel time of 12 mins. With an area duration of 20. And has an early start of 13:50 and a late finish of 14:05.
+Inspection at 3/44 Kerferd Street- Essendon North inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 16:00 to 16:20. With Travel time of 11 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:15.
+Construct aspect of algorithm took 6680milliseconds to run. 
+Improve aspect of algorithm took 10643milliseconds to run.
+ Overall the algorithm took 17324milliseconds to run.

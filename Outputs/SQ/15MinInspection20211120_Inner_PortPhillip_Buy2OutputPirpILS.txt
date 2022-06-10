@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 26/95 Rouse Street- Port Melbourne inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:20 to 11:45. With Travel time of 2 mins. With an area duration of 10. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 136 Princes Street- Port Melbourne inspection window starts at 15:30 and Finishes at 16:00. It is inspected from 15:30 to 15:45. With Travel time of 3 mins. With an area duration of 0. And has an early start of 15:30 and a late finish of 16:00.
+After Improve inspections are: 
+Inspection at 26/95 Rouse Street- Port Melbourne inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:20 to 11:45. With Travel time of 2 mins. With an area duration of 10. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 136 Princes Street- Port Melbourne inspection window starts at 15:30 and Finishes at 16:00. It is inspected from 15:30 to 15:45. With Travel time of 3 mins. With an area duration of 0. And has an early start of 15:30 and a late finish of 16:00.
+Construct aspect of algorithm took 4219milliseconds to run. 
+Improve aspect of algorithm took 13440milliseconds to run.
+ Overall the algorithm took 17659milliseconds to run.

@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 202A/59 Johnson Street- Reservoir inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 10:40 to 11:15. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 02/23 Princeton Terrace- Bundoora inspection window starts at 11:00 and Finishes at 12:00. It is inspected from 11:25 to 12:00. With Travel time of 10 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 12:00.
+After Improve inspections are: 
+Inspection at 202A/59 Johnson Street- Reservoir inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 10:40 to 11:15. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 02/23 Princeton Terrace- Bundoora inspection window starts at 11:00 and Finishes at 12:00. It is inspected from 11:25 to 12:00. With Travel time of 10 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 12:00.
+Construct aspect of algorithm took 4417milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 14417milliseconds to run.

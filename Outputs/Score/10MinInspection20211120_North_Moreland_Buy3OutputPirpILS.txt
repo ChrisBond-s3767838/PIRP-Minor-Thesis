@@ -1,0 +1,21 @@
+After construction the inspections are: 
+Inspection at 21 Heller Street- Brunswick inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of 7 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 2/12 Acacia Street- Glenroy inspection window starts at 10:35 and Finishes at 10:55. It is inspected from 10:24 to 10:54. With Travel time of 14 mins. With an area duration of 20. And has an early start of 10:35 and a late finish of 10:55.
+Inspection at 1/138 John Street- Glenroy inspection window starts at 11:15 and Finishes at 11:35. It is inspected from 11:15 to 11:25. With Travel time of 5 mins. With an area duration of 0. And has an early start of 11:15 and a late finish of 11:35.
+Inspection at 1/854 Pascoe Vale Road- Glenroy inspection window starts at 11:30 and Finishes at 11:45. It is inspected from 11:33 to 11:43. With Travel time of 8 mins. With an area duration of 0. And has an early start of 11:30 and a late finish of 11:45.
+Inspection at 243 Sussex Street- Pascoe Vale inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 11:55 to 12:25. With Travel time of 8 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 2/5 Murrell Street- Glenroy inspection window starts at 13:15 and Finishes at 13:45. It is inspected from 13:15 to 13:25. With Travel time of 8 mins. With an area duration of 0. And has an early start of 13:15 and a late finish of 13:45.
+Inspection at 756 Pascoe Vale Road- Glenroy inspection window starts at 13:30 and Finishes at 13:50. It is inspected from 13:30 to 13:40. With Travel time of 3 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 13:50.
+Inspection at 11 Shedden Street- Pascoe Vale inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:48 to 13:58. With Travel time of 8 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 21 Heller Street- Brunswick inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of 7 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 3/46 Murray Street- Brunswick West inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:10 to 11:25. With Travel time of 0 mins. With an area duration of 0. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 1/138 John Street- Glenroy inspection window starts at 11:15 and Finishes at 11:35. It is inspected from 11:15 to 11:25. With Travel time of 0 mins. With an area duration of 0. And has an early start of 11:15 and a late finish of 11:35.
+Inspection at 513/601 Sydney Road- Brunswick inspection window starts at 11:30 and Finishes at 11:45. It is inspected from 11:30 to 12:25. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 11:45.
+Inspection at 243 Sussex Street- Pascoe Vale inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 11:55 to 12:25. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 2/16 Liston Road- Glenroy inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:25 to 13:40. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 756 Pascoe Vale Road- Glenroy inspection window starts at 13:30 and Finishes at 13:50. It is inspected from 13:30 to 13:40. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 13:50.
+Inspection at 11 Shedden Street- Pascoe Vale inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:48 to 13:58. With Travel time of 8 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 20860milliseconds to run. 
+Improve aspect of algorithm took 33156milliseconds to run.
+ Overall the algorithm took 54017milliseconds to run.

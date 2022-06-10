@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 1/6 Josephine Grove- Preston inspection window starts at 10:10 and Finishes at 10:25. It is inspected from 09:50 to 10:20. With Travel time of 5 mins. With an area duration of 20. And has an early start of 10:10 and a late finish of 10:25.
+Inspection at 30 Elizabeth Street- Coburg inspection window starts at 10:25 and Finishes at 10:40. It is inspected from 10:28 to 10:58. With Travel time of 8 mins. With an area duration of 20. And has an early start of 10:25 and a late finish of 10:40.
+After Improve inspections are: 
+Inspection at 1/6 Josephine Grove- Preston inspection window starts at 10:10 and Finishes at 10:25. It is inspected from 09:50 to 10:20. With Travel time of 5 mins. With an area duration of 20. And has an early start of 10:10 and a late finish of 10:25.
+Inspection at 30 Elizabeth Street- Coburg inspection window starts at 10:25 and Finishes at 10:40. It is inspected from 10:28 to 10:58. With Travel time of 8 mins. With an area duration of 20. And has an early start of 10:25 and a late finish of 10:40.
+Construct aspect of algorithm took 6005milliseconds to run. 
+Improve aspect of algorithm took 10834milliseconds to run.
+ Overall the algorithm took 16839milliseconds to run.

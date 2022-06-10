@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 28 Kingswood Drive- Craigieburn inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:10 to 11:50. With Travel time of 15 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 1/335 Grand Blvd- Craigieburn inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 5 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 10 Bedford Way- Mickleham inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:31 to 13:51. With Travel time of 11 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 28 Kingswood Drive- Craigieburn inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:10 to 11:50. With Travel time of 15 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 1/335 Grand Blvd- Craigieburn inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 5 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 10 Bedford Way- Mickleham inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:31 to 13:51. With Travel time of 11 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 4467milliseconds to run. 
+Improve aspect of algorithm took 19010milliseconds to run.
+ Overall the algorithm took 23478milliseconds to run.

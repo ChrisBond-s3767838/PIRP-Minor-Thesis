@@ -1,0 +1,20 @@
+After construction the inspections are: 
+Inspection at 7/30 Davis Avenue- South Yarra inspection window starts at 09:30 and Finishes at 09:45. It is inspected from 09:20 to 09:50. With Travel time of 6 mins. With an area duration of 10. And has an early start of 09:30 and a late finish of 09:45.
+Inspection at 103/657 Chapel Street- South Yarra inspection window starts at 10:15 and Finishes at 10:30. It is inspected from 10:15 to 10:35. With Travel time of 3 mins. With an area duration of 0. And has an early start of 10:15 and a late finish of 10:30.
+Inspection at 701/4-10 Daly Street- South Yarra inspection window starts at 11:35 and Finishes at 11:50. It is inspected from 11:35 to 11:55. With Travel time of 1 mins. With an area duration of 0. And has an early start of 11:35 and a late finish of 11:50.
+Inspection at 15/17-21 Tivoli Place- South Yarra inspection window starts at 12:15 and Finishes at 12:30. It is inspected from 12:15 to 12:35. With Travel time of 5 mins. With an area duration of 0. And has an early start of 12:15 and a late finish of 12:30.
+Inspection at 6/122 Caroline Street- South Yarra inspection window starts at 13:00 and Finishes at 13:15. It is inspected from 13:00 to 13:20. With Travel time of 2 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:15.
+Inspection at 7/55 Avoca Street- South Yarra inspection window starts at 14:40 and Finishes at 14:55. It is inspected from 14:40 to 15:00. With Travel time of 1 mins. With an area duration of 0. And has an early start of 14:40 and a late finish of 14:55.
+Inspection at 1901/35 Malcolm Street- South Yarra inspection window starts at 15:35 and Finishes at 15:50. It is inspected from 15:35 to 15:55. With Travel time of 4 mins. With an area duration of 0. And has an early start of 15:35 and a late finish of 15:50.
+Inspection at 1002/10 Claremont Street- South Yarra inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:20. With Travel time of 3 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at 7/30 Davis Avenue- South Yarra inspection window starts at 09:30 and Finishes at 09:45. It is inspected from 09:20 to 09:50. With Travel time of 6 mins. With an area duration of 10. And has an early start of 09:30 and a late finish of 09:45.
+Inspection at 22/26 Toorak Road West- South Yarra inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 10:00 to 11:55. With Travel time of 0 mins. With an area duration of 0. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 8/4A Gordon Grove- South Yarra inspection window starts at 12:50 and Finishes at 13:00. It is inspected from 12:50 to 14:05. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:50 and a late finish of 13:00.
+Inspection at 33/43 Caroline Street- South Yarra inspection window starts at 13:45 and Finishes at 14:00. It is inspected from 13:45 to 15:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:45 and a late finish of 14:00.
+Inspection at 7/55 Avoca Street- South Yarra inspection window starts at 14:40 and Finishes at 14:55. It is inspected from 14:40 to 15:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:40 and a late finish of 14:55.
+Inspection at 1901/35 Malcolm Street- South Yarra inspection window starts at 15:35 and Finishes at 15:50. It is inspected from 15:35 to 15:55. With Travel time of 4 mins. With an area duration of 0. And has an early start of 15:35 and a late finish of 15:50.
+Inspection at 1002/10 Claremont Street- South Yarra inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:20. With Travel time of 3 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+Construct aspect of algorithm took 12268milliseconds to run. 
+Improve aspect of algorithm took 29016milliseconds to run.
+ Overall the algorithm took 41285milliseconds to run.

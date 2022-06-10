@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 34 Boyle Street- Forest Hill inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:40 to 14:20. With Travel time of 2 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 17 McDowall Street- Mitcham inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 15:40 to 16:20. With Travel time of 5 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 4 Windouran Drive- Mitcham inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:00 to 17:20. With Travel time of 1 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 1 Plymouth Court- Nunawading inspection window starts at 17:00 and Finishes at 17:45. It is inspected from 17:22 to 17:42. With Travel time of 2 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:45.
+After Improve inspections are: 
+Inspection at 34 Boyle Street- Forest Hill inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:40 to 14:20. With Travel time of 2 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 17 McDowall Street- Mitcham inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 15:40 to 16:20. With Travel time of 5 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 4 Windouran Drive- Mitcham inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:00 to 17:20. With Travel time of 1 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 1 Plymouth Court- Nunawading inspection window starts at 17:00 and Finishes at 17:45. It is inspected from 17:22 to 17:42. With Travel time of 2 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:45.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

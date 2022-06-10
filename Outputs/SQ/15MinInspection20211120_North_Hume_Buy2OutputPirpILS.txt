@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 28 Kingswood Drive- Craigieburn inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:10 to 11:45. With Travel time of 15 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 11 Fame Way- Craigieburn inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:15. With Travel time of 9 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 6 Shearer Place- Roxburgh Park inspection window starts at 13:15 and Finishes at 13:45. It is inspected from 13:23 to 13:58. With Travel time of 8 mins. With an area duration of 20. And has an early start of 13:15 and a late finish of 13:45.
+After Improve inspections are: 
+Inspection at 28 Kingswood Drive- Craigieburn inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:10 to 11:45. With Travel time of 15 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 1/335 Grand Blvd- Craigieburn inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:50. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 6 Shearer Place- Roxburgh Park inspection window starts at 13:15 and Finishes at 13:45. It is inspected from 13:23 to 13:58. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:15 and a late finish of 13:45.
+Construct aspect of algorithm took 5544milliseconds to run. 
+Improve aspect of algorithm took 20278milliseconds to run.
+ Overall the algorithm took 25823milliseconds to run.

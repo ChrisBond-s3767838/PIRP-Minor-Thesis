@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 1/68 Blair Street- Coburg inspection window starts at 09:20 and Finishes at 09:45. It is inspected from 09:09 to 09:49. With Travel time of 9 mins. With an area duration of 20. And has an early start of 09:20 and a late finish of 09:45.
+Inspection at 2/21 Queen Street- Coburg inspection window starts at 10:05 and Finishes at 10:20. It is inspected from 10:05 to 10:25. With Travel time of 5 mins. With an area duration of 0. And has an early start of 10:05 and a late finish of 10:20.
+After Improve inspections are: 
+Inspection at 1/68 Blair Street- Coburg inspection window starts at 09:20 and Finishes at 09:45. It is inspected from 09:09 to 09:49. With Travel time of 9 mins. With an area duration of 20. And has an early start of 09:20 and a late finish of 09:45.
+Inspection at 2/21 Queen Street- Coburg inspection window starts at 10:05 and Finishes at 10:20. It is inspected from 10:05 to 10:25. With Travel time of 5 mins. With an area duration of 0. And has an early start of 10:05 and a late finish of 10:20.
+Construct aspect of algorithm took 5778milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 15778milliseconds to run.

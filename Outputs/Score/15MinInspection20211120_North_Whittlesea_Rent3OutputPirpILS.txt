@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 19 Savannah Crescent- Epping inspection window starts at 10:15 and Finishes at 10:30. It is inspected from 09:55 to 10:30. With Travel time of 19 mins. With an area duration of 20. And has an early start of 10:15 and a late finish of 10:30.
+Inspection at 50 Hurlstone Crescent- Mill Park inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:10 to 12:45. With Travel time of 8 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 6 Nandina Court- Mill Park inspection window starts at 13:00 and Finishes at 13:15. It is inspected from 13:00 to 13:15. With Travel time of 7 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:15.
+Inspection at 34 Merino Drive- Mernda inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:10 to 16:45. With Travel time of 19 mins. With an area duration of 20. And has an early start of 16:30 and a late finish of 16:45.
+After Improve inspections are: 
+Inspection at 19 Savannah Crescent- Epping inspection window starts at 10:15 and Finishes at 10:30. It is inspected from 09:55 to 10:30. With Travel time of 19 mins. With an area duration of 20. And has an early start of 10:15 and a late finish of 10:30.
+Inspection at 50 Hurlstone Crescent- Mill Park inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:10 to 12:45. With Travel time of 8 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 6 Nandina Court- Mill Park inspection window starts at 13:00 and Finishes at 13:15. It is inspected from 13:00 to 13:15. With Travel time of 7 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:15.
+Inspection at 34 Merino Drive- Mernda inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:10 to 16:45. With Travel time of 19 mins. With an area duration of 20. And has an early start of 16:30 and a late finish of 16:45.
+Construct aspect of algorithm took 8323milliseconds to run. 
+Improve aspect of algorithm took 11005milliseconds to run.
+ Overall the algorithm took 19328milliseconds to run.

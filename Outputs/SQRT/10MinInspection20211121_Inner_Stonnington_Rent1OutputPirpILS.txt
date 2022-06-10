@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 17/5A Powell Street- South Yarra inspection window starts at 11:50 and Finishes at 12:05. It is inspected from 11:40 to 12:00. With Travel time of 3 mins. With an area duration of 10. And has an early start of 11:50 and a late finish of 12:05.
+Inspection at 6/20 Surrey Road- South Yarra inspection window starts at 15:00 and Finishes at 15:15. It is inspected from 15:00 to 15:10. With Travel time of 4 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:15.
+After Improve inspections are: 
+Inspection at 17/5A Powell Street- South Yarra inspection window starts at 11:50 and Finishes at 12:05. It is inspected from 11:40 to 12:00. With Travel time of 3 mins. With an area duration of 10. And has an early start of 11:50 and a late finish of 12:05.
+Inspection at 6/20 Surrey Road- South Yarra inspection window starts at 15:00 and Finishes at 15:15. It is inspected from 15:00 to 15:10. With Travel time of 4 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:15.
+Construct aspect of algorithm took 5512milliseconds to run. 
+Improve aspect of algorithm took 10073milliseconds to run.
+ Overall the algorithm took 15585milliseconds to run.

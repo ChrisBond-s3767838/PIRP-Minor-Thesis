@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 2/37 Boldrewood Parade- Reservoir inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:20. With Travel time of 1 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 18 Cheddar Road- Reservoir inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:30 to 10:50. With Travel time of 3 mins. With an area duration of 0. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 13 Rolland Street- Coburg inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:03 to 11:43. With Travel time of 13 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 23 Autumn Street- Coburg inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:20. With Travel time of 3 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 8 Glanfield Street- Northcote inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:38 to 13:18. With Travel time of 18 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 2/45-47 Collins Street- Thornbury inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:24 to 14:04. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 2/37 Boldrewood Parade- Reservoir inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:20. With Travel time of 1 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 18 Cheddar Road- Reservoir inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:30 to 10:50. With Travel time of 3 mins. With an area duration of 0. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 13 Rolland Street- Coburg inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:03 to 11:43. With Travel time of 13 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 23 Autumn Street- Coburg inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:20. With Travel time of 3 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 8 Glanfield Street- Northcote inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:38 to 13:18. With Travel time of 18 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 2/45-47 Collins Street- Thornbury inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:24 to 14:04. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 12966milliseconds to run. 
+Improve aspect of algorithm took 23698milliseconds to run.
+ Overall the algorithm took 36665milliseconds to run.

@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 214A Greenhills Road- Bundoora inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 10:40 to 11:10. With Travel time of 14 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 02/23 Princeton Terrace- Bundoora inspection window starts at 11:00 and Finishes at 12:00. It is inspected from 11:19 to 11:29. With Travel time of 9 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 12:00.
+Inspection at 2/37 Barry Street- Reservoir inspection window starts at 11:45 and Finishes at 12:00. It is inspected from 11:43 to 12:13. With Travel time of 14 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:00.
+After Improve inspections are: 
+Inspection at 214A Greenhills Road- Bundoora inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 10:40 to 11:10. With Travel time of 14 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 02/23 Princeton Terrace- Bundoora inspection window starts at 11:00 and Finishes at 12:00. It is inspected from 11:19 to 11:29. With Travel time of 9 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 12:00.
+Inspection at 2/37 Barry Street- Reservoir inspection window starts at 11:45 and Finishes at 12:00. It is inspected from 11:43 to 12:13. With Travel time of 14 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:00.
+Construct aspect of algorithm took 8235milliseconds to run. 
+Improve aspect of algorithm took 14616milliseconds to run.
+ Overall the algorithm took 22852milliseconds to run.

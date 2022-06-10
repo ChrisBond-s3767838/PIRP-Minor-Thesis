@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 824/40 Hall Street- Moonee Ponds inspection window starts at 12:00 and Finishes at 12:15. It is inspected from 11:40 to 12:15. With Travel time of 13 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:15.
+Inspection at 3/44 Kerferd Street- Essendon North inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 15:40 to 16:15. With Travel time of 10 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:15.
+After Improve inspections are: 
+Inspection at 824/40 Hall Street- Moonee Ponds inspection window starts at 12:00 and Finishes at 12:15. It is inspected from 11:40 to 12:15. With Travel time of 13 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:15.
+Inspection at 3/44 Kerferd Street- Essendon North inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 15:40 to 16:15. With Travel time of 10 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:15.
+Construct aspect of algorithm took 2770milliseconds to run. 
+Improve aspect of algorithm took 10404milliseconds to run.
+ Overall the algorithm took 13174milliseconds to run.

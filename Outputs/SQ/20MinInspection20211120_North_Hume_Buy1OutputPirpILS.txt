@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 22 Greenock Court- Greenvale inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:40 to 11:20. With Travel time of 20 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 5 Birch Court- Campbellfield inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:37 to 12:17. With Travel time of 17 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 1/59 Everglade Cres- Roxburgh Park inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:40 to 13:20. With Travel time of 14 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 80 Sandover Drive- Roxburgh Park inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:50. With Travel time of 3 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 22 Greenock Court- Greenvale inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:40 to 11:20. With Travel time of 20 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 5 Birch Court- Campbellfield inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:37 to 12:17. With Travel time of 17 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 9 Redcliffs Crescent- Roxburgh Park inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:30 to 13:50. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 80 Sandover Drive- Roxburgh Park inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:50. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 6985milliseconds to run. 
+Improve aspect of algorithm took 12738milliseconds to run.
+ Overall the algorithm took 19723milliseconds to run.

@@ -1,0 +1,14 @@
+After construction the inspections are: 
+Inspection at 51 Alpine Way- Kilsyth inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:10 to 14:40. With Travel time of 3 mins. With an area duration of 20. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 2/14 Newman Road- Mooroolbark inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 15:40 to 16:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 3 Thorpe Street- Lilydale inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:10. With Travel time of 7 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 89 Birmingham Road- Mount Evelyn inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:13 to 17:43. With Travel time of 3 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 3/34 Orchard Street- Kilsyth inspection window starts at 17:30 and Finishes at 18:15. It is inspected from 17:52 to 18:02. With Travel time of 9 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:15.
+After Improve inspections are: 
+Inspection at 51 Alpine Way- Kilsyth inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:10 to 14:40. With Travel time of 3 mins. With an area duration of 20. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 2/14 Newman Road- Mooroolbark inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 15:40 to 16:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 11 Williams Road- Mooroolbark inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:00 to 17:40. With Travel time of 0 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 3/34 Orchard Street- Kilsyth inspection window starts at 17:30 and Finishes at 18:15. It is inspected from 17:52 to 18:02. With Travel time of 0 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:15.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

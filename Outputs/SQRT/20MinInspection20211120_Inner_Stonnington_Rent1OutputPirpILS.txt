@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 1/3 Hawksburn Road- South Yarra inspection window starts at 09:30 and Finishes at 09:45. It is inspected from 09:20 to 09:50. With Travel time of 1 mins. With an area duration of 10. And has an early start of 09:30 and a late finish of 09:45.
+Inspection at 8a Surrey Rd- South Yarra inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 10:00 to 10:20. With Travel time of 3 mins. With an area duration of 0. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 18 Cromwell Place- South Yarra inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:30 to 10:50. With Travel time of 1 mins. With an area duration of 0. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 701/4-10 Daly Street- South Yarra inspection window starts at 11:35 and Finishes at 11:50. It is inspected from 11:35 to 11:55. With Travel time of 5 mins. With an area duration of 0. And has an early start of 11:35 and a late finish of 11:50.
+Inspection at 12/2 Davidson Street- South Yarra inspection window starts at 12:30 and Finishes at 12:40. It is inspected from 12:30 to 12:50. With Travel time of 4 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 12:40.
+Inspection at 203/26 Wilson Street- South Yarra inspection window starts at 13:25 and Finishes at 13:40. It is inspected from 13:25 to 13:45. With Travel time of 8 mins. With an area duration of 0. And has an early start of 13:25 and a late finish of 13:40.
+Inspection at 4/8 Bond Street- South Yarra inspection window starts at 14:00 and Finishes at 14:15. It is inspected from 14:00 to 14:20. With Travel time of 3 mins. With an area duration of 0. And has an early start of 14:00 and a late finish of 14:15.
+Inspection at 801/649 Chapel Street- South Yarra inspection window starts at 15:55 and Finishes at 16:05. It is inspected from 15:55 to 16:15. With Travel time of 2 mins. With an area duration of 0. And has an early start of 15:55 and a late finish of 16:05.
+After Improve inspections are: 
+Inspection at 1/3 Hawksburn Road- South Yarra inspection window starts at 09:30 and Finishes at 09:45. It is inspected from 09:20 to 09:50. With Travel time of 1 mins. With an area duration of 10. And has an early start of 09:30 and a late finish of 09:45.
+Inspection at 23/9-11 Barnsbury Road- South Yarra inspection window starts at 10:15 and Finishes at 10:30. It is inspected from 10:15 to 13:10. With Travel time of 0 mins. With an area duration of 0. And has an early start of 10:15 and a late finish of 10:30.
+Inspection at 8/4A Gordon Grove- South Yarra inspection window starts at 12:50 and Finishes at 13:00. It is inspected from 12:50 to 13:45. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:50 and a late finish of 13:00.
+Inspection at 203/26 Wilson Street- South Yarra inspection window starts at 13:25 and Finishes at 13:40. It is inspected from 13:25 to 13:45. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:25 and a late finish of 13:40.
+Inspection at 7/55 Avoca Street- South Yarra inspection window starts at 14:40 and Finishes at 14:55. It is inspected from 14:40 to 16:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:40 and a late finish of 14:55.
+Inspection at 801/649 Chapel Street- South Yarra inspection window starts at 15:55 and Finishes at 16:05. It is inspected from 15:55 to 16:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 15:55 and a late finish of 16:05.
+Construct aspect of algorithm took 18019milliseconds to run. 
+Improve aspect of algorithm took 34865milliseconds to run.
+ Overall the algorithm took 52884milliseconds to run.

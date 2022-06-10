@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 5412/160 Victoria Street- Melbourne inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:50 to 12:20. With Travel time of 7 mins. With an area duration of 10. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 509/628 Flinders Street- Docklands inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:20 to 16:50. With Travel time of 11 mins. With an area duration of 10. And has an early start of 16:30 and a late finish of 16:45.
+Inspection at 305B/399 Bourke Street- Melbourne inspection window starts at 17:30 and Finishes at 17:45. It is inspected from 17:20 to 17:50. With Travel time of 6 mins. With an area duration of 10. And has an early start of 17:30 and a late finish of 17:45.
+After Improve inspections are: 
+Inspection at 5412/160 Victoria Street- Melbourne inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:50 to 12:20. With Travel time of 7 mins. With an area duration of 10. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 509/628 Flinders Street- Docklands inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:20 to 16:50. With Travel time of 11 mins. With an area duration of 10. And has an early start of 16:30 and a late finish of 16:45.
+Inspection at 305B/399 Bourke Street- Melbourne inspection window starts at 17:30 and Finishes at 17:45. It is inspected from 17:20 to 17:50. With Travel time of 6 mins. With an area duration of 10. And has an early start of 17:30 and a late finish of 17:45.
+Construct aspect of algorithm took 4876milliseconds to run. 
+Improve aspect of algorithm took 10329milliseconds to run.
+ Overall the algorithm took 15206milliseconds to run.

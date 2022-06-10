@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 5 Eton Court- Heidelberg inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:20. With Travel time of 4 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 18 Sugar Gum Boulevard- Greensborough inspection window starts at 11:00 and Finishes at 12:00. It is inspected from 10:40 to 11:20. With Travel time of 15 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 12:00.
+Inspection at 117A Studley Road- Eaglemont inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:45 to 12:05. With Travel time of 17 mins. With an area duration of 0. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 75 Mountain View Road- Montmorency inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:21 to 13:01. With Travel time of 16 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 2/32 Sellars Street- Watsonia North inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:08 to 13:48. With Travel time of 7 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+After Improve inspections are: 
+Inspection at 5 Eton Court- Heidelberg inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:20. With Travel time of 4 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 2/28 Stradbroke Avenue- Heidelberg inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:30 to 12:05. With Travel time of 0 mins. With an area duration of 0. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 117A Studley Road- Eaglemont inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:45 to 12:05. With Travel time of 0 mins. With an area duration of 0. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 75 Mountain View Road- Montmorency inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:21 to 13:01. With Travel time of 16 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 2/32 Sellars Street- Watsonia North inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:08 to 13:48. With Travel time of 7 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Construct aspect of algorithm took 9710milliseconds to run. 
+Improve aspect of algorithm took 13913milliseconds to run.
+ Overall the algorithm took 23623milliseconds to run.

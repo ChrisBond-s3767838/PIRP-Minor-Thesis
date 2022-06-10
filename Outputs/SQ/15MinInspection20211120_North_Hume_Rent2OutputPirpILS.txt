@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 2/325 Camp Road- Broadmeadows inspection window starts at 10:50 and Finishes at 11:00. It is inspected from 10:30 to 11:05. With Travel time of 19 mins. With an area duration of 20. And has an early start of 10:50 and a late finish of 11:00.
+Inspection at 3/6 London Road- Broadmeadows inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:30 to 11:45. With Travel time of 1 mins. With an area duration of 0. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 8 Greensted Way- Roxburgh Park inspection window starts at 12:15 and Finishes at 12:30. It is inspected from 11:56 to 12:31. With Travel time of 11 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:30.
+Inspection at 47 Alma Street- Craigieburn inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:40 to 13:15. With Travel time of 8 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 37 Channel Walk- Craigieburn inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:30 to 13:45. With Travel time of 7 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 13:45.
+After Improve inspections are: 
+Inspection at 2/325 Camp Road- Broadmeadows inspection window starts at 10:50 and Finishes at 11:00. It is inspected from 10:30 to 11:05. With Travel time of 19 mins. With an area duration of 20. And has an early start of 10:50 and a late finish of 11:00.
+Inspection at 4/1312 Sydney Road- Fawkner inspection window starts at 11:10 and Finishes at 11:20. It is inspected from 11:05 to 12:30. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:10 and a late finish of 11:20.
+Inspection at 8 Greensted Way- Roxburgh Park inspection window starts at 12:15 and Finishes at 12:30. It is inspected from 11:56 to 12:31. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:30.
+Inspection at 47 Alma Street- Craigieburn inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:40 to 13:15. With Travel time of 8 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 37 Channel Walk- Craigieburn inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:30 to 13:45. With Travel time of 7 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 13:45.
+Construct aspect of algorithm took 11453milliseconds to run. 
+Improve aspect of algorithm took 11322milliseconds to run.
+ Overall the algorithm took 22775milliseconds to run.

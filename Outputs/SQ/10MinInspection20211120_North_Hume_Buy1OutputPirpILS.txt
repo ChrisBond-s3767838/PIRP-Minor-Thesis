@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 21 Motherwell Avenue- Greenvale inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:10 to 10:40. With Travel time of 22 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 8/26 Hillcrest Drive- Westmeadows inspection window starts at 10:45 and Finishes at 11:15. It is inspected from 10:47 to 11:17. With Travel time of 7 mins. With an area duration of 20. And has an early start of 10:45 and a late finish of 11:15.
+Inspection at 203 Dallas Drive- Dallas inspection window starts at 11:30 and Finishes at 11:50. It is inspected from 11:29 to 11:59. With Travel time of 12 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 11:50.
+Inspection at 76 Rokewood Crescent- Meadow Heights inspection window starts at 12:00 and Finishes at 12:20. It is inspected from 12:05 to 12:35. With Travel time of 6 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:20.
+Inspection at 9 Redcliffs Crescent- Roxburgh Park inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:46 to 13:16. With Travel time of 11 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 5 Bird Close- Craigieburn inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:24 to 13:54. With Travel time of 8 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 21 Motherwell Avenue- Greenvale inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:10 to 10:40. With Travel time of 22 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 18 Positano Grove- Greenvale inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 11:40. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 203 Dallas Drive- Dallas inspection window starts at 11:30 and Finishes at 11:50. It is inspected from 11:29 to 11:59. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 11:50.
+Inspection at 5 Regatta Drive- Craigieburn inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:15 to 12:55. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 9 Redcliffs Crescent- Roxburgh Park inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:46 to 13:16. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 5 Bird Close- Craigieburn inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:24 to 13:54. With Travel time of 8 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 17385milliseconds to run. 
+Improve aspect of algorithm took 48636milliseconds to run.
+ Overall the algorithm took 66022milliseconds to run.

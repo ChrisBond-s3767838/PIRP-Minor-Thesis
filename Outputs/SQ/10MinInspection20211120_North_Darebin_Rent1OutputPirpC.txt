@@ -1,0 +1,8 @@
+After construction the inspections are: 
+After InsertC the inspections are: 
+After Neighbourhood Replace the inspections are: 
+After Improve inspections are: 
+Construct aspect of algorithm took 575milliseconds to run. 
+Improve aspect of algorithm took 0milliseconds to run.
+ Neighbourhood Replace aspect of algorithm took 0milliseconds to run. 
+Overall the algorithm took 575milliseconds to run.

@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 9 Barry Road- Burwood East inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 15:40 to 16:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 8 Alwyn Street- Nunawading inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:10. With Travel time of 9 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 4 Windouran Drive- Mitcham inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:12 to 17:22. With Travel time of 2 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 7 Felicia Grove- Forest Hill inspection window starts at 17:00 and Finishes at 18:00. It is inspected from 17:27 to 17:57. With Travel time of 5 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 18:00.
+After Improve inspections are: 
+Inspection at 9 Barry Road- Burwood East inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 15:40 to 16:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 8 Alwyn Street- Nunawading inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:10. With Travel time of 9 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 4 Windouran Drive- Mitcham inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:12 to 17:22. With Travel time of 2 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 7 Felicia Grove- Forest Hill inspection window starts at 17:00 and Finishes at 18:00. It is inspected from 17:27 to 17:57. With Travel time of 5 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 18:00.
+Construct aspect of algorithm took 9855milliseconds to run. 
+Improve aspect of algorithm took 18633milliseconds to run.
+ Overall the algorithm took 28488milliseconds to run.

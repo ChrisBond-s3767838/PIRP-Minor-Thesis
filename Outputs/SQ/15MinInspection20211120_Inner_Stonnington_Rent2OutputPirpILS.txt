@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 11/14 Tivoli Road- South Yarra inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:50 to 10:15. With Travel time of 2 mins. With an area duration of 10. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 5/7 Cromwell Road- South Yarra inspection window starts at 12:00 and Finishes at 12:20. It is inspected from 12:00 to 12:15. With Travel time of 2 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:20.
+Inspection at 3/278 Domain Road- South Yarra inspection window starts at 12:40 and Finishes at 12:55. It is inspected from 12:40 to 12:55. With Travel time of 6 mins. With an area duration of 0. And has an early start of 12:40 and a late finish of 12:55.
+Inspection at 3D/381 Toorak Road- South Yarra inspection window starts at 13:55 and Finishes at 14:10. It is inspected from 13:55 to 14:10. With Travel time of 4 mins. With an area duration of 0. And has an early start of 13:55 and a late finish of 14:10.
+Inspection at 33/9-11 Barnsbury Road- South Yarra inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:45 to 15:00. With Travel time of 2 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 530/35 Malcolm Street- South Yarra inspection window starts at 15:35 and Finishes at 15:50. It is inspected from 15:35 to 15:50. With Travel time of 3 mins. With an area duration of 0. And has an early start of 15:35 and a late finish of 15:50.
+After Improve inspections are: 
+Inspection at 11/14 Tivoli Road- South Yarra inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:50 to 10:15. With Travel time of 2 mins. With an area duration of 10. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 5/7 Cromwell Road- South Yarra inspection window starts at 12:00 and Finishes at 12:20. It is inspected from 12:00 to 12:15. With Travel time of 2 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:20.
+Inspection at 3/278 Domain Road- South Yarra inspection window starts at 12:40 and Finishes at 12:55. It is inspected from 12:40 to 12:55. With Travel time of 6 mins. With an area duration of 0. And has an early start of 12:40 and a late finish of 12:55.
+Inspection at 5/52 Caroline Street- South Yarra inspection window starts at 14:05 and Finishes at 14:15. It is inspected from 14:05 to 15:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:05 and a late finish of 14:15.
+Inspection at 33/9-11 Barnsbury Road- South Yarra inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:45 to 15:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 530/35 Malcolm Street- South Yarra inspection window starts at 15:35 and Finishes at 15:50. It is inspected from 15:35 to 15:50. With Travel time of 3 mins. With an area duration of 0. And has an early start of 15:35 and a late finish of 15:50.
+Construct aspect of algorithm took 11205milliseconds to run. 
+Improve aspect of algorithm took 22011milliseconds to run.
+ Overall the algorithm took 33217milliseconds to run.

@@ -1,0 +1,18 @@
+After construction the inspections are: 
+Inspection at 3/1a Wilkinson Street- Reservoir inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:06 to 09:41. With Travel time of 6 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 17 Thomson Street- Northcote inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:53 to 10:28. With Travel time of 12 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 13 Rolls Street- Coburg inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:42 to 11:17. With Travel time of 14 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at Apt 802/35 Plenty Road- Preston inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:40 to 12:15. With Travel time of 10 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 72 Bridge Street- Northcote inspection window starts at 12:45 and Finishes at 13:15. It is inspected from 12:45 to 13:00. With Travel time of 9 mins. With an area duration of 0. And has an early start of 12:45 and a late finish of 13:15.
+Inspection at 26/20 Ross Street- Northcote inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:03 to 13:18. With Travel time of 3 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 296 Plenty Road- Preston inspection window starts at 13:00 and Finishes at 14:00. It is inspected from 13:30 to 13:45. With Travel time of 12 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 3/1a Wilkinson Street- Reservoir inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:06 to 09:41. With Travel time of 6 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 35a Austral Avenue- Preston inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 12:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 80 Murray Road- Preston inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 13:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 72 Bridge Street- Northcote inspection window starts at 12:45 and Finishes at 13:15. It is inspected from 12:45 to 13:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:45 and a late finish of 13:15.
+Inspection at 7 Orient Grove- Preston inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:30. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 296 Plenty Road- Preston inspection window starts at 13:00 and Finishes at 14:00. It is inspected from 13:30 to 13:45. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 14:00.
+Construct aspect of algorithm took 13921milliseconds to run. 
+Improve aspect of algorithm took 26334milliseconds to run.
+ Overall the algorithm took 40255milliseconds to run.

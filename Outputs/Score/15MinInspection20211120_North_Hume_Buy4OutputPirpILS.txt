@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 31 Ocean Way- Craigieburn inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:15. With Travel time of 6 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 145 Jukes Road- Fawkner inspection window starts at 11:00 and Finishes at 11:25. It is inspected from 10:40 to 11:15. With Travel time of 24 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:25.
+Inspection at 4 Reef Street- Craigieburn inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:45 to 12:00. With Travel time of 20 mins. With an area duration of 0. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 20 Mensa Court- Roxburgh Park inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:10 to 12:45. With Travel time of 8 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 14 Rockley Road- Mickleham inspection window starts at 13:15 and Finishes at 13:45. It is inspected from 13:15 to 13:30. With Travel time of 20 mins. With an area duration of 0. And has an early start of 13:15 and a late finish of 13:45.
+After Improve inspections are: 
+Inspection at 31 Ocean Way- Craigieburn inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:15. With Travel time of 6 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 145 Jukes Road- Fawkner inspection window starts at 11:00 and Finishes at 11:25. It is inspected from 10:40 to 11:15. With Travel time of 24 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:25.
+Inspection at 4 Reef Street- Craigieburn inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:45 to 12:00. With Travel time of 20 mins. With an area duration of 0. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 20 Mensa Court- Roxburgh Park inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:10 to 12:45. With Travel time of 8 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 14 Rockley Road- Mickleham inspection window starts at 13:15 and Finishes at 13:45. It is inspected from 13:15 to 13:30. With Travel time of 20 mins. With an area duration of 0. And has an early start of 13:15 and a late finish of 13:45.
+Construct aspect of algorithm took 10960milliseconds to run. 
+Improve aspect of algorithm took 10375milliseconds to run.
+ Overall the algorithm took 21335milliseconds to run.

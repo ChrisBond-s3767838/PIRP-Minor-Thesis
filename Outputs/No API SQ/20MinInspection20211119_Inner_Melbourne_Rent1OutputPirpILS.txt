@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 3/19 Albert Street- East Melbourne inspection window starts at 10:15 and Finishes at 10:30. It is inspected from 10:05 to 10:35. With Travel time of 10 mins. With an area duration of 10. And has an early start of 10:15 and a late finish of 10:30.
+Inspection at 508/51 Galada Avenue- Parkville inspection window starts at 15:45 and Finishes at 16:00. It is inspected from 15:35 to 16:05. With Travel time of 31 mins. With an area duration of 10. And has an early start of 15:45 and a late finish of 16:00.
+Inspection at 1708/65 Dudley Street- West Melbourne inspection window starts at 16:00 and Finishes at 16:45. It is inspected from 16:23 to 16:53. With Travel time of 18 mins. With an area duration of 10. And has an early start of 16:00 and a late finish of 16:45.
+After Improve inspections are: 
+Inspection at 3/19 Albert Street- East Melbourne inspection window starts at 10:15 and Finishes at 10:30. It is inspected from 10:05 to 10:35. With Travel time of 10 mins. With an area duration of 10. And has an early start of 10:15 and a late finish of 10:30.
+Inspection at 508/51 Galada Avenue- Parkville inspection window starts at 15:45 and Finishes at 16:00. It is inspected from 15:35 to 16:05. With Travel time of 31 mins. With an area duration of 10. And has an early start of 15:45 and a late finish of 16:00.
+Inspection at 1708/65 Dudley Street- West Melbourne inspection window starts at 16:00 and Finishes at 16:45. It is inspected from 16:23 to 16:53. With Travel time of 18 mins. With an area duration of 10. And has an early start of 16:00 and a late finish of 16:45.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

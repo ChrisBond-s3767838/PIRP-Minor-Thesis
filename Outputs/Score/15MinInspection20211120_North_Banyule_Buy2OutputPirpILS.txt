@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 26 Silverdale Road- Eaglemont inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:15. With Travel time of 10 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 18 Sugar Gum Boulevard- Greensborough inspection window starts at 11:00 and Finishes at 12:00. It is inspected from 10:40 to 11:15. With Travel time of 19 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 12:00.
+Inspection at 117A Studley Road- Eaglemont inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:45 to 12:00. With Travel time of 17 mins. With an area duration of 0. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 88 Reichelt Avenue- Montmorency inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:15 to 12:50. With Travel time of 15 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 29 Medbury Avenue- Watsonia inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:45. With Travel time of 9 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 26 Silverdale Road- Eaglemont inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:15. With Travel time of 10 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 2/28 Stradbroke Avenue- Heidelberg inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:30 to 12:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 117A Studley Road- Eaglemont inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:45 to 12:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 88 Reichelt Avenue- Montmorency inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:15 to 12:50. With Travel time of 15 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 29 Medbury Avenue- Watsonia inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:45. With Travel time of 9 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 10806milliseconds to run. 
+Improve aspect of algorithm took 17396milliseconds to run.
+ Overall the algorithm took 28203milliseconds to run.

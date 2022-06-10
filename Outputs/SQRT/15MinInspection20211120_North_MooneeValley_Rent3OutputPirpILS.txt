@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 1/160 Napier Street- Essendon inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:10 to 10:45. With Travel time of 7 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 9/76-80 Parer Road- Airport West inspection window starts at 13:10 and Finishes at 13:15. It is inspected from 12:50 to 13:25. With Travel time of 8 mins. With an area duration of 20. And has an early start of 13:10 and a late finish of 13:15.
+Inspection at 2013/18 Mt Alexander Road- Travancore inspection window starts at 13:50 and Finishes at 14:05. It is inspected from 13:37 to 14:12. With Travel time of 12 mins. With an area duration of 20. And has an early start of 13:50 and a late finish of 14:05.
+Inspection at 3/44 Kerferd Street- Essendon North inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 16:00 to 16:15. With Travel time of 11 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:15.
+After Improve inspections are: 
+Inspection at 1/160 Napier Street- Essendon inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:10 to 10:45. With Travel time of 7 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 824/40 Hall Street- Moonee Ponds inspection window starts at 12:00 and Finishes at 12:15. It is inspected from 11:40 to 14:05. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:15.
+Inspection at 2013/18 Mt Alexander Road- Travancore inspection window starts at 13:50 and Finishes at 14:05. It is inspected from 13:37 to 14:12. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:50 and a late finish of 14:05.
+Inspection at 3/44 Kerferd Street- Essendon North inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 16:00 to 16:15. With Travel time of 11 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:15.
+Construct aspect of algorithm took 5132milliseconds to run. 
+Improve aspect of algorithm took 10685milliseconds to run.
+ Overall the algorithm took 15818milliseconds to run.

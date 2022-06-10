@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at Level 17/231 Harbour Esplanade- Docklands inspection window starts at 14:00 and Finishes at 14:10. It is inspected from 13:50 to 14:20. With Travel time of 5 mins. With an area duration of 10. And has an early start of 14:00 and a late finish of 14:10.
+Inspection at 502/565 FLINDERS STREET- Melbourne inspection window starts at 14:35 and Finishes at 14:55. It is inspected from 14:30 to 15:00. With Travel time of 10 mins. With an area duration of 10. And has an early start of 14:35 and a late finish of 14:55.
+Inspection at 907/238 Flinders Street- Melbourne inspection window starts at 15:50 and Finishes at 16:05. It is inspected from 15:40 to 16:10. With Travel time of 12 mins. With an area duration of 10. And has an early start of 15:50 and a late finish of 16:05.
+After Improve inspections are: 
+Inspection at Level 17/231 Harbour Esplanade- Docklands inspection window starts at 14:00 and Finishes at 14:10. It is inspected from 13:50 to 14:20. With Travel time of 5 mins. With an area duration of 10. And has an early start of 14:00 and a late finish of 14:10.
+Inspection at 502/565 FLINDERS STREET- Melbourne inspection window starts at 14:35 and Finishes at 14:55. It is inspected from 14:30 to 15:00. With Travel time of 10 mins. With an area duration of 10. And has an early start of 14:35 and a late finish of 14:55.
+Inspection at 907/238 Flinders Street- Melbourne inspection window starts at 15:50 and Finishes at 16:05. It is inspected from 15:40 to 16:10. With Travel time of 12 mins. With an area duration of 10. And has an early start of 15:50 and a late finish of 16:05.
+Construct aspect of algorithm took 3910milliseconds to run. 
+Improve aspect of algorithm took 10001milliseconds to run.
+ Overall the algorithm took 13911milliseconds to run.

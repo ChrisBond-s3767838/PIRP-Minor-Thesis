@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 20 Stein Avenue- Armstrong Creek inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:17 to 09:52. With Travel time of 17 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 183 Coppards Road- Moolap inspection window starts at 09:45 and Finishes at 10:30. It is inspected from 10:10 to 10:45. With Travel time of 18 mins. With an area duration of 20. And has an early start of 09:45 and a late finish of 10:30.
+Inspection at 58 Pethajohn Parade- Grovedale inspection window starts at 11:15 and Finishes at 11:45. It is inspected from 11:01 to 11:36. With Travel time of 16 mins. With an area duration of 20. And has an early start of 11:15 and a late finish of 11:45.
+Inspection at 37 The Avenue- Ocean Grove inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:04 to 12:39. With Travel time of 28 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 10/203-207 Little Malop Street- Geelong inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:45. With Travel time of 25 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 19 Colden Place- Highton inspection window starts at 14:15 and Finishes at 14:45. It is inspected from 14:01 to 14:36. With Travel time of 16 mins. With an area duration of 20. And has an early start of 14:15 and a late finish of 14:45.
+Inspection at 5 Portrush Loop- Armstrong Creek inspection window starts at 14:45 and Finishes at 15:15. It is inspected from 14:48 to 15:03. With Travel time of 12 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:15.
+After Improve inspections are: 
+Inspection at 20 Stein Avenue- Armstrong Creek inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:17 to 09:52. With Travel time of 17 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 3 McCurdy Road- Herne Hill inspection window starts at 10:15 and Finishes at 10:45. It is inspected from 09:55 to 11:30. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:15 and a late finish of 10:45.
+Inspection at 58 Pethajohn Parade- Grovedale inspection window starts at 11:15 and Finishes at 11:45. It is inspected from 11:01 to 11:36. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:15 and a late finish of 11:45.
+Inspection at 44 Decourcy Way- Armstrong Creek inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 13:45. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 10/203-207 Little Malop Street- Geelong inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:45. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 64 Mcdougall Street- Geelong West inspection window starts at 14:15 and Finishes at 14:45. It is inspected from 13:55 to 15:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:15 and a late finish of 14:45.
+Inspection at 5 Portrush Loop- Armstrong Creek inspection window starts at 14:45 and Finishes at 15:15. It is inspected from 14:48 to 15:03. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:15.
+Construct aspect of algorithm took 14939milliseconds to run. 
+Improve aspect of algorithm took 17305milliseconds to run.
+ Overall the algorithm took 32244milliseconds to run.

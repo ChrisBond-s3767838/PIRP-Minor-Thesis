@@ -1,0 +1,21 @@
+After construction the inspections are: 
+Inspection at 4/32 Dorset Road- Croydon inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 6 Tanya Court- Croydon Hills inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:40 to 11:20. With Travel time of 10 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 20 Trawalla Road- Croydon inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:45 to 12:05. With Travel time of 11 mins. With an area duration of 0. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 10 Rowan Street- Croydon inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 3 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 31 Tanbridge Way- Warranwood inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:33 to 14:13. With Travel time of 13 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 3 Bemboka Road- Warranwood inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:30 to 14:50. With Travel time of 3 mins. With an area duration of 0. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 4 Short Street- Ringwood East inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:56 to 15:36. With Travel time of 6 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 6/106 Wantirna Road- Ringwood inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:00 to 17:20. With Travel time of 7 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:30.
+After Improve inspections are: 
+Inspection at 4/32 Dorset Road- Croydon inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 6 Tanya Court- Croydon Hills inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:40 to 11:20. With Travel time of 10 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 51 Hender Street- Ringwood East inspection window starts at 12:00 and Finishes at 12:45. It is inspected from 12:00 to 13:20. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:45.
+Inspection at 10 Rowan Street- Croydon inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 15 Hillcrest Ave- Ringwood inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 14:00 to 14:50. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 3 Bemboka Road- Warranwood inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:30 to 14:50. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 4 Short Street- Ringwood East inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:56 to 15:36. With Travel time of 6 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 6/106 Wantirna Road- Ringwood inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:00 to 17:20. With Travel time of 7 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:30.
+Construct aspect of algorithm took 14269milliseconds to run. 
+Improve aspect of algorithm took 18621milliseconds to run.
+ Overall the algorithm took 32891milliseconds to run.

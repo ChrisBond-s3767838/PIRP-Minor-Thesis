@@ -1,0 +1,16 @@
+After construction the inspections are: 
+Inspection at 11/11 Haines Street- North Melbourne inspection window starts at 09:45 and Finishes at 09:50. It is inspected from 09:35 to 10:05. With Travel time of 6 mins. With an area duration of 10. And has an early start of 09:45 and a late finish of 09:50.
+Inspection at 5/28 Ireland Street- West Melbourne inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:20 to 10:50. With Travel time of 4 mins. With an area duration of 10. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 702/6 Leicester Street- Carlton inspection window starts at 11:25 and Finishes at 11:40. It is inspected from 11:15 to 11:45. With Travel time of 7 mins. With an area duration of 10. And has an early start of 11:25 and a late finish of 11:40.
+Inspection at 3319/488 Swanston Street- Carlton inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:20. With Travel time of 3 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 6811/160 Victoria Street- Carlton inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 3 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 1202/188 Macaulay Road- North Melbourne inspection window starts at 17:00 and Finishes at 17:15. It is inspected from 16:50 to 17:20. With Travel time of 9 mins. With an area duration of 10. And has an early start of 17:00 and a late finish of 17:15.
+After Improve inspections are: 
+Inspection at 11/11 Haines Street- North Melbourne inspection window starts at 09:45 and Finishes at 09:50. It is inspected from 09:35 to 10:05. With Travel time of 6 mins. With an area duration of 10. And has an early start of 09:45 and a late finish of 09:50.
+Inspection at 7/61-63 Stanley Street- West Melbourne inspection window starts at 10:15 and Finishes at 10:30. It is inspected from 10:15 to 11:45. With Travel time of 0 mins. With an area duration of 10. And has an early start of 10:15 and a late finish of 10:30.
+Inspection at 20/100 QUEENSBERRY STREET- Carlton inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 13:20. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 6811/160 Victoria Street- Carlton inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 1202/188 Macaulay Road- North Melbourne inspection window starts at 17:00 and Finishes at 17:15. It is inspected from 16:50 to 17:20. With Travel time of 9 mins. With an area duration of 10. And has an early start of 17:00 and a late finish of 17:15.
+Construct aspect of algorithm took 13135milliseconds to run. 
+Improve aspect of algorithm took 19397milliseconds to run.
+ Overall the algorithm took 32532milliseconds to run.

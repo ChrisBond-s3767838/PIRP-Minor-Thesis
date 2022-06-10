@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 60 Princes Highway- Norlane inspection window starts at 09:25 and Finishes at 09:40. It is inspected from 09:05 to 09:35. With Travel time of 5 mins. With an area duration of 20. And has an early start of 09:25 and a late finish of 09:40.
+Inspection at 30 Winter Street- Belmont inspection window starts at 10:35 and Finishes at 10:45. It is inspected from 10:15 to 10:45. With Travel time of 14 mins. With an area duration of 20. And has an early start of 10:35 and a late finish of 10:45.
+Inspection at 83 Cedar Road- Lara inspection window starts at 11:25 and Finishes at 11:40. It is inspected from 11:11 to 11:41. With Travel time of 26 mins. With an area duration of 20. And has an early start of 11:25 and a late finish of 11:40.
+Inspection at 41 Upper Skene Street- Newtown inspection window starts at 12:15 and Finishes at 12:30. It is inspected from 12:00 to 12:30. With Travel time of 19 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:30.
+Inspection at 132 Thacker Street- Ocean Grove inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:10 to 13:40. With Travel time of 28 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 13:45.
+Inspection at 299 Boundary Road- Mount Duneed inspection window starts at 14:20 and Finishes at 14:30. It is inspected from 14:04 to 14:34. With Travel time of 24 mins. With an area duration of 20. And has an early start of 14:20 and a late finish of 14:30.
+After Improve inspections are: 
+Inspection at 60 Princes Highway- Norlane inspection window starts at 09:25 and Finishes at 09:40. It is inspected from 09:05 to 09:35. With Travel time of 5 mins. With an area duration of 20. And has an early start of 09:25 and a late finish of 09:40.
+Inspection at 30 Winter Street- Belmont inspection window starts at 10:35 and Finishes at 10:45. It is inspected from 10:15 to 10:45. With Travel time of 14 mins. With an area duration of 20. And has an early start of 10:35 and a late finish of 10:45.
+Inspection at 83 Cedar Road- Lara inspection window starts at 11:25 and Finishes at 11:40. It is inspected from 11:11 to 11:41. With Travel time of 26 mins. With an area duration of 20. And has an early start of 11:25 and a late finish of 11:40.
+Inspection at 41 Upper Skene Street- Newtown inspection window starts at 12:15 and Finishes at 12:30. It is inspected from 12:00 to 12:30. With Travel time of 19 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:30.
+Inspection at 3/12-14 Karlovac Court- Bell Park inspection window starts at 12:35 and Finishes at 12:50. It is inspected from 12:30 to 14:30. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:35 and a late finish of 12:50.
+Inspection at 299 Boundary Road- Mount Duneed inspection window starts at 14:20 and Finishes at 14:30. It is inspected from 14:04 to 14:34. With Travel time of 0 mins. With an area duration of 20. And has an early start of 14:20 and a late finish of 14:30.
+Construct aspect of algorithm took 14099milliseconds to run. 
+Improve aspect of algorithm took 18078milliseconds to run.
+ Overall the algorithm took 32178milliseconds to run.

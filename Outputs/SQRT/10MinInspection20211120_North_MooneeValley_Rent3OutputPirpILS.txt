@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 3/1 Norfolk Street- Moonee Ponds inspection window starts at 09:45 and Finishes at 10:00. It is inspected from 09:25 to 09:55. With Travel time of 9 mins. With an area duration of 20. And has an early start of 09:45 and a late finish of 10:00.
+Inspection at 4/4-6 Winifred Street- Essendon inspection window starts at 10:20 and Finishes at 10:35. It is inspected from 10:00 to 10:30. With Travel time of 5 mins. With an area duration of 20. And has an early start of 10:20 and a late finish of 10:35.
+Inspection at 6/85 Bulla Road- Essendon North inspection window starts at 12:00 and Finishes at 12:15. It is inspected from 12:00 to 12:10. With Travel time of 2 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:15.
+Inspection at 3/44 Kerferd Street- Essendon North inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 16:00 to 16:10. With Travel time of 4 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:15.
+After Improve inspections are: 
+Inspection at 3/1 Norfolk Street- Moonee Ponds inspection window starts at 09:45 and Finishes at 10:00. It is inspected from 09:25 to 09:55. With Travel time of 9 mins. With an area duration of 20. And has an early start of 09:45 and a late finish of 10:00.
+Inspection at 4/4-6 Winifred Street- Essendon inspection window starts at 10:20 and Finishes at 10:35. It is inspected from 10:00 to 10:30. With Travel time of 5 mins. With an area duration of 20. And has an early start of 10:20 and a late finish of 10:35.
+Inspection at 824/40 Hall Street- Moonee Ponds inspection window starts at 12:00 and Finishes at 12:15. It is inspected from 12:00 to 16:10. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:15.
+Inspection at 3/44 Kerferd Street- Essendon North inspection window starts at 16:00 and Finishes at 16:15. It is inspected from 16:00 to 16:10. With Travel time of 0 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:15.
+Construct aspect of algorithm took 9971milliseconds to run. 
+Improve aspect of algorithm took 11607milliseconds to run.
+ Overall the algorithm took 21579milliseconds to run.

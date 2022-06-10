@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 821/199 William Street- Melbourne inspection window starts at 11:30 and Finishes at 11:40. It is inspected from 11:20 to 11:40. With Travel time of 4 mins. With an area duration of 10. And has an early start of 11:30 and a late finish of 11:40.
+Inspection at 2107/103 South Wharf Drive- Docklands inspection window starts at 13:20 and Finishes at 13:30. It is inspected from 13:10 to 13:30. With Travel time of 11 mins. With an area duration of 10. And has an early start of 13:20 and a late finish of 13:30.
+Inspection at 2105/36 La Trobe Street- Melbourne inspection window starts at 14:40 and Finishes at 14:55. It is inspected from 14:30 to 14:50. With Travel time of 14 mins. With an area duration of 10. And has an early start of 14:40 and a late finish of 14:55.
+Inspection at 35/283 Spring Street- Melbourne inspection window starts at 15:30 and Finishes at 15:45. It is inspected from 15:20 to 15:40. With Travel time of 3 mins. With an area duration of 10. And has an early start of 15:30 and a late finish of 15:45.
+Inspection at 272/8 Waterside Place- Docklands inspection window starts at 16:35 and Finishes at 16:50. It is inspected from 16:25 to 16:45. With Travel time of 13 mins. With an area duration of 10. And has an early start of 16:35 and a late finish of 16:50.
+After Improve inspections are: 
+Inspection at 821/199 William Street- Melbourne inspection window starts at 11:30 and Finishes at 11:40. It is inspected from 11:20 to 11:40. With Travel time of 4 mins. With an area duration of 10. And has an early start of 11:30 and a late finish of 11:40.
+Inspection at 2107/103 South Wharf Drive- Docklands inspection window starts at 13:20 and Finishes at 13:30. It is inspected from 13:10 to 13:30. With Travel time of 11 mins. With an area duration of 10. And has an early start of 13:20 and a late finish of 13:30.
+Inspection at 2105/36 La Trobe Street- Melbourne inspection window starts at 14:40 and Finishes at 14:55. It is inspected from 14:30 to 14:50. With Travel time of 14 mins. With an area duration of 10. And has an early start of 14:40 and a late finish of 14:55.
+Inspection at 2509/915 Collins St- Docklands inspection window starts at 15:30 and Finishes at 15:45. It is inspected from 15:30 to 16:45. With Travel time of 0 mins. With an area duration of 10. And has an early start of 15:30 and a late finish of 15:45.
+Inspection at 272/8 Waterside Place- Docklands inspection window starts at 16:35 and Finishes at 16:50. It is inspected from 16:25 to 16:45. With Travel time of 0 mins. With an area duration of 10. And has an early start of 16:35 and a late finish of 16:50.
+Construct aspect of algorithm took 11573milliseconds to run. 
+Improve aspect of algorithm took 27809milliseconds to run.
+ Overall the algorithm took 39382milliseconds to run.

@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 86 Monash Street- Sunshine inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:10 to 17:40. With Travel time of 13 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 11 Kororoit Street- Albion inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:44 to 17:54. With Travel time of 4 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:00.
+After Improve inspections are: 
+Inspection at 86 Monash Street- Sunshine inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:10 to 17:40. With Travel time of 13 mins. With an area duration of 20. And has an early start of 17:30 and a late finish of 18:00.
+Inspection at 11 Kororoit Street- Albion inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:44 to 17:54. With Travel time of 4 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:00.
+Construct aspect of algorithm took 6350milliseconds to run. 
+Improve aspect of algorithm took 12130milliseconds to run.
+ Overall the algorithm took 18481milliseconds to run.

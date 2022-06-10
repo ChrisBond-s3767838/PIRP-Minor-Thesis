@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 7/18-20 Rosanna Road Road- Heidelberg inspection window starts at 13:00 and Finishes at 13:15. It is inspected from 12:40 to 13:15. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:15.
+Inspection at 3/12 McNamara Street- Macleod inspection window starts at 15:00 and Finishes at 15:15. It is inspected from 14:40 to 15:15. With Travel time of 5 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:15.
+Inspection at 8/38-40 Lower Plenty Road- Rosanna inspection window starts at 15:25 and Finishes at 15:40. It is inspected from 15:19 to 15:54. With Travel time of 4 mins. With an area duration of 20. And has an early start of 15:25 and a late finish of 15:40.
+After Improve inspections are: 
+Inspection at 7/18-20 Rosanna Road Road- Heidelberg inspection window starts at 13:00 and Finishes at 13:15. It is inspected from 12:40 to 13:15. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:15.
+Inspection at 3/12 McNamara Street- Macleod inspection window starts at 15:00 and Finishes at 15:15. It is inspected from 14:40 to 15:15. With Travel time of 5 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:15.
+Inspection at 8/38-40 Lower Plenty Road- Rosanna inspection window starts at 15:25 and Finishes at 15:40. It is inspected from 15:19 to 15:54. With Travel time of 4 mins. With an area duration of 20. And has an early start of 15:25 and a late finish of 15:40.
+Construct aspect of algorithm took 4906milliseconds to run. 
+Improve aspect of algorithm took 10047milliseconds to run.
+ Overall the algorithm took 14953milliseconds to run.

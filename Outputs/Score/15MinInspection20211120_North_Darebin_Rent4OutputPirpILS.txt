@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 204/30 Station Street- Fairfield inspection window starts at 11:45 and Finishes at 12:00. It is inspected from 11:25 to 12:00. With Travel time of 6 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:00.
+Inspection at 1/56 St David Street- Thornbury inspection window starts at 12:10 and Finishes at 12:25. It is inspected from 12:06 to 12:41. With Travel time of 6 mins. With an area duration of 20. And has an early start of 12:10 and a late finish of 12:25.
+Inspection at 6/31 Martin Street- Thornbury inspection window starts at 12:50 and Finishes at 13:05. It is inspected from 12:50 to 13:05. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:50 and a late finish of 13:05.
+After Improve inspections are: 
+Inspection at 204/30 Station Street- Fairfield inspection window starts at 11:45 and Finishes at 12:00. It is inspected from 11:25 to 12:00. With Travel time of 6 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:00.
+Inspection at 1/56 St David Street- Thornbury inspection window starts at 12:10 and Finishes at 12:25. It is inspected from 12:06 to 12:41. With Travel time of 6 mins. With an area duration of 20. And has an early start of 12:10 and a late finish of 12:25.
+Inspection at 6/31 Martin Street- Thornbury inspection window starts at 12:50 and Finishes at 13:05. It is inspected from 12:50 to 13:05. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:50 and a late finish of 13:05.
+Construct aspect of algorithm took 7742milliseconds to run. 
+Improve aspect of algorithm took 10914milliseconds to run.
+ Overall the algorithm took 18657milliseconds to run.

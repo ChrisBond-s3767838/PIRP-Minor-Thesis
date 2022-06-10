@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 59 Creswick Street- Footscray inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:50 to 10:10. With Travel time of 4 mins. With an area duration of 10. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 2/294 Nicholson Street- Seddon inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:20 to 10:40. With Travel time of 6 mins. With an area duration of 10. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 1-8/1 Hampton Parade- West Footscray inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:50 to 11:10. With Travel time of 7 mins. With an area duration of 10. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 17 Eldridge Street- Footscray inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:30 to 14:40. With Travel time of 7 mins. With an area duration of 0. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 1 Cuthbert Street- Seddon inspection window starts at 14:45 and Finishes at 15:15. It is inspected from 14:47 to 14:57. With Travel time of 7 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:15.
+Inspection at 7/6 Rosamond Road- Footscray inspection window starts at 15:15 and Finishes at 15:45. It is inspected from 15:15 to 15:25. With Travel time of 7 mins. With an area duration of 0. And has an early start of 15:15 and a late finish of 15:45.
+After Improve inspections are: 
+Inspection at 59 Creswick Street- Footscray inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:50 to 10:10. With Travel time of 4 mins. With an area duration of 10. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 2/294 Nicholson Street- Seddon inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:20 to 10:40. With Travel time of 6 mins. With an area duration of 10. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 1-8/1 Hampton Parade- West Footscray inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:50 to 11:10. With Travel time of 7 mins. With an area duration of 10. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 17 Eldridge Street- Footscray inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:30 to 14:40. With Travel time of 7 mins. With an area duration of 0. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 106/21 Buckingham Street- Footscray inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:25. With Travel time of 0 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 7/6 Rosamond Road- Footscray inspection window starts at 15:15 and Finishes at 15:45. It is inspected from 15:15 to 15:25. With Travel time of 0 mins. With an area duration of 0. And has an early start of 15:15 and a late finish of 15:45.
+Construct aspect of algorithm took 14987milliseconds to run. 
+Improve aspect of algorithm took 54487milliseconds to run.
+ Overall the algorithm took 69474milliseconds to run.

@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 27A St David Street- Northcote inspection window starts at 09:25 and Finishes at 09:40. It is inspected from 09:05 to 09:40. With Travel time of 3 mins. With an area duration of 20. And has an early start of 09:25 and a late finish of 09:40.
+Inspection at 2/9 Hayes Street- Northcote inspection window starts at 09:50 and Finishes at 10:05. It is inspected from 09:50 to 10:05. With Travel time of 1 mins. With an area duration of 0. And has an early start of 09:50 and a late finish of 10:05.
+After Improve inspections are: 
+Inspection at 27A St David Street- Northcote inspection window starts at 09:25 and Finishes at 09:40. It is inspected from 09:05 to 09:40. With Travel time of 3 mins. With an area duration of 20. And has an early start of 09:25 and a late finish of 09:40.
+Inspection at 2/9 Hayes Street- Northcote inspection window starts at 09:50 and Finishes at 10:05. It is inspected from 09:50 to 10:05. With Travel time of 1 mins. With an area duration of 0. And has an early start of 09:50 and a late finish of 10:05.
+Construct aspect of algorithm took 5664milliseconds to run. 
+Improve aspect of algorithm took 10277milliseconds to run.
+ Overall the algorithm took 15942milliseconds to run.

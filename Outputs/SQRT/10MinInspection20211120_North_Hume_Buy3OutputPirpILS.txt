@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 13 Cashmore Place- Roxburgh Park inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 7 Magpie Court- Meadow Heights inspection window starts at 10:30 and Finishes at 10:50. It is inspected from 10:17 to 10:47. With Travel time of 7 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:50.
+Inspection at 13A Hedley Street- Fawkner inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 11:30. With Travel time of 13 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 29 Centaurus Avenue- Roxburgh Park inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:15 to 12:25. With Travel time of 18 mins. With an area duration of 0. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 16 Peninsula Crescent- Craigieburn inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:37 to 13:07. With Travel time of 12 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 4 Marsden Walk- Roxburgh Park inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:18 to 13:28. With Travel time of 11 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 3/11 Marmal Court- Tullamarine inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:48 to 14:18. With Travel time of 20 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 13 Cashmore Place- Roxburgh Park inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 7 Magpie Court- Meadow Heights inspection window starts at 10:30 and Finishes at 10:50. It is inspected from 10:17 to 10:47. With Travel time of 7 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:50.
+Inspection at 13A Hedley Street- Fawkner inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 11:30. With Travel time of 13 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 29 Centaurus Avenue- Roxburgh Park inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:15 to 12:25. With Travel time of 18 mins. With an area duration of 0. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 16 Peninsula Crescent- Craigieburn inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:37 to 13:07. With Travel time of 12 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 4 Marsden Walk- Roxburgh Park inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:18 to 13:28. With Travel time of 11 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 3/11 Marmal Court- Tullamarine inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:48 to 14:18. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 19685milliseconds to run. 
+Improve aspect of algorithm took 45563milliseconds to run.
+ Overall the algorithm took 65248milliseconds to run.

@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 35 Hygeia Parade- Ringwood North inspection window starts at 16:30 and Finishes at 17:00. It is inspected from 16:10 to 16:45. With Travel time of 7 mins. With an area duration of 20. And has an early start of 16:30 and a late finish of 17:00.
+Inspection at 15A West End Road- Warrandyte inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:58 to 17:33. With Travel time of 13 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+After Improve inspections are: 
+Inspection at 35 Hygeia Parade- Ringwood North inspection window starts at 16:30 and Finishes at 17:00. It is inspected from 16:10 to 16:45. With Travel time of 7 mins. With an area duration of 20. And has an early start of 16:30 and a late finish of 17:00.
+Inspection at 15A West End Road- Warrandyte inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:58 to 17:33. With Travel time of 13 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Construct aspect of algorithm took 4437milliseconds to run. 
+Improve aspect of algorithm took 10167milliseconds to run.
+ Overall the algorithm took 14604milliseconds to run.

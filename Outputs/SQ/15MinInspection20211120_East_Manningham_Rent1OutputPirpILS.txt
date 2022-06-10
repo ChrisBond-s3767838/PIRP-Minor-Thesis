@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 20 Roy Street- Donvale inspection window starts at 09:50 and Finishes at 10:05. It is inspected from 09:30 to 10:05. With Travel time of 3 mins. With an area duration of 20. And has an early start of 09:50 and a late finish of 10:05.
+Inspection at 30 Argyle Street- Donvale inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:45 to 15:00. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 34 Tortice Drive- Ringwood North inspection window starts at 15:30 and Finishes at 15:45. It is inspected from 15:12 to 15:47. With Travel time of 12 mins. With an area duration of 20. And has an early start of 15:30 and a late finish of 15:45.
+After Improve inspections are: 
+Inspection at 20 Roy Street- Donvale inspection window starts at 09:50 and Finishes at 10:05. It is inspected from 09:30 to 10:05. With Travel time of 3 mins. With an area duration of 20. And has an early start of 09:50 and a late finish of 10:05.
+Inspection at 1/9 Standring Close- Donvale inspection window starts at 14:15 and Finishes at 14:30. It is inspected from 14:15 to 15:45. With Travel time of 0 mins. With an area duration of 20. And has an early start of 14:15 and a late finish of 14:30.
+Inspection at 34 Tortice Drive- Ringwood North inspection window starts at 15:30 and Finishes at 15:45. It is inspected from 15:12 to 15:47. With Travel time of 0 mins. With an area duration of 20. And has an early start of 15:30 and a late finish of 15:45.
+Construct aspect of algorithm took 4354milliseconds to run. 
+Improve aspect of algorithm took 10530milliseconds to run.
+ Overall the algorithm took 14884milliseconds to run.

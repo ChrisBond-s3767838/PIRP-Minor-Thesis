@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 114 Morris Street- Sunshine inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:50. With Travel time of 4 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 1/7 Stevenston Street- Deer Park inspection window starts at 14:15 and Finishes at 14:45. It is inspected from 14:04 to 14:44. With Travel time of 14 mins. With an area duration of 20. And has an early start of 14:15 and a late finish of 14:45.
+Inspection at 41 Sunhill Crescent- Ardeer inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:20. With Travel time of 8 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 25 Moira Street- Sunshine inspection window starts at 15:30 and Finishes at 16:00. It is inspected from 15:30 to 15:50. With Travel time of 10 mins. With an area duration of 0. And has an early start of 15:30 and a late finish of 16:00.
+Inspection at 4 Queen Circuit- Sunshine inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:20. With Travel time of 2 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at 114 Morris Street- Sunshine inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:50. With Travel time of 4 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 29 Hall Street- Sunshine West inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:10 to 15:20. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 41 Sunhill Crescent- Ardeer inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:20. With Travel time of 0 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 25 Moira Street- Sunshine inspection window starts at 15:30 and Finishes at 16:00. It is inspected from 15:30 to 15:50. With Travel time of 10 mins. With an area duration of 0. And has an early start of 15:30 and a late finish of 16:00.
+Inspection at 4 Queen Circuit- Sunshine inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:20. With Travel time of 2 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+Construct aspect of algorithm took 9151milliseconds to run. 
+Improve aspect of algorithm took 12462milliseconds to run.
+ Overall the algorithm took 21614milliseconds to run.

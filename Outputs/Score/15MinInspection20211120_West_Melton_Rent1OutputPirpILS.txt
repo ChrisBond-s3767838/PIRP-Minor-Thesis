@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 3 Mersey Lane- Caroline Springs inspection window starts at 09:15 and Finishes at 09:30. It is inspected from 09:04 to 09:39. With Travel time of 4 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:30.
+Inspection at 25 Miandad Street- Rockbank inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 10:40 to 11:15. With Travel time of 9 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 17 Lynwood Drive- Rockbank inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:30 to 12:45. With Travel time of 8 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 26 Nullarbor Place- Caroline Springs inspection window starts at 13:05 and Finishes at 13:20. It is inspected from 13:00 to 13:35. With Travel time of 15 mins. With an area duration of 20. And has an early start of 13:05 and a late finish of 13:20.
+Inspection at 158-166 Westcott Parade- Rockbank inspection window starts at 14:40 and Finishes at 14:55. It is inspected from 14:40 to 14:55. With Travel time of 8 mins. With an area duration of 0. And has an early start of 14:40 and a late finish of 14:55.
+After Improve inspections are: 
+Inspection at 3 Mersey Lane- Caroline Springs inspection window starts at 09:15 and Finishes at 09:30. It is inspected from 09:04 to 09:39. With Travel time of 4 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:30.
+Inspection at 11 Richardson Court- Caroline Springs inspection window starts at 10:25 and Finishes at 10:35. It is inspected from 10:25 to 12:45. With Travel time of 0 mins. With an area duration of 0. And has an early start of 10:25 and a late finish of 10:35.
+Inspection at 17 Lynwood Drive- Rockbank inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:30 to 12:45. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 26 Nullarbor Place- Caroline Springs inspection window starts at 13:05 and Finishes at 13:20. It is inspected from 13:00 to 13:35. With Travel time of 15 mins. With an area duration of 20. And has an early start of 13:05 and a late finish of 13:20.
+Inspection at 158-166 Westcott Parade- Rockbank inspection window starts at 14:40 and Finishes at 14:55. It is inspected from 14:40 to 14:55. With Travel time of 8 mins. With an area duration of 0. And has an early start of 14:40 and a late finish of 14:55.
+Construct aspect of algorithm took 9022milliseconds to run. 
+Improve aspect of algorithm took 11827milliseconds to run.
+ Overall the algorithm took 20850milliseconds to run.

@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 1002/52 Park Street- South Melbourne inspection window starts at 09:30 and Finishes at 09:45. It is inspected from 09:20 to 09:50. With Travel time of 2 mins. With an area duration of 10. And has an early start of 09:30 and a late finish of 09:45.
+Inspection at 602/18-24 Dorcas Street- South Melbourne inspection window starts at 10:05 and Finishes at 10:15. It is inspected from 10:05 to 10:25. With Travel time of 1 mins. With an area duration of 0. And has an early start of 10:05 and a late finish of 10:15.
+Inspection at B204/52 Dow Street- Port Melbourne inspection window starts at 11:20 and Finishes at 11:30. It is inspected from 11:10 to 11:40. With Travel time of 12 mins. With an area duration of 10. And has an early start of 11:20 and a late finish of 11:30.
+Inspection at 101/99 Palmerston Crescent- South Melbourne inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 8 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 1001F/138 Ferrars Street- South Melbourne inspection window starts at 14:45 and Finishes at 15:30. It is inspected from 14:45 to 15:05. With Travel time of 6 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:30.
+Inspection at 1003F/138 Ferrars Street- South Melbourne inspection window starts at 14:45 and Finishes at 15:30. It is inspected from 15:05 to 15:25. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:30.
+Inspection at 1004/8 Dorcas Street- South Melbourne inspection window starts at 16:15 and Finishes at 16:30. It is inspected from 16:15 to 16:35. With Travel time of 7 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at 1002/52 Park Street- South Melbourne inspection window starts at 09:30 and Finishes at 09:45. It is inspected from 09:20 to 09:50. With Travel time of 2 mins. With an area duration of 10. And has an early start of 09:30 and a late finish of 09:45.
+Inspection at 602/18-24 Dorcas Street- South Melbourne inspection window starts at 10:05 and Finishes at 10:15. It is inspected from 10:05 to 10:25. With Travel time of 1 mins. With an area duration of 0. And has an early start of 10:05 and a late finish of 10:15.
+Inspection at B204/52 Dow Street- Port Melbourne inspection window starts at 11:20 and Finishes at 11:30. It is inspected from 11:10 to 11:40. With Travel time of 12 mins. With an area duration of 10. And has an early start of 11:20 and a late finish of 11:30.
+Inspection at 101/99 Palmerston Crescent- South Melbourne inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 8 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 1001F/138 Ferrars Street- South Melbourne inspection window starts at 14:45 and Finishes at 15:30. It is inspected from 14:45 to 15:05. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:30.
+Inspection at 1003F/138 Ferrars Street- South Melbourne inspection window starts at 14:45 and Finishes at 15:30. It is inspected from 15:05 to 15:25. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:30.
+Inspection at 1004/8 Dorcas Street- South Melbourne inspection window starts at 16:15 and Finishes at 16:30. It is inspected from 16:15 to 16:35. With Travel time of 7 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:30.
+Construct aspect of algorithm took 12183milliseconds to run. 
+Improve aspect of algorithm took 25991milliseconds to run.
+ Overall the algorithm took 38175milliseconds to run.

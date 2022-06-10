@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 36 Charlotte Street- Sunshine West inspection window starts at 12:30 and Finishes at 13:20. It is inspected from 12:10 to 12:40. With Travel time of 11 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:20.
+Inspection at 47 Bardsley Street- Sunshine West inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:40. With Travel time of 4 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 10/33 King Edward Avenue- Albion inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:44 to 14:14. With Travel time of 4 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 260 Glengala Road- Sunshine West inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:10. With Travel time of 6 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 20 Hilma Street- Sunshine West inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:10. With Travel time of 2 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 12 Richards Court- Brooklyn inspection window starts at 16:15 and Finishes at 16:45. It is inspected from 16:23 to 16:53. With Travel time of 13 mins. With an area duration of 20. And has an early start of 16:15 and a late finish of 16:45.
+Inspection at 11 Kororoit Street- Albion inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:06 to 17:16. With Travel time of 13 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:30.
+After Improve inspections are: 
+Inspection at 36 Charlotte Street- Sunshine West inspection window starts at 12:30 and Finishes at 13:20. It is inspected from 12:10 to 12:40. With Travel time of 11 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:20.
+Inspection at 47 Bardsley Street- Sunshine West inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:40. With Travel time of 4 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 10/33 King Edward Avenue- Albion inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:44 to 14:14. With Travel time of 4 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 10/33 King Edward Avenue- Albion inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 14:14 to 16:10. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 20 Hilma Street- Sunshine West inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:10. With Travel time of 0 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 4 Kinnane Crescent- Sunshine inspection window starts at 16:15 and Finishes at 16:45. It is inspected from 16:15 to 17:10. With Travel time of 0 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:45.
+Inspection at 11 Kororoit Street- Albion inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:06 to 17:16. With Travel time of 0 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:30.
+Construct aspect of algorithm took 17148milliseconds to run. 
+Improve aspect of algorithm took 29565milliseconds to run.
+ Overall the algorithm took 46714milliseconds to run.

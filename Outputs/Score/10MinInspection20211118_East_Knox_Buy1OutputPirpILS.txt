@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 52 Arbroath Road- Wantirna South inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:10. With Travel time of 4 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 3/6 Valerie Street- Boronia inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:14 to 17:44. With Travel time of 4 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 1442 Mountain Highway- The Basin inspection window starts at 17:45 and Finishes at 18:15. It is inspected from 17:54 to 18:24. With Travel time of 10 mins. With an area duration of 20. And has an early start of 17:45 and a late finish of 18:15.
+After Improve inspections are: 
+Inspection at 52 Arbroath Road- Wantirna South inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:10. With Travel time of 4 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 3/6 Valerie Street- Boronia inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:14 to 17:44. With Travel time of 4 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 1442 Mountain Highway- The Basin inspection window starts at 17:45 and Finishes at 18:15. It is inspected from 17:54 to 18:24. With Travel time of 10 mins. With an area duration of 20. And has an early start of 17:45 and a late finish of 18:15.
+Construct aspect of algorithm took 8794milliseconds to run. 
+Improve aspect of algorithm took 31915milliseconds to run.
+ Overall the algorithm took 40710milliseconds to run.

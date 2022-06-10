@@ -1,0 +1,18 @@
+After construction the inspections are: 
+Inspection at 7 Robb Street- Reservoir inspection window starts at 09:15 and Finishes at 09:45. It is inspected from 09:06 to 09:46. With Travel time of 6 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:45.
+Inspection at 2/5 Highland Street- Kingsbury inspection window starts at 10:45 and Finishes at 11:15. It is inspected from 10:25 to 11:05. With Travel time of 4 mins. With an area duration of 20. And has an early start of 10:45 and a late finish of 11:15.
+Inspection at 179 Greenwood Drive- Bundoora inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:10 to 11:50. With Travel time of 5 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 116 Betula Avenue- Bundoora inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:20. With Travel time of 8 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 3/45 Hickford Street- Reservoir inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:31 to 12:51. With Travel time of 11 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 1/14 Cuthbert Road- Reservoir inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 4 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 13 Banool Street- Preston inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:26 to 14:06. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 7 Robb Street- Reservoir inspection window starts at 09:15 and Finishes at 09:45. It is inspected from 09:06 to 09:46. With Travel time of 6 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:45.
+Inspection at 2/5 Highland Street- Kingsbury inspection window starts at 10:45 and Finishes at 11:15. It is inspected from 10:25 to 11:05. With Travel time of 4 mins. With an area duration of 20. And has an early start of 10:45 and a late finish of 11:15.
+Inspection at 20 Robins Avenue- Reservoir inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:05 to 12:35. With Travel time of 0 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 34 Club Avenue- Kingsbury inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:15 to 13:20. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 1/14 Cuthbert Road- Reservoir inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:20. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 13 Banool Street- Preston inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:26 to 14:06. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 13031milliseconds to run. 
+Improve aspect of algorithm took 22738milliseconds to run.
+ Overall the algorithm took 35770milliseconds to run.

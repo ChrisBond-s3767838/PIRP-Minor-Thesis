@@ -1,0 +1,12 @@
+After construction the inspections are: 
+Inspection at D404/52 Nott Street- Port Melbourne inspection window starts at 13:00 and Finishes at 13:10. It is inspected from 12:50 to 13:15. With Travel time of 8 mins. With an area duration of 10. And has an early start of 13:00 and a late finish of 13:10.
+Inspection at 47/88 Park Street- South Melbourne inspection window starts at 15:55 and Finishes at 16:10. It is inspected from 15:45 to 16:10. With Travel time of 10 mins. With an area duration of 10. And has an early start of 15:55 and a late finish of 16:10.
+Inspection at 103/88 Park Street- South Melbourne inspection window starts at 16:15 and Finishes at 16:30. It is inspected from 16:15 to 16:30. With Travel time of 0 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at D404/52 Nott Street- Port Melbourne inspection window starts at 13:00 and Finishes at 13:10. It is inspected from 12:50 to 13:15. With Travel time of 8 mins. With an area duration of 10. And has an early start of 13:00 and a late finish of 13:10.
+Inspection at 47/88 Park Street- South Melbourne inspection window starts at 15:55 and Finishes at 16:10. It is inspected from 15:45 to 16:10. With Travel time of 10 mins. With an area duration of 10. And has an early start of 15:55 and a late finish of 16:10.
+Inspection at 103/88 Park Street- South Melbourne inspection window starts at 16:15 and Finishes at 16:30. It is inspected from 16:15 to 16:30. With Travel time of 0 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:30.
+Inspection at 101/222-224 Rouse Street- Port Melbourne inspection window starts at 16:45 and Finishes at 17:00. It is inspected from 16:45 to 17:00. With Travel time of 13 mins. With an area duration of 0. And has an early start of 16:45 and a late finish of 17:00.
+Construct aspect of algorithm took 3972milliseconds to run. 
+Improve aspect of algorithm took 10331milliseconds to run.
+ Overall the algorithm took 14304milliseconds to run.

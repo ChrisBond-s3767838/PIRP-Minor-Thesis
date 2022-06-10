@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 15 Conrad Court- Whittington inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of 22 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 19 Province Boulevard- Highton inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:26 to 10:56. With Travel time of 16 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 22 Hamlyn Avenue- Hamlyn Heights inspection window starts at 10:50 and Finishes at 11:20. It is inspected from 11:05 to 11:35. With Travel time of 9 mins. With an area duration of 20. And has an early start of 10:50 and a late finish of 11:20.
+Inspection at 10/43 Liverpool Street- Geelong inspection window starts at 11:00 and Finishes at 14:00. It is inspected from 11:44 to 12:14. With Travel time of 9 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 14:00.
+Inspection at 180 Autumn Street- Geelong West inspection window starts at 12:45 and Finishes at 13:15. It is inspected from 12:25 to 12:55. With Travel time of 7 mins. With an area duration of 20. And has an early start of 12:45 and a late finish of 13:15.
+Inspection at 3 Thorogood Court- Grovedale inspection window starts at 13:20 and Finishes at 13:40. It is inspected from 13:08 to 13:38. With Travel time of 13 mins. With an area duration of 20. And has an early start of 13:20 and a late finish of 13:40.
+Inspection at 46 Hillclimb Drive- Leopold inspection window starts at 13:45 and Finishes at 14:15. It is inspected from 14:00 to 14:30. With Travel time of 22 mins. With an area duration of 20. And has an early start of 13:45 and a late finish of 14:15.
+After Improve inspections are: 
+Inspection at 15 Conrad Court- Whittington inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of 22 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 19 Province Boulevard- Highton inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:26 to 10:56. With Travel time of 16 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 4 Macken Court- Highton inspection window starts at 11:15 and Finishes at 11:45. It is inspected from 11:15 to 12:00. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:15 and a late finish of 11:45.
+Inspection at 4 Robertson Street- Thomson inspection window starts at 11:50 and Finishes at 12:10. It is inspected from 11:50 to 12:55. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:50 and a late finish of 12:10.
+Inspection at 180 Autumn Street- Geelong West inspection window starts at 12:45 and Finishes at 13:15. It is inspected from 12:25 to 12:55. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:45 and a late finish of 13:15.
+Inspection at 3 Thorogood Court- Grovedale inspection window starts at 13:20 and Finishes at 13:40. It is inspected from 13:08 to 13:38. With Travel time of 13 mins. With an area duration of 20. And has an early start of 13:20 and a late finish of 13:40.
+Inspection at 46 Hillclimb Drive- Leopold inspection window starts at 13:45 and Finishes at 14:15. It is inspected from 14:00 to 14:30. With Travel time of 22 mins. With an area duration of 20. And has an early start of 13:45 and a late finish of 14:15.
+Construct aspect of algorithm took 13830milliseconds to run. 
+Improve aspect of algorithm took 11526milliseconds to run.
+ Overall the algorithm took 25356milliseconds to run.

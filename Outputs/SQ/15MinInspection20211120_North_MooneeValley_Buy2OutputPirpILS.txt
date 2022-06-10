@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 25 Hillsyde Parade- Strathmore inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:05 to 09:40. With Travel time of 5 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 4 Gibson Court- Essendon inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:49 to 10:24. With Travel time of 9 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 405/2 Mascoma Street- Ascot Vale inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:37 to 11:12. With Travel time of 13 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 29 Newman Street- Niddrie inspection window starts at 11:50 and Finishes at 12:20. It is inspected from 11:30 to 12:05. With Travel time of 10 mins. With an area duration of 20. And has an early start of 11:50 and a late finish of 12:20.
+Inspection at 21 Flower Street- Essendon inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:30 to 12:45. With Travel time of 9 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 4a Hampton Road- Essendon West inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:45. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 25 Hillsyde Parade- Strathmore inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:05 to 09:40. With Travel time of 5 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 4 Gibson Court- Essendon inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:49 to 10:24. With Travel time of 9 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 405/2 Mascoma Street- Ascot Vale inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:37 to 11:12. With Travel time of 13 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 29 Newman Street- Niddrie inspection window starts at 11:50 and Finishes at 12:20. It is inspected from 11:30 to 12:05. With Travel time of 10 mins. With an area duration of 20. And has an early start of 11:50 and a late finish of 12:20.
+Inspection at 21 Flower Street- Essendon inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:30 to 12:45. With Travel time of 9 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 4a Hampton Road- Essendon West inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:45. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 11347milliseconds to run. 
+Improve aspect of algorithm took 34408milliseconds to run.
+ Overall the algorithm took 45755milliseconds to run.

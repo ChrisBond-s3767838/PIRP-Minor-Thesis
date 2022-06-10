@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 50 Clovelly Drive- Craigieburn inspection window starts at 10:50 and Finishes at 11:00. It is inspected from 10:30 to 11:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 10:50 and a late finish of 11:00.
+Inspection at 4 Barnell Street- Craigieburn inspection window starts at 11:35 and Finishes at 11:45. It is inspected from 11:35 to 11:55. With Travel time of 8 mins. With an area duration of 0. And has an early start of 11:35 and a late finish of 11:45.
+Inspection at 31 Travers Street- Craigieburn inspection window starts at 12:10 and Finishes at 12:20. It is inspected from 12:10 to 12:30. With Travel time of 2 mins. With an area duration of 0. And has an early start of 12:10 and a late finish of 12:20.
+Inspection at 32 Taylan Street- Craigieburn inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:34 to 12:54. With Travel time of 4 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 53 Walsh Street- Broadmeadows inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:17 to 13:57. With Travel time of 23 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 13:45.
+After Improve inspections are: 
+Inspection at 50 Clovelly Drive- Craigieburn inspection window starts at 10:50 and Finishes at 11:00. It is inspected from 10:30 to 11:10. With Travel time of 5 mins. With an area duration of 20. And has an early start of 10:50 and a late finish of 11:00.
+Inspection at 6 Toongabbie Place- Craigieburn inspection window starts at 11:15 and Finishes at 11:25. It is inspected from 11:15 to 12:30. With Travel time of 0 mins. With an area duration of 0. And has an early start of 11:15 and a late finish of 11:25.
+Inspection at 31 Travers Street- Craigieburn inspection window starts at 12:10 and Finishes at 12:20. It is inspected from 12:10 to 12:30. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:10 and a late finish of 12:20.
+Inspection at 32 Taylan Street- Craigieburn inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:34 to 12:54. With Travel time of 4 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 53 Walsh Street- Broadmeadows inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:17 to 13:57. With Travel time of 23 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 13:45.
+Construct aspect of algorithm took 11701milliseconds to run. 
+Improve aspect of algorithm took 11343milliseconds to run.
+ Overall the algorithm took 23045milliseconds to run.

@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 2711/9 Power Street- Southbank inspection window starts at 12:10 and Finishes at 12:30. It is inspected from 12:00 to 12:30. With Travel time of 2 mins. With an area duration of 10. And has an early start of 12:10 and a late finish of 12:30.
+Inspection at 3001/483 Swanston Street- Melbourne inspection window starts at 14:00 and Finishes at 14:20. It is inspected from 13:50 to 14:20. With Travel time of 12 mins. With an area duration of 10. And has an early start of 14:00 and a late finish of 14:20.
+Inspection at 507E/888 Collins Street- Docklands inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:50 to 17:20. With Travel time of 11 mins. With an area duration of 10. And has an early start of 17:00 and a late finish of 17:30.
+After Improve inspections are: 
+Inspection at 2711/9 Power Street- Southbank inspection window starts at 12:10 and Finishes at 12:30. It is inspected from 12:00 to 12:30. With Travel time of 2 mins. With an area duration of 10. And has an early start of 12:10 and a late finish of 12:30.
+Inspection at 3001/483 Swanston Street- Melbourne inspection window starts at 14:00 and Finishes at 14:20. It is inspected from 13:50 to 14:20. With Travel time of 12 mins. With an area duration of 10. And has an early start of 14:00 and a late finish of 14:20.
+Inspection at 507E/888 Collins Street- Docklands inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:50 to 17:20. With Travel time of 11 mins. With an area duration of 10. And has an early start of 17:00 and a late finish of 17:30.
+Construct aspect of algorithm took 5248milliseconds to run. 
+Improve aspect of algorithm took 10867milliseconds to run.
+ Overall the algorithm took 16116milliseconds to run.

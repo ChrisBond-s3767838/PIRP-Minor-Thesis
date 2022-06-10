@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 22 Koormiel Lane- Fitzroy North inspection window starts at 11:15 and Finishes at 11:45. It is inspected from 11:05 to 11:25. With Travel time of 5 mins. With an area duration of 10. And has an early start of 11:15 and a late finish of 11:45.
+Inspection at 308/496-500 Brunswick Street- Fitzroy North inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:10. With Travel time of 4 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 170 Rose Street- Fitzroy inspection window starts at 12:00 and Finishes at 13:00. It is inspected from 12:13 to 12:33. With Travel time of 3 mins. With an area duration of 10. And has an early start of 12:00 and a late finish of 13:00.
+Inspection at 555 Rae Street- Fitzroy North inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:10. With Travel time of 7 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 2/182 Mckean Street- Fitzroy North inspection window starts at 14:45 and Finishes at 15:15. It is inspected from 14:45 to 14:55. With Travel time of 4 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:15.
+After Improve inspections are: 
+Inspection at 22 Koormiel Lane- Fitzroy North inspection window starts at 11:15 and Finishes at 11:45. It is inspected from 11:05 to 11:25. With Travel time of 5 mins. With an area duration of 10. And has an early start of 11:15 and a late finish of 11:45.
+Inspection at 308/496-500 Brunswick Street- Fitzroy North inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:10. With Travel time of 4 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 170 Rose Street- Fitzroy inspection window starts at 12:00 and Finishes at 13:00. It is inspected from 12:13 to 12:33. With Travel time of 3 mins. With an area duration of 10. And has an early start of 12:00 and a late finish of 13:00.
+Inspection at 555 Rae Street- Fitzroy North inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:10. With Travel time of 7 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 2/182 Mckean Street- Fitzroy North inspection window starts at 14:45 and Finishes at 15:15. It is inspected from 14:45 to 14:55. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:15.
+Inspection at 23 St Georges Road South- Fitzroy North inspection window starts at 14:45 and Finishes at 15:15. It is inspected from 14:59 to 15:09. With Travel time of 4 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:15.
+Inspection at 612a Drummond Street- Carlton North inspection window starts at 14:45 and Finishes at 15:15. It is inspected from 15:02 to 15:22. With Travel time of 7 mins. With an area duration of 10. And has an early start of 14:45 and a late finish of 15:15.
+Construct aspect of algorithm took 13525milliseconds to run. 
+Improve aspect of algorithm took 17566milliseconds to run.
+ Overall the algorithm took 31092milliseconds to run.

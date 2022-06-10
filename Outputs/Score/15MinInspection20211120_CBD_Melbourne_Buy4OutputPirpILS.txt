@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 1202/241 City Road- Southbank inspection window starts at 11:00 and Finishes at 11:20. It is inspected from 10:50 to 11:15. With Travel time of 0 mins. With an area duration of 10. And has an early start of 11:00 and a late finish of 11:20.
+Inspection at 525/757 Bourke Street- Docklands inspection window starts at 12:15 and Finishes at 12:30. It is inspected from 12:05 to 12:30. With Travel time of 7 mins. With an area duration of 10. And has an early start of 12:15 and a late finish of 12:30.
+Inspection at 514/33 Mackenzie Street- Melbourne inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:50 to 14:15. With Travel time of 11 mins. With an area duration of 10. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 190/88 Kavanagh Street- Southbank inspection window starts at 14:15 and Finishes at 14:45. It is inspected from 14:27 to 14:42. With Travel time of 12 mins. With an area duration of 0. And has an early start of 14:15 and a late finish of 14:45.
+Inspection at 3511/1 Freshwater Place- Southbank inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:15. With Travel time of 3 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 4203/568 Collins St- Melbourne inspection window starts at 17:15 and Finishes at 17:45. It is inspected from 17:05 to 17:30. With Travel time of 10 mins. With an area duration of 10. And has an early start of 17:15 and a late finish of 17:45.
+After Improve inspections are: 
+Inspection at 1202/241 City Road- Southbank inspection window starts at 11:00 and Finishes at 11:20. It is inspected from 10:50 to 11:15. With Travel time of 0 mins. With an area duration of 10. And has an early start of 11:00 and a late finish of 11:20.
+Inspection at 2711/9 Power Street- Southbank inspection window starts at 12:10 and Finishes at 12:30. It is inspected from 12:10 to 14:15. With Travel time of 0 mins. With an area duration of 10. And has an early start of 12:10 and a late finish of 12:30.
+Inspection at 514/33 Mackenzie Street- Melbourne inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:50 to 14:15. With Travel time of 0 mins. With an area duration of 10. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 190/88 Kavanagh Street- Southbank inspection window starts at 14:15 and Finishes at 14:45. It is inspected from 14:27 to 14:42. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:15 and a late finish of 14:45.
+Inspection at 3511/1 Freshwater Place- Southbank inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:15. With Travel time of 3 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 4203/568 Collins St- Melbourne inspection window starts at 17:15 and Finishes at 17:45. It is inspected from 17:05 to 17:30. With Travel time of 10 mins. With an area duration of 10. And has an early start of 17:15 and a late finish of 17:45.
+Construct aspect of algorithm took 9805milliseconds to run. 
+Improve aspect of algorithm took 13628milliseconds to run.
+ Overall the algorithm took 23434milliseconds to run.

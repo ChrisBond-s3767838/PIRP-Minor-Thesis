@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 7/18-20 Rosanna Road Road- Heidelberg inspection window starts at 13:00 and Finishes at 13:15. It is inspected from 12:40 to 13:10. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:15.
+Inspection at 206a/56-58 Myrtle Street- Ivanhoe inspection window starts at 15:00 and Finishes at 15:20. It is inspected from 14:40 to 15:10. With Travel time of 4 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:20.
+Inspection at 4 Byron Court- Heidelberg Heights inspection window starts at 15:50 and Finishes at 16:05. It is inspected from 15:50 to 16:00. With Travel time of 5 mins. With an area duration of 0. And has an early start of 15:50 and a late finish of 16:05.
+After Improve inspections are: 
+Inspection at 7/18-20 Rosanna Road Road- Heidelberg inspection window starts at 13:00 and Finishes at 13:15. It is inspected from 12:40 to 13:10. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:15.
+Inspection at 206a/56-58 Myrtle Street- Ivanhoe inspection window starts at 15:00 and Finishes at 15:20. It is inspected from 14:40 to 15:10. With Travel time of 4 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:20.
+Inspection at 4 Byron Court- Heidelberg Heights inspection window starts at 15:50 and Finishes at 16:05. It is inspected from 15:50 to 16:00. With Travel time of 5 mins. With an area duration of 0. And has an early start of 15:50 and a late finish of 16:05.
+Construct aspect of algorithm took 7282milliseconds to run. 
+Improve aspect of algorithm took 10386milliseconds to run.
+ Overall the algorithm took 17669milliseconds to run.

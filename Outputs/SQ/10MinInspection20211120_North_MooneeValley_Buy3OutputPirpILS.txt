@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 9/130-132 Hoffmans Road- Essendon inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:10 to 12:40. With Travel time of 3 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 20 Byron Street- Moonee Ponds inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:40. With Travel time of 11 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 9/130-132 Hoffmans Road- Essendon inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:10 to 12:40. With Travel time of 3 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 20 Byron Street- Moonee Ponds inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:40. With Travel time of 11 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 5598milliseconds to run. 
+Improve aspect of algorithm took 11084milliseconds to run.
+ Overall the algorithm took 16682milliseconds to run.

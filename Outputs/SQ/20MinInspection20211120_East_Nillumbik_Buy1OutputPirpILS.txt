@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 2/5 Cygnet Court- Eltham inspection window starts at 13:15 and Finishes at 13:45. It is inspected from 12:55 to 13:35. With Travel time of 3 mins. With an area duration of 20. And has an early start of 13:15 and a late finish of 13:45.
+Inspection at 40 Alma Road- Panton Hill inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:54 to 14:34. With Travel time of 19 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 14 Coolabah Drive- Eltham inspection window starts at 15:30 and Finishes at 16:00. It is inspected from 15:30 to 15:50. With Travel time of 14 mins. With an area duration of 0. And has an early start of 15:30 and a late finish of 16:00.
+Inspection at 19 Frank Street- Eltham inspection window starts at 15:45 and Finishes at 16:15. It is inspected from 15:52 to 16:12. With Travel time of 2 mins. With an area duration of 0. And has an early start of 15:45 and a late finish of 16:15.
+Inspection at 85 Research Warrandyte Road- North Warrandyte inspection window starts at 16:30 and Finishes at 17:00. It is inspected from 16:30 to 16:50. With Travel time of 7 mins. With an area duration of 0. And has an early start of 16:30 and a late finish of 17:00.
+After Improve inspections are: 
+Inspection at 2/5 Cygnet Court- Eltham inspection window starts at 13:15 and Finishes at 13:45. It is inspected from 12:55 to 13:35. With Travel time of 3 mins. With an area duration of 20. And has an early start of 13:15 and a late finish of 13:45.
+Inspection at 40 Alma Road- Panton Hill inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:54 to 14:34. With Travel time of 19 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 170A Gosfield Road- Panton Hill inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 16:05. With Travel time of 0 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 19 Frank Street- Eltham inspection window starts at 15:45 and Finishes at 16:15. It is inspected from 15:52 to 16:12. With Travel time of 0 mins. With an area duration of 0. And has an early start of 15:45 and a late finish of 16:15.
+Inspection at 85 Research Warrandyte Road- North Warrandyte inspection window starts at 16:30 and Finishes at 17:00. It is inspected from 16:30 to 16:50. With Travel time of 7 mins. With an area duration of 0. And has an early start of 16:30 and a late finish of 17:00.
+Construct aspect of algorithm took 7223milliseconds to run. 
+Improve aspect of algorithm took 10973milliseconds to run.
+ Overall the algorithm took 18197milliseconds to run.

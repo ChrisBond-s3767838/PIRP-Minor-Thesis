@@ -1,0 +1,21 @@
+After construction the inspections are: 
+Inspection at 8/33 Cain Avenue- Northcote inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:14 to 09:49. With Travel time of 14 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 18 Cheddar Road- Reservoir inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:10 to 10:45. With Travel time of 17 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 2/172 Purinuan Road- Reservoir inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 11:15. With Travel time of 3 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 1/85 Newlands Road- Coburg North inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:22 to 11:57. With Travel time of 7 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 124 Edwardes Street- Reservoir inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:15. With Travel time of 3 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 36 Raymond Street- Preston inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:22 to 12:57. With Travel time of 7 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 105/23-25 Clapham Street- Thornbury inspection window starts at 13:15 and Finishes at 13:45. It is inspected from 13:03 to 13:38. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:15 and a late finish of 13:45.
+Inspection at 119/5 Beavers Road- Northcote inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:42 to 13:57. With Travel time of 4 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 8/33 Cain Avenue- Northcote inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:14 to 09:49. With Travel time of 14 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 18 Cheddar Road- Reservoir inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:10 to 10:45. With Travel time of 17 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 2/172 Purinuan Road- Reservoir inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 11:15. With Travel time of 3 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 1/85 Newlands Road- Coburg North inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:22 to 11:57. With Travel time of 7 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 124 Edwardes Street- Reservoir inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:15. With Travel time of 3 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 36 Raymond Street- Preston inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 12:22 to 12:57. With Travel time of 7 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 105/23-25 Clapham Street- Thornbury inspection window starts at 13:15 and Finishes at 13:45. It is inspected from 13:03 to 13:38. With Travel time of 6 mins. With an area duration of 20. And has an early start of 13:15 and a late finish of 13:45.
+Inspection at 119/5 Beavers Road- Northcote inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:42 to 13:57. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 16973milliseconds to run. 
+Improve aspect of algorithm took 36793milliseconds to run.
+ Overall the algorithm took 53767milliseconds to run.

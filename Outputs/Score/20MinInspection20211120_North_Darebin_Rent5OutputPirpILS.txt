@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 2/44 Keon Street- Thornbury inspection window starts at 13:00 and Finishes at 13:20. It is inspected from 12:40 to 13:20. With Travel time of 11 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:20.
+Inspection at 2/161 Rathcown Road- Reservoir inspection window starts at 13:50 and Finishes at 14:05. It is inspected from 13:31 to 14:11. With Travel time of 11 mins. With an area duration of 20. And has an early start of 13:50 and a late finish of 14:05.
+Inspection at 1/48 victoria- Coburg inspection window starts at 15:00 and Finishes at 15:15. It is inspected from 14:40 to 15:20. With Travel time of 15 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:15.
+Inspection at 3/23 Dyson Street- Reservoir inspection window starts at 15:55 and Finishes at 16:10. It is inspected from 15:55 to 16:15. With Travel time of 11 mins. With an area duration of 0. And has an early start of 15:55 and a late finish of 16:10.
+Inspection at 2/1067 High Street- Reservoir inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:30 to 16:50. With Travel time of 6 mins. With an area duration of 0. And has an early start of 16:30 and a late finish of 16:45.
+Inspection at 4 Morris Street- Reservoir inspection window starts at 17:15 and Finishes at 17:30. It is inspected from 17:15 to 17:35. With Travel time of 1 mins. With an area duration of 0. And has an early start of 17:15 and a late finish of 17:30.
+After Improve inspections are: 
+Inspection at 2/44 Keon Street- Thornbury inspection window starts at 13:00 and Finishes at 13:20. It is inspected from 12:40 to 13:20. With Travel time of 11 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:20.
+Inspection at 39 Fyffe Street- Thornbury inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:30 to 15:20. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 13:45.
+Inspection at 1/48 victoria- Coburg inspection window starts at 15:00 and Finishes at 15:15. It is inspected from 14:40 to 15:20. With Travel time of 0 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:15.
+Inspection at 3/23 Dyson Street- Reservoir inspection window starts at 15:55 and Finishes at 16:10. It is inspected from 15:55 to 16:15. With Travel time of 11 mins. With an area duration of 0. And has an early start of 15:55 and a late finish of 16:10.
+Inspection at 2/1067 High Street- Reservoir inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:30 to 16:50. With Travel time of 6 mins. With an area duration of 0. And has an early start of 16:30 and a late finish of 16:45.
+Inspection at 4 Morris Street- Reservoir inspection window starts at 17:15 and Finishes at 17:30. It is inspected from 17:15 to 17:35. With Travel time of 1 mins. With an area duration of 0. And has an early start of 17:15 and a late finish of 17:30.
+Construct aspect of algorithm took 11166milliseconds to run. 
+Improve aspect of algorithm took 10384milliseconds to run.
+ Overall the algorithm took 21550milliseconds to run.

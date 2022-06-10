@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 188 Princes Street- Port Melbourne inspection window starts at 13:20 and Finishes at 13:30. It is inspected from 13:10 to 13:40. With Travel time of 19 mins. With an area duration of 10. And has an early start of 13:20 and a late finish of 13:30.
+Inspection at 103/88 Park Street- South Melbourne inspection window starts at 16:15 and Finishes at 16:30. It is inspected from 16:05 to 16:35. With Travel time of 23 mins. With an area duration of 10. And has an early start of 16:15 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at 188 Princes Street- Port Melbourne inspection window starts at 13:20 and Finishes at 13:30. It is inspected from 13:10 to 13:40. With Travel time of 19 mins. With an area duration of 10. And has an early start of 13:20 and a late finish of 13:30.
+Inspection at 103/88 Park Street- South Melbourne inspection window starts at 16:15 and Finishes at 16:30. It is inspected from 16:05 to 16:35. With Travel time of 23 mins. With an area duration of 10. And has an early start of 16:15 and a late finish of 16:30.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

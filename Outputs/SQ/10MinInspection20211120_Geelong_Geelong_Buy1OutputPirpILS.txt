@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 201/64-66 Eastern Beach Road- Geelong inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of 3 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 16 Zinnia Street- Norlane inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:10 to 11:40. With Travel time of 13 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 29 Seaview Parade- Belmont inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:56 to 12:26. With Travel time of 16 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 32 Clarkes Road- Fyansford inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:40. With Travel time of 11 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 1 Pattison Avenue- North Geelong inspection window starts at 15:30 and Finishes at 16:00. It is inspected from 15:10 to 15:40. With Travel time of 9 mins. With an area duration of 20. And has an early start of 15:30 and a late finish of 16:00.
+Inspection at 42 Prestige Avenue- Bell Park inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 15:47 to 16:17. With Travel time of 7 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at 201/64-66 Eastern Beach Road- Geelong inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of 3 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 16 Zinnia Street- Norlane inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:10 to 11:40. With Travel time of 13 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 16 Zinnia Street- Norlane inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:40 to 13:40. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 32 Clarkes Road- Fyansford inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:10 to 13:40. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 1 Pattison Avenue- North Geelong inspection window starts at 15:30 and Finishes at 16:00. It is inspected from 15:10 to 15:40. With Travel time of 9 mins. With an area duration of 20. And has an early start of 15:30 and a late finish of 16:00.
+Inspection at 42 Prestige Avenue- Bell Park inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 15:47 to 16:17. With Travel time of 7 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:30.
+Construct aspect of algorithm took 14412milliseconds to run. 
+Improve aspect of algorithm took 32475milliseconds to run.
+ Overall the algorithm took 46888milliseconds to run.

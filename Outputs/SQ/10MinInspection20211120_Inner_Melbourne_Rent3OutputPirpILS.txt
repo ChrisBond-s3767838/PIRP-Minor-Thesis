@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 18 Cade Square- Parkville inspection window starts at 10:10 and Finishes at 10:30. It is inspected from 10:00 to 10:20. With Travel time of 9 mins. With an area duration of 10. And has an early start of 10:10 and a late finish of 10:30.
+Inspection at 23/202 The Avenue- Parkville inspection window starts at 12:00 and Finishes at 12:15. It is inspected from 11:50 to 12:10. With Travel time of 4 mins. With an area duration of 10. And has an early start of 12:00 and a late finish of 12:15.
+Inspection at 90 Dudley Street- West Melbourne inspection window starts at 13:15 and Finishes at 13:30. It is inspected from 13:05 to 13:25. With Travel time of 10 mins. With an area duration of 10. And has an early start of 13:15 and a late finish of 13:30.
+Inspection at 2/369 Abbotsford Street- North Melbourne inspection window starts at 13:35 and Finishes at 13:50. It is inspected from 13:28 to 13:48. With Travel time of 3 mins. With an area duration of 10. And has an early start of 13:35 and a late finish of 13:50.
+After Improve inspections are: 
+Inspection at 18 Cade Square- Parkville inspection window starts at 10:10 and Finishes at 10:30. It is inspected from 10:00 to 10:20. With Travel time of 9 mins. With an area duration of 10. And has an early start of 10:10 and a late finish of 10:30.
+Inspection at 23/202 The Avenue- Parkville inspection window starts at 12:00 and Finishes at 12:15. It is inspected from 11:50 to 12:10. With Travel time of 4 mins. With an area duration of 10. And has an early start of 12:00 and a late finish of 12:15.
+Inspection at 90 Dudley Street- West Melbourne inspection window starts at 13:15 and Finishes at 13:30. It is inspected from 13:05 to 13:25. With Travel time of 10 mins. With an area duration of 10. And has an early start of 13:15 and a late finish of 13:30.
+Inspection at 2/369 Abbotsford Street- North Melbourne inspection window starts at 13:35 and Finishes at 13:50. It is inspected from 13:28 to 13:48. With Travel time of 3 mins. With an area duration of 10. And has an early start of 13:35 and a late finish of 13:50.
+Construct aspect of algorithm took 9760milliseconds to run. 
+Improve aspect of algorithm took 14176milliseconds to run.
+ Overall the algorithm took 23937milliseconds to run.

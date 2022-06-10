@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 3/76 Barton Street- Reservoir inspection window starts at 11:50 and Finishes at 12:00. It is inspected from 11:30 to 12:00. With Travel time of 15 mins. With an area duration of 20. And has an early start of 11:50 and a late finish of 12:00.
+Inspection at 1/53 Howard Street- Reservoir inspection window starts at 12:10 and Finishes at 12:25. It is inspected from 12:10 to 12:20. With Travel time of 5 mins. With an area duration of 0. And has an early start of 12:10 and a late finish of 12:25.
+Inspection at 2/12 Spencer St- Preston inspection window starts at 12:30 and Finishes at 12:50. It is inspected from 12:24 to 12:54. With Travel time of 4 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 12:50.
+Inspection at 58d Leinster Grove- Thornbury inspection window starts at 13:00 and Finishes at 13:15. It is inspected from 13:03 to 13:33. With Travel time of 9 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:15.
+After Improve inspections are: 
+Inspection at 3/76 Barton Street- Reservoir inspection window starts at 11:50 and Finishes at 12:00. It is inspected from 11:30 to 12:00. With Travel time of 15 mins. With an area duration of 20. And has an early start of 11:50 and a late finish of 12:00.
+Inspection at 1/53 Howard Street- Reservoir inspection window starts at 12:10 and Finishes at 12:25. It is inspected from 12:10 to 12:20. With Travel time of 5 mins. With an area duration of 0. And has an early start of 12:10 and a late finish of 12:25.
+Inspection at 2/12 Spencer St- Preston inspection window starts at 12:30 and Finishes at 12:50. It is inspected from 12:24 to 12:54. With Travel time of 4 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 12:50.
+Inspection at 58d Leinster Grove- Thornbury inspection window starts at 13:00 and Finishes at 13:15. It is inspected from 13:03 to 13:33. With Travel time of 9 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:15.
+Construct aspect of algorithm took 9872milliseconds to run. 
+Improve aspect of algorithm took 11768milliseconds to run.
+ Overall the algorithm took 21641milliseconds to run.

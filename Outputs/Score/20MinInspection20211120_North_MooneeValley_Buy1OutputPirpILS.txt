@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 6 Stanley Street- Essendon inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:20. With Travel time of 3 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 1 Vida Street- Aberfeldie inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:24 to 11:04. With Travel time of 4 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 402/952 Mt Alexander Rd- Essendon inspection window starts at 11:55 and Finishes at 12:30. It is inspected from 11:55 to 12:15. With Travel time of 4 mins. With an area duration of 0. And has an early start of 11:55 and a late finish of 12:30.
+Inspection at 2/26 Wright Street- Essendon inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:50. With Travel time of 3 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 6 Stanley Street- Essendon inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:20. With Travel time of 3 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 25/122 Maribyrnong Road- Moonee Ponds inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:20 to 12:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 402/952 Mt Alexander Rd- Essendon inspection window starts at 11:55 and Finishes at 12:30. It is inspected from 11:55 to 12:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 11:55 and a late finish of 12:30.
+Inspection at 2/26 Wright Street- Essendon inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:50. With Travel time of 3 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 6704milliseconds to run. 
+Improve aspect of algorithm took 25833milliseconds to run.
+ Overall the algorithm took 32538milliseconds to run.

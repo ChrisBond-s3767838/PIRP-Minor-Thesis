@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 104/589 Elizabeth Street- Melbourne inspection window starts at 14:15 and Finishes at 14:30. It is inspected from 14:05 to 14:30. With Travel time of 8 mins. With an area duration of 10. And has an early start of 14:15 and a late finish of 14:30.
+Inspection at 102/618 Lonsdale Street- Melbourne inspection window starts at 15:15 and Finishes at 15:30. It is inspected from 15:05 to 15:30. With Travel time of 8 mins. With an area duration of 10. And has an early start of 15:15 and a late finish of 15:30.
+Inspection at 907/238 Flinders Street- Melbourne inspection window starts at 15:50 and Finishes at 16:05. It is inspected from 15:40 to 16:05. With Travel time of 10 mins. With an area duration of 10. And has an early start of 15:50 and a late finish of 16:05.
+After Improve inspections are: 
+Inspection at 104/589 Elizabeth Street- Melbourne inspection window starts at 14:15 and Finishes at 14:30. It is inspected from 14:05 to 14:30. With Travel time of 8 mins. With an area duration of 10. And has an early start of 14:15 and a late finish of 14:30.
+Inspection at 102/618 Lonsdale Street- Melbourne inspection window starts at 15:15 and Finishes at 15:30. It is inspected from 15:05 to 15:30. With Travel time of 8 mins. With an area duration of 10. And has an early start of 15:15 and a late finish of 15:30.
+Inspection at 907/238 Flinders Street- Melbourne inspection window starts at 15:50 and Finishes at 16:05. It is inspected from 15:40 to 16:05. With Travel time of 10 mins. With an area duration of 10. And has an early start of 15:50 and a late finish of 16:05.
+Construct aspect of algorithm took 4046milliseconds to run. 
+Improve aspect of algorithm took 10148milliseconds to run.
+ Overall the algorithm took 14195milliseconds to run.

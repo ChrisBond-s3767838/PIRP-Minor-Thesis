@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 106/80 Cade Way- Parkville inspection window starts at 12:10 and Finishes at 12:30. It is inspected from 12:00 to 12:30. With Travel time of 10 mins. With an area duration of 10. And has an early start of 12:10 and a late finish of 12:30.
+Inspection at 108/33 Cliveden Close- East Melbourne inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:50 to 13:20. With Travel time of 20 mins. With an area duration of 10. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 415/145 Queensberry Street- Carlton inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:29 to 13:59. With Travel time of 9 mins. With an area duration of 10. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 1502/65 Dudley Street- West Melbourne inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 14:05 to 14:35. With Travel time of 6 mins. With an area duration of 10. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 2-6 Morrison Place- East Melbourne inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:20. With Travel time of 11 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 52 Mill Street- Carlton inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:20. With Travel time of 520 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+After Improve inspections are: 
+Inspection at 106/80 Cade Way- Parkville inspection window starts at 12:10 and Finishes at 12:30. It is inspected from 12:00 to 12:30. With Travel time of 10 mins. With an area duration of 10. And has an early start of 12:10 and a late finish of 12:30.
+Inspection at 108/33 Cliveden Close- East Melbourne inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:50 to 13:20. With Travel time of 20 mins. With an area duration of 10. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 604/118 Dudley Street- West Melbourne inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 14:20. With Travel time of 0 mins. With an area duration of 10. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 1502/65 Dudley Street- West Melbourne inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 14:05 to 14:35. With Travel time of 0 mins. With an area duration of 10. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 2-6 Morrison Place- East Melbourne inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:20. With Travel time of 11 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 52 Mill Street- Carlton inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 15:00 to 15:20. With Travel time of 520 mins. With an area duration of 0. And has an early start of 15:00 and a late finish of 15:30.
+Construct aspect of algorithm took 15482milliseconds to run. 
+Improve aspect of algorithm took 11242milliseconds to run.
+ Overall the algorithm took 26725milliseconds to run.

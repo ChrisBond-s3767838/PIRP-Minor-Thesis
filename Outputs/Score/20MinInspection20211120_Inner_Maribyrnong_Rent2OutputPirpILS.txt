@@ -1,0 +1,16 @@
+After construction the inspections are: 
+Inspection at 906C/2 Tannery Walk- Footscray inspection window starts at 09:40 and Finishes at 10:00. It is inspected from 09:30 to 10:00. With Travel time of 4 mins. With an area duration of 10. And has an early start of 09:40 and a late finish of 10:00.
+Inspection at 35 Swan- Footscray inspection window starts at 11:15 and Finishes at 11:30. It is inspected from 11:05 to 11:35. With Travel time of 8 mins. With an area duration of 10. And has an early start of 11:15 and a late finish of 11:30.
+Inspection at 1/71 Kingsville Street- Kingsville inspection window starts at 12:45 and Finishes at 13:00. It is inspected from 12:35 to 13:05. With Travel time of 5 mins. With an area duration of 10. And has an early start of 12:45 and a late finish of 13:00.
+Inspection at 1B Aliwal Street- West Footscray inspection window starts at 13:30 and Finishes at 13:40. It is inspected from 13:20 to 13:50. With Travel time of 5 mins. With an area duration of 10. And has an early start of 13:30 and a late finish of 13:40.
+After Improve inspections are: 
+Inspection at 906C/2 Tannery Walk- Footscray inspection window starts at 09:40 and Finishes at 10:00. It is inspected from 09:30 to 10:00. With Travel time of 4 mins. With an area duration of 10. And has an early start of 09:40 and a late finish of 10:00.
+Inspection at 35 Swan- Footscray inspection window starts at 11:15 and Finishes at 11:30. It is inspected from 11:05 to 11:35. With Travel time of 8 mins. With an area duration of 10. And has an early start of 11:15 and a late finish of 11:30.
+Inspection at 1/71 Kingsville Street- Kingsville inspection window starts at 12:45 and Finishes at 13:00. It is inspected from 12:35 to 13:05. With Travel time of 5 mins. With an area duration of 10. And has an early start of 12:45 and a late finish of 13:00.
+Inspection at 1B Aliwal Street- West Footscray inspection window starts at 13:30 and Finishes at 13:40. It is inspected from 13:20 to 13:50. With Travel time of 5 mins. With an area duration of 10. And has an early start of 13:30 and a late finish of 13:40.
+Inspection at 1307D/6 Tannery Walk- Footscray inspection window starts at 14:20 and Finishes at 14:30. It is inspected from 14:20 to 14:40. With Travel time of 8 mins. With an area duration of 0. And has an early start of 14:20 and a late finish of 14:30.
+Inspection at 16 Court Street- Yarraville inspection window starts at 14:10 and Finishes at 14:20. It is inspected from 14:10 to 14:30. With Travel time of 7 mins. With an area duration of 0. And has an early start of 14:10 and a late finish of 14:20.
+Inspection at 4/158 Barkly Street- Footscray inspection window starts at 14:15 and Finishes at 14:30. It is inspected from 14:15 to 14:35. With Travel time of 7 mins. With an area duration of 0. And has an early start of 14:15 and a late finish of 14:30.
+Construct aspect of algorithm took 7512milliseconds to run. 
+Improve aspect of algorithm took 13024milliseconds to run.
+ Overall the algorithm took 20537milliseconds to run.

@@ -1,0 +1,17 @@
+After construction the inspections are: 
+Inspection at 198/79 Whiteman Street- Southbank inspection window starts at 11:00 and Finishes at 11:20. It is inspected from 10:50 to 11:10. With Travel time of 18 mins. With an area duration of 10. And has an early start of 11:00 and a late finish of 11:20.
+Inspection at 2410/163 City Road- Southbank inspection window starts at 11:40 and Finishes at 12:00. It is inspected from 11:40 to 11:50. With Travel time of 4 mins. With an area duration of 0. And has an early start of 11:40 and a late finish of 12:00.
+Inspection at 1005/8 Kavanagh Street- Southbank inspection window starts at 12:10 and Finishes at 12:40. It is inspected from 12:10 to 12:20. With Travel time of 3 mins. With an area duration of 0. And has an early start of 12:10 and a late finish of 12:40.
+Inspection at 1303/81 South Wharf Drive- Docklands inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:50 to 13:10. With Travel time of 27 mins. With an area duration of 10. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 2305/39 Lonsdale Street- Melbourne inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:25 to 14:45. With Travel time of 75 mins. With an area duration of 10. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 1304/105 Clarendon Street- Southbank inspection window starts at 16:15 and Finishes at 16:45. It is inspected from 16:15 to 16:25. With Travel time of 75 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:45.
+After Improve inspections are: 
+Inspection at 198/79 Whiteman Street- Southbank inspection window starts at 11:00 and Finishes at 11:20. It is inspected from 10:50 to 11:10. With Travel time of 18 mins. With an area duration of 10. And has an early start of 11:00 and a late finish of 11:20.
+Inspection at 2410/163 City Road- Southbank inspection window starts at 11:40 and Finishes at 12:00. It is inspected from 11:40 to 11:50. With Travel time of 4 mins. With an area duration of 0. And has an early start of 11:40 and a late finish of 12:00.
+Inspection at 1005/8 Kavanagh Street- Southbank inspection window starts at 12:10 and Finishes at 12:40. It is inspected from 12:10 to 12:20. With Travel time of 3 mins. With an area duration of 0. And has an early start of 12:10 and a late finish of 12:40.
+Inspection at 273/183 City Road- Southbank inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 14:55. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 3007/639 Lonsdale Street- Melbourne inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:35 to 16:25. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 1304/105 Clarendon Street- Southbank inspection window starts at 16:15 and Finishes at 16:45. It is inspected from 16:15 to 16:25. With Travel time of 0 mins. With an area duration of 0. And has an early start of 16:15 and a late finish of 16:45.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

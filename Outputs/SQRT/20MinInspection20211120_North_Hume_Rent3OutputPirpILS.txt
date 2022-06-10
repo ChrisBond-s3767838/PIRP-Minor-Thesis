@@ -1,0 +1,10 @@
+After construction the inspections are: 
+Inspection at 39 Kennedy Parade- Roxburgh Park inspection window starts at 14:15 and Finishes at 14:30. It is inspected from 13:55 to 14:35. With Travel time of 15 mins. With an area duration of 20. And has an early start of 14:15 and a late finish of 14:30.
+Inspection at 50 Bluebell Drive- Craigieburn inspection window starts at 15:10 and Finishes at 15:25. It is inspected from 14:50 to 15:30. With Travel time of 14 mins. With an area duration of 20. And has an early start of 15:10 and a late finish of 15:25.
+After Improve inspections are: 
+Inspection at 39 Kennedy Parade- Roxburgh Park inspection window starts at 14:15 and Finishes at 14:30. It is inspected from 13:55 to 14:35. With Travel time of 15 mins. With an area duration of 20. And has an early start of 14:15 and a late finish of 14:30.
+Inspection at 50 Bluebell Drive- Craigieburn inspection window starts at 15:10 and Finishes at 15:25. It is inspected from 14:50 to 15:30. With Travel time of 14 mins. With an area duration of 20. And has an early start of 15:10 and a late finish of 15:25.
+Inspection at 9 KALES COURT- Kalkallo inspection window starts at 15:45 and Finishes at 16:00. It is inspected from 15:43 to 16:23. With Travel time of 13 mins. With an area duration of 20. And has an early start of 15:45 and a late finish of 16:00.
+Construct aspect of algorithm took 5420milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 15420milliseconds to run.

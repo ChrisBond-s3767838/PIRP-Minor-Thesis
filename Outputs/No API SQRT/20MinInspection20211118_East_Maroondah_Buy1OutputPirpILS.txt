@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 3/290 Maroondah Highway- Croydon inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:40 to 14:20. With Travel time of 7 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 63 Maidstone Street- Ringwood inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 3 Handscombe Court- Croydon Hills inspection window starts at 15:30 and Finishes at 16:00. It is inspected from 15:28 to 16:08. With Travel time of 8 mins. With an area duration of 20. And has an early start of 15:30 and a late finish of 16:00.
+Inspection at 29 Orchard Grove- Heathmont inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:20. With Travel time of 18 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 20 Viviani Crescent- Heathmont inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:35 to 17:55. With Travel time of 15 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:00.
+After Improve inspections are: 
+Inspection at 3/290 Maroondah Highway- Croydon inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:40 to 14:20. With Travel time of 7 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 63 Maidstone Street- Ringwood inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Inspection at 82 Lee-Ann Crescent- Croydon inspection window starts at 15:30 and Finishes at 16:00. It is inspected from 15:30 to 17:20. With Travel time of 0 mins. With an area duration of 20. And has an early start of 15:30 and a late finish of 16:00.
+Inspection at 29 Orchard Grove- Heathmont inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 16:40 to 17:20. With Travel time of 0 mins. With an area duration of 20. And has an early start of 17:00 and a late finish of 17:30.
+Inspection at 20 Viviani Crescent- Heathmont inspection window starts at 17:30 and Finishes at 18:00. It is inspected from 17:35 to 17:55. With Travel time of 15 mins. With an area duration of 0. And has an early start of 17:30 and a late finish of 18:00.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

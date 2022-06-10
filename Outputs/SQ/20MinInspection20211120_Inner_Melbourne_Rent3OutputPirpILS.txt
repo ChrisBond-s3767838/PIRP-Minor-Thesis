@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 18 Cade Square- Parkville inspection window starts at 10:10 and Finishes at 10:30. It is inspected from 10:00 to 10:30. With Travel time of 12 mins. With an area duration of 10. And has an early start of 10:10 and a late finish of 10:30.
+Inspection at 1301/53 Batman Street- West Melbourne inspection window starts at 12:05 and Finishes at 12:20. It is inspected from 11:55 to 12:25. With Travel time of 11 mins. With an area duration of 10. And has an early start of 12:05 and a late finish of 12:20.
+Inspection at 615/280 Albert Street- East Melbourne inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:50 to 13:20. With Travel time of 12 mins. With an area duration of 10. And has an early start of 13:00 and a late finish of 13:30.
+After Improve inspections are: 
+Inspection at 18 Cade Square- Parkville inspection window starts at 10:10 and Finishes at 10:30. It is inspected from 10:00 to 10:30. With Travel time of 12 mins. With an area duration of 10. And has an early start of 10:10 and a late finish of 10:30.
+Inspection at 1301/53 Batman Street- West Melbourne inspection window starts at 12:05 and Finishes at 12:20. It is inspected from 11:55 to 12:25. With Travel time of 11 mins. With an area duration of 10. And has an early start of 12:05 and a late finish of 12:20.
+Inspection at 615/280 Albert Street- East Melbourne inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:50 to 13:20. With Travel time of 0 mins. With an area duration of 10. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 334/51 RATHDOWNE STREET- Carlton inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:25 to 13:55. With Travel time of 5 mins. With an area duration of 10. And has an early start of 13:30 and a late finish of 13:45.
+Inspection at 2/369 Abbotsford Street- North Melbourne inspection window starts at 13:35 and Finishes at 13:50. It is inspected from 13:32 to 14:02. With Travel time of 12 mins. With an area duration of 10. And has an early start of 13:35 and a late finish of 13:50.
+Construct aspect of algorithm took 7116milliseconds to run. 
+Improve aspect of algorithm took 10508milliseconds to run.
+ Overall the algorithm took 17624milliseconds to run.

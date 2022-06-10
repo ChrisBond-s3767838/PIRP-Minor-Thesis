@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 11 Milford Place- Belmont inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:10 to 10:40. With Travel time of 17 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 34 Trinity Way- Armstrong Creek inspection window starts at 10:45 and Finishes at 11:15. It is inspected from 10:53 to 11:23. With Travel time of 13 mins. With an area duration of 20. And has an early start of 10:45 and a late finish of 11:15.
+Inspection at 37 Knox Drive- Barwon Heads inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 11:55 to 12:25. With Travel time of 13 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 2/4 Watersedge Terrace- Highton inspection window starts at 15:15 and Finishes at 15:45. It is inspected from 15:15 to 15:25. With Travel time of 30 mins. With an area duration of 0. And has an early start of 15:15 and a late finish of 15:45.
+Inspection at 15 Isla Road- Curlewis inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 15:50 to 16:20. With Travel time of 25 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at 11 Milford Place- Belmont inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:10 to 10:40. With Travel time of 17 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 34 Trinity Way- Armstrong Creek inspection window starts at 10:45 and Finishes at 11:15. It is inspected from 10:53 to 11:23. With Travel time of 13 mins. With an area duration of 20. And has an early start of 10:45 and a late finish of 11:15.
+Inspection at 37 Knox Drive- Barwon Heads inspection window starts at 12:15 and Finishes at 12:45. It is inspected from 11:55 to 12:25. With Travel time of 13 mins. With an area duration of 20. And has an early start of 12:15 and a late finish of 12:45.
+Inspection at 2/4 Watersedge Terrace- Highton inspection window starts at 15:15 and Finishes at 15:45. It is inspected from 15:15 to 15:25. With Travel time of 30 mins. With an area duration of 0. And has an early start of 15:15 and a late finish of 15:45.
+Inspection at 15 Isla Road- Curlewis inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 15:50 to 16:20. With Travel time of 0 mins. With an area duration of 20. And has an early start of 16:00 and a late finish of 16:30.
+Construct aspect of algorithm took 13261milliseconds to run. 
+Improve aspect of algorithm took 48993milliseconds to run.
+ Overall the algorithm took 62254milliseconds to run.

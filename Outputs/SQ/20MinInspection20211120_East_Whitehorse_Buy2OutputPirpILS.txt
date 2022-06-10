@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 12 Coonawarra Drive- Vermont South inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:40 to 12:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 314 Canterbury Road- Forest Hill inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:40 to 13:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 276 Springfield Road- Nunawading inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:10 to 14:50. With Travel time of 5 mins. With an area duration of 20. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 17 Karwitha Street- Vermont inspection window starts at 15:45 and Finishes at 16:30. It is inspected from 15:45 to 16:05. With Travel time of 8 mins. With an area duration of 0. And has an early start of 15:45 and a late finish of 16:30.
+Inspection at 325 Hawthorn Road- Vermont South inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:08 to 16:28. With Travel time of 3 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at 12 Coonawarra Drive- Vermont South inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:40 to 12:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 314 Canterbury Road- Forest Hill inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:40 to 13:20. With Travel time of 8 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 276 Springfield Road- Nunawading inspection window starts at 14:30 and Finishes at 15:00. It is inspected from 14:10 to 14:50. With Travel time of 5 mins. With an area duration of 20. And has an early start of 14:30 and a late finish of 15:00.
+Inspection at 17 Karwitha Street- Vermont inspection window starts at 15:45 and Finishes at 16:30. It is inspected from 15:45 to 16:05. With Travel time of 8 mins. With an area duration of 0. And has an early start of 15:45 and a late finish of 16:30.
+Inspection at 325 Hawthorn Road- Vermont South inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:08 to 16:28. With Travel time of 0 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+Construct aspect of algorithm took 7727milliseconds to run. 
+Improve aspect of algorithm took 21835milliseconds to run.
+ Overall the algorithm took 29562milliseconds to run.

@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 110 Sunset Boulevard- Jacana inspection window starts at 09:30 and Finishes at 09:45. It is inspected from 09:12 to 09:47. With Travel time of 12 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 09:45.
+Inspection at 140 Ripplebrook Drive- Broadmeadows inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 10:00 to 10:15. With Travel time of 5 mins. With an area duration of 0. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 4/4 Avion Place- Westmeadows inspection window starts at 10:30 and Finishes at 10:40. It is inspected from 10:21 to 10:56. With Travel time of 6 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:40.
+After Improve inspections are: 
+Inspection at 110 Sunset Boulevard- Jacana inspection window starts at 09:30 and Finishes at 09:45. It is inspected from 09:12 to 09:47. With Travel time of 12 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 09:45.
+Inspection at 140 Ripplebrook Drive- Broadmeadows inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 10:00 to 10:15. With Travel time of 5 mins. With an area duration of 0. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 4/4 Avion Place- Westmeadows inspection window starts at 10:30 and Finishes at 10:40. It is inspected from 10:21 to 10:56. With Travel time of 6 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:40.
+Construct aspect of algorithm took 7771milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 17771milliseconds to run.

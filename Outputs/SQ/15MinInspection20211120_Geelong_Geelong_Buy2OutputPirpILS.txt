@@ -1,0 +1,21 @@
+After construction the inspections are: 
+Inspection at 167 McKillop Street- Geelong inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:15. With Travel time of 11 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 96 The Boulevard- Norlane inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:10 to 11:45. With Travel time of 13 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 55 Weller Street- Geelong West inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:10 to 12:45. With Travel time of 9 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 10/43 Liverpool Street- Geelong inspection window starts at 11:00 and Finishes at 14:00. It is inspected from 12:53 to 13:08. With Travel time of 8 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 14:00.
+Inspection at 30 Anderson Street- East Geelong inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:45. With Travel time of 10 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 2/2 Marjorie Avenue- Belmont inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:55 to 14:30. With Travel time of 10 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 13B Myrtle Grove- North Shore inspection window starts at 15:20 and Finishes at 15:40. It is inspected from 15:00 to 15:35. With Travel time of 17 mins. With an area duration of 20. And has an early start of 15:20 and a late finish of 15:40.
+Inspection at 112 McKillop Street- Geelong inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:00 to 17:15. With Travel time of 12 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:30.
+After Improve inspections are: 
+Inspection at 167 McKillop Street- Geelong inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:15. With Travel time of 11 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 96 The Boulevard- Norlane inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:10 to 11:45. With Travel time of 13 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 55 Weller Street- Geelong West inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:10 to 12:45. With Travel time of 9 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 5 Cedmar Avenue- Highton inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:45. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 30 Anderson Street- East Geelong inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:45. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 2/2 Marjorie Avenue- Belmont inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:55 to 14:30. With Travel time of 10 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 308 Torquay Road- Grovedale inspection window starts at 15:15 and Finishes at 15:45. It is inspected from 14:55 to 17:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 15:15 and a late finish of 15:45.
+Inspection at 112 McKillop Street- Geelong inspection window starts at 17:00 and Finishes at 17:30. It is inspected from 17:00 to 17:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 17:00 and a late finish of 17:30.
+Construct aspect of algorithm took 13761milliseconds to run. 
+Improve aspect of algorithm took 23692milliseconds to run.
+ Overall the algorithm took 37453milliseconds to run.

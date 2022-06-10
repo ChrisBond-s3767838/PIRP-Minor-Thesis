@@ -1,0 +1,13 @@
+After construction the inspections are: 
+Inspection at 53 Alamein Avenue- Ashburton inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:15. With Travel time of 4 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 7B Wirraway Court- Ashburton inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:30 to 11:45. With Travel time of 0 mins. With an area duration of 0. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 106 Albion Road- Ashburton inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 14:00 to 14:15. With Travel time of 4 mins. With an area duration of 0. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 107/218-224 High Street- Ashburton inspection window starts at 15:30 and Finishes at 16:00. It is inspected from 15:30 to 15:45. With Travel time of 3 mins. With an area duration of 0. And has an early start of 15:30 and a late finish of 16:00.
+After Improve inspections are: 
+Inspection at 53 Alamein Avenue- Ashburton inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:15. With Travel time of 4 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 31 Solway Street- Ashburton inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:30 to 14:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 106 Albion Road- Ashburton inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 14:00 to 14:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 107/218-224 High Street- Ashburton inspection window starts at 15:30 and Finishes at 16:00. It is inspected from 15:30 to 15:45. With Travel time of 3 mins. With an area duration of 0. And has an early start of 15:30 and a late finish of 16:00.
+Construct aspect of algorithm took 5054milliseconds to run. 
+Improve aspect of algorithm took 14200milliseconds to run.
+ Overall the algorithm took 19255milliseconds to run.

@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 3 Vintage Court- Kilsyth South inspection window starts at 10:00 and Finishes at 10:20. It is inspected from 09:40 to 10:20. With Travel time of 13 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:20.
+Inspection at 8 Mimosa Court- Croydon South inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:10 to 11:50. With Travel time of 12 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 5 Calmsden Street- Kilsyth South inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:01 to 12:21. With Travel time of 11 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 1/5 Arlington Street- Ringwood inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:40 to 14:20. With Travel time of 14 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 20 Skyline Place- Heathmont inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:20. With Travel time of 5 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+After Improve inspections are: 
+Inspection at 3 Vintage Court- Kilsyth South inspection window starts at 10:00 and Finishes at 10:20. It is inspected from 09:40 to 10:20. With Travel time of 13 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:20.
+Inspection at 8 Mimosa Court- Croydon South inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:10 to 11:50. With Travel time of 12 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 33 Velma Grove- Ringwood East inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:30 to 14:20. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 1/5 Arlington Street- Ringwood inspection window starts at 14:00 and Finishes at 14:30. It is inspected from 13:40 to 14:20. With Travel time of 0 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:30.
+Inspection at 20 Skyline Place- Heathmont inspection window starts at 15:00 and Finishes at 15:30. It is inspected from 14:40 to 15:20. With Travel time of 5 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:30.
+Construct aspect of algorithm took 8177milliseconds to run. 
+Improve aspect of algorithm took 10315milliseconds to run.
+ Overall the algorithm took 18492milliseconds to run.

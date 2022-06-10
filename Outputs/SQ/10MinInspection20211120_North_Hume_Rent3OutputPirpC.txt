@@ -1,0 +1,27 @@
+After construction the inspections are: 
+Inspection at 51 Hamilton Street- Craigieburn inspection window starts at 14:05 and Finishes at 14:20. It is inspected from 13:45 to 14:15. With Travel time of 14 mins. With an area duration of 20. And has an early start of 14:05 and a late finish of 14:20.
+ Competing Inspection at 51 Hamilton Street- Craigieburn inspection window starts at 14:05 and Finishes at 14:20. It is inspected from 13:45 to 14:15. With Travel time of 14 mins. With an area duration of 20. And has an early start of 14:05 and a late finish of 14:20.
+ Competing Inspection at 6 Parker Court- Roxburgh Park inspection window starts at 14:10 and Finishes at 14:20. It is inspected from 13:50 to 14:20. With Travel time of 13 mins. With an area duration of 20. And has an early start of 14:10 and a late finish of 14:20.
+ Competing Inspection at 4/14 Moray Street- Fawkner inspection window starts at 14:10 and Finishes at 14:25. It is inspected from 13:50 to 14:20. With Travel time of 5 mins. With an area duration of 20. And has an early start of 14:10 and a late finish of 14:25.
+After InsertC the inspections are: 
+Inspection at 51 Hamilton Street- Craigieburn inspection window starts at 14:05 and Finishes at 14:20. It is inspected from 13:45 to 14:15. With Travel time of 14 mins. With an area duration of 20. And has an early start of 14:05 and a late finish of 14:20.
+ Competing Inspection at 51 Hamilton Street- Craigieburn inspection window starts at 14:05 and Finishes at 14:20. It is inspected from 13:45 to 14:15. With Travel time of 14 mins. With an area duration of 20. And has an early start of 14:05 and a late finish of 14:20.
+ Competing Inspection at 6 Parker Court- Roxburgh Park inspection window starts at 14:10 and Finishes at 14:20. It is inspected from 13:50 to 14:20. With Travel time of 13 mins. With an area duration of 20. And has an early start of 14:10 and a late finish of 14:20.
+ Competing Inspection at 4/14 Moray Street- Fawkner inspection window starts at 14:10 and Finishes at 14:25. It is inspected from 13:50 to 14:20. With Travel time of 5 mins. With an area duration of 20. And has an early start of 14:10 and a late finish of 14:25.
+Inspection at 16 Fidge Court- Jacana inspection window starts at 15:45 and Finishes at 16:00. It is inspected from 15:25 to 15:55. With Travel time of 19 mins. With an area duration of 20. And has an early start of 15:45 and a late finish of 16:00.
+After Neighbourhood Replace the inspections are: 
+Inspection at 51 Hamilton Street- Craigieburn inspection window starts at 14:05 and Finishes at 14:20. It is inspected from 13:45 to 14:15. With Travel time of 14 mins. With an area duration of 20. And has an early start of 14:05 and a late finish of 14:20.
+ Competing Inspection at 51 Hamilton Street- Craigieburn inspection window starts at 14:05 and Finishes at 14:20. It is inspected from 13:45 to 14:15. With Travel time of 14 mins. With an area duration of 20. And has an early start of 14:05 and a late finish of 14:20.
+ Competing Inspection at 6 Parker Court- Roxburgh Park inspection window starts at 14:10 and Finishes at 14:20. It is inspected from 13:50 to 14:20. With Travel time of 13 mins. With an area duration of 20. And has an early start of 14:10 and a late finish of 14:20.
+ Competing Inspection at 4/14 Moray Street- Fawkner inspection window starts at 14:10 and Finishes at 14:25. It is inspected from 13:50 to 14:20. With Travel time of 5 mins. With an area duration of 20. And has an early start of 14:10 and a late finish of 14:25.
+Inspection at 16 Fidge Court- Jacana inspection window starts at 15:45 and Finishes at 16:00. It is inspected from 15:25 to 15:55. With Travel time of 19 mins. With an area duration of 20. And has an early start of 15:45 and a late finish of 16:00.
+After Improve inspections are: 
+Inspection at 51 Hamilton Street- Craigieburn inspection window starts at 14:05 and Finishes at 14:20. It is inspected from 13:45 to 14:15. With Travel time of 14 mins. With an area duration of 20. And has an early start of 14:05 and a late finish of 14:20.
+ Competing Inspection at 51 Hamilton Street- Craigieburn inspection window starts at 14:05 and Finishes at 14:20. It is inspected from 13:45 to 14:15. With Travel time of 14 mins. With an area duration of 20. And has an early start of 14:05 and a late finish of 14:20.
+ Competing Inspection at 6 Parker Court- Roxburgh Park inspection window starts at 14:10 and Finishes at 14:20. It is inspected from 13:50 to 14:20. With Travel time of 13 mins. With an area duration of 20. And has an early start of 14:10 and a late finish of 14:20.
+ Competing Inspection at 4/14 Moray Street- Fawkner inspection window starts at 14:10 and Finishes at 14:25. It is inspected from 13:50 to 14:20. With Travel time of 5 mins. With an area duration of 20. And has an early start of 14:10 and a late finish of 14:25.
+Inspection at 16 Fidge Court- Jacana inspection window starts at 15:45 and Finishes at 16:00. It is inspected from 15:25 to 15:55. With Travel time of 19 mins. With an area duration of 20. And has an early start of 15:45 and a late finish of 16:00.
+Construct aspect of algorithm took 2135milliseconds to run. 
+Improve aspect of algorithm took 1554milliseconds to run.
+ Neighbourhood Replace aspect of algorithm took 0milliseconds to run. 
+Overall the algorithm took 3689milliseconds to run.

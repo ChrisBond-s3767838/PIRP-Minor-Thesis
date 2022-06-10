@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 10/76 The Esplanade- Caroline Springs inspection window starts at 09:20 and Finishes at 09:35. It is inspected from 09:03 to 09:33. With Travel time of 3 mins. With an area duration of 20. And has an early start of 09:20 and a late finish of 09:35.
+Inspection at 47 Honeydew Way- Rockbank inspection window starts at 09:55 and Finishes at 10:05. It is inspected from 09:45 to 10:15. With Travel time of 12 mins. With an area duration of 20. And has an early start of 09:55 and a late finish of 10:05.
+Inspection at 25 Miandad Street- Rockbank inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 11:00 to 11:10. With Travel time of 3 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 70 Restful Way- Rockbank inspection window starts at 11:50 and Finishes at 12:05. It is inspected from 11:50 to 12:00. With Travel time of 4 mins. With an area duration of 0. And has an early start of 11:50 and a late finish of 12:05.
+Inspection at 17 Lynwood Drive- Rockbank inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:30 to 12:40. With Travel time of 11 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at Unit 3/1 Dargi Grn- Caroline Springs inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:10 to 13:40. With Travel time of 20 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 13:45.
+Inspection at 158-166 Westcott Parade- Rockbank inspection window starts at 14:40 and Finishes at 14:55. It is inspected from 14:40 to 14:50. With Travel time of 13 mins. With an area duration of 0. And has an early start of 14:40 and a late finish of 14:55.
+After Improve inspections are: 
+Inspection at 10/76 The Esplanade- Caroline Springs inspection window starts at 09:20 and Finishes at 09:35. It is inspected from 09:03 to 09:33. With Travel time of 3 mins. With an area duration of 20. And has an early start of 09:20 and a late finish of 09:35.
+Inspection at 47 Honeydew Way- Rockbank inspection window starts at 09:55 and Finishes at 10:05. It is inspected from 09:45 to 10:15. With Travel time of 12 mins. With an area duration of 20. And has an early start of 09:55 and a late finish of 10:05.
+Inspection at 25 Miandad Street- Rockbank inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 11:00 to 11:10. With Travel time of 3 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 5 Matlock Street- Caroline Springs inspection window starts at 11:30 and Finishes at 11:40. It is inspected from 11:30 to 12:40. With Travel time of 0 mins. With an area duration of 0. And has an early start of 11:30 and a late finish of 11:40.
+Inspection at 17 Lynwood Drive- Rockbank inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:30 to 12:40. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 26 Nullarbor Place- Caroline Springs inspection window starts at 13:05 and Finishes at 13:20. It is inspected from 12:45 to 14:50. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:05 and a late finish of 13:20.
+Inspection at 158-166 Westcott Parade- Rockbank inspection window starts at 14:40 and Finishes at 14:55. It is inspected from 14:40 to 14:50. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:40 and a late finish of 14:55.
+Construct aspect of algorithm took 17013milliseconds to run. 
+Improve aspect of algorithm took 18175milliseconds to run.
+ Overall the algorithm took 35189milliseconds to run.

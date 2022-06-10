@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 8/15 De Carle Street- Brunswick inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:10 to 10:45. With Travel time of 14 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 159 Glenlyon Road- Brunswick East inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:10 to 11:45. With Travel time of 5 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 161 Victoria Street- Brunswick inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:15. With Travel time of 2 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 3/64 Cornwall Road- Pascoe Vale inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:32 to 13:07. With Travel time of 17 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 6 Victoria Street- Oak Park inspection window starts at 13:30 and Finishes at 13:50. It is inspected from 13:12 to 13:47. With Travel time of 5 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 13:50.
+After Improve inspections are: 
+Inspection at 8/15 De Carle Street- Brunswick inspection window starts at 10:30 and Finishes at 10:45. It is inspected from 10:10 to 10:45. With Travel time of 14 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 10:45.
+Inspection at 52 Davies Street- Brunswick inspection window starts at 10:45 and Finishes at 11:15. It is inspected from 10:45 to 12:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 10:45 and a late finish of 11:15.
+Inspection at 161 Victoria Street- Brunswick inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 3/64 Cornwall Road- Pascoe Vale inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:32 to 13:07. With Travel time of 17 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 6 Victoria Street- Oak Park inspection window starts at 13:30 and Finishes at 13:50. It is inspected from 13:12 to 13:47. With Travel time of 5 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 13:50.
+Construct aspect of algorithm took 9634milliseconds to run. 
+Improve aspect of algorithm took 11226milliseconds to run.
+ Overall the algorithm took 20860milliseconds to run.

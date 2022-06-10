@@ -1,0 +1,22 @@
+After construction the inspections are: 
+Inspection at 10/15 Rennie Street- Thornbury inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:04 to 09:34. With Travel time of 4 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 14 Parker Street- Preston inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of -1 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 15 South Park Street- Northcote inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 10:09 to 10:39. With Travel time of -1 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 7 Byron Court- Bundoora inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:01 to 11:31. With Travel time of 22 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 44 Tambo Avenue- Reservoir inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:41 to 12:11. With Travel time of 10 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 72 Bridge Street- Northcote inspection window starts at 12:45 and Finishes at 13:15. It is inspected from 12:45 to 12:55. With Travel time of 16 mins. With an area duration of 0. And has an early start of 12:45 and a late finish of 13:15.
+Inspection at 296 Plenty Road- Preston inspection window starts at 13:00 and Finishes at 14:00. It is inspected from 13:06 to 13:16. With Travel time of 11 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 14:00.
+Inspection at 49 Rene Street- Preston inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:40. With Travel time of 4 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 106 Miranda Road- Reservoir inspection window starts at 13:00 and Finishes at 14:00. It is inspected from 13:47 to 13:57. With Travel time of 7 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 10/15 Rennie Street- Thornbury inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:04 to 09:34. With Travel time of 4 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 14 Parker Street- Preston inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of -1 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 15 South Park Street- Northcote inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 10:09 to 10:39. With Travel time of -1 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 35a Austral Avenue- Preston inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:00 to 12:10. With Travel time of 0 mins. With an area duration of 0. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 80 Murray Road- Preston inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:55. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 72 Bridge Street- Northcote inspection window starts at 12:45 and Finishes at 13:15. It is inspected from 12:45 to 12:55. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:45 and a late finish of 13:15.
+Inspection at 1/553 Murray Road- Preston inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:50. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 106 Miranda Road- Reservoir inspection window starts at 13:00 and Finishes at 14:00. It is inspected from 13:47 to 13:57. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 14:00.
+Construct aspect of algorithm took 24781milliseconds to run. 
+Improve aspect of algorithm took 45801milliseconds to run.
+ Overall the algorithm took 70582milliseconds to run.

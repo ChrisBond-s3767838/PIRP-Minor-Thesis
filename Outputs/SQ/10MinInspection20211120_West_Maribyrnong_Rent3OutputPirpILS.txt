@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 1603E/6 Tannery Walk- Footscray inspection window starts at 09:40 and Finishes at 10:00. It is inspected from 09:20 to 09:50. With Travel time of 12 mins. With an area duration of 20. And has an early start of 09:40 and a late finish of 10:00.
+Inspection at 14/697 Barkly Street- West Footscray inspection window starts at 10:10 and Finishes at 10:20. It is inspected from 10:00 to 10:30. With Travel time of 10 mins. With an area duration of 20. And has an early start of 10:10 and a late finish of 10:20.
+Inspection at 4/71 Kingsville Street- Kingsville inspection window starts at 12:45 and Finishes at 13:00. It is inspected from 12:25 to 12:55. With Travel time of 7 mins. With an area duration of 20. And has an early start of 12:45 and a late finish of 13:00.
+Inspection at 35 Gent Street- Yarraville inspection window starts at 13:10 and Finishes at 13:20. It is inspected from 13:10 to 13:20. With Travel time of 4 mins. With an area duration of 0. And has an early start of 13:10 and a late finish of 13:20.
+Inspection at 2/117 Anderson Street- Yarraville inspection window starts at 14:00 and Finishes at 14:10. It is inspected from 14:00 to 14:10. With Travel time of 4 mins. With an area duration of 0. And has an early start of 14:00 and a late finish of 14:10.
+Inspection at 463B Geelong Road- Yarraville inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:45 to 14:55. With Travel time of 5 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 1a Dickson Street- Kingsville inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:10. With Travel time of 5 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at 1603E/6 Tannery Walk- Footscray inspection window starts at 09:40 and Finishes at 10:00. It is inspected from 09:20 to 09:50. With Travel time of 12 mins. With an area duration of 20. And has an early start of 09:40 and a late finish of 10:00.
+Inspection at 6/4 La Scala Avenue- Maribyrnong inspection window starts at 11:25 and Finishes at 11:40. It is inspected from 11:05 to 12:55. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:25 and a late finish of 11:40.
+Inspection at 4/71 Kingsville Street- Kingsville inspection window starts at 12:45 and Finishes at 13:00. It is inspected from 12:25 to 12:55. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:45 and a late finish of 13:00.
+Inspection at 804E/6 Tannery Walk- Footscray inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 14:10. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 2/117 Anderson Street- Yarraville inspection window starts at 14:00 and Finishes at 14:10. It is inspected from 14:00 to 14:10. With Travel time of 0 mins. With an area duration of 0. And has an early start of 14:00 and a late finish of 14:10.
+Inspection at 463B Geelong Road- Yarraville inspection window starts at 14:45 and Finishes at 15:00. It is inspected from 14:45 to 14:55. With Travel time of 5 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 15:00.
+Inspection at 1a Dickson Street- Kingsville inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:10. With Travel time of 5 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+Construct aspect of algorithm took 19065milliseconds to run. 
+Improve aspect of algorithm took 34269milliseconds to run.
+ Overall the algorithm took 53334milliseconds to run.

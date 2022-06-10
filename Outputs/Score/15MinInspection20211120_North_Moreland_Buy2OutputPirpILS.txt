@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 5/240 Boundary Road- Pascoe Vale inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:04 to 09:39. With Travel time of 4 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 20 Bawden Court- Pascoe Vale inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:41 to 09:56. With Travel time of 2 mins. With an area duration of 0. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 3/348 Gaffney Street- Pascoe Vale inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 10:00 to 10:15. With Travel time of 4 mins. With an area duration of 0. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 286 Brunswick Road- Brunswick inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:25 to 11:00. With Travel time of 10 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 2/60 Isla Avenue- Glenroy inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:25 to 12:00. With Travel time of 16 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 20 Charles Street- Hadfield inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:04 to 12:19. With Travel time of 4 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 17 Dorset Road- Pascoe Vale inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:45. With Travel time of 4 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 5/240 Boundary Road- Pascoe Vale inspection window starts at 09:00 and Finishes at 09:30. It is inspected from 09:04 to 09:39. With Travel time of 4 mins. With an area duration of 20. And has an early start of 09:00 and a late finish of 09:30.
+Inspection at 20 Bawden Court- Pascoe Vale inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:41 to 09:56. With Travel time of 2 mins. With an area duration of 0. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 198 Albert Street- Brunswick inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 10:00 to 11:00. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 52 Davies Street- Brunswick inspection window starts at 10:45 and Finishes at 11:15. It is inspected from 10:45 to 12:00. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:45 and a late finish of 11:15.
+Inspection at 2/60 Isla Avenue- Glenroy inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:25 to 12:00. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 7/84-88 Middle Street- Hadfield inspection window starts at 13:00 and Finishes at 13:20. It is inspected from 13:00 to 13:45. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:20.
+Inspection at 17 Dorset Road- Pascoe Vale inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:30 to 13:45. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 14000milliseconds to run. 
+Improve aspect of algorithm took 29339milliseconds to run.
+ Overall the algorithm took 43339milliseconds to run.

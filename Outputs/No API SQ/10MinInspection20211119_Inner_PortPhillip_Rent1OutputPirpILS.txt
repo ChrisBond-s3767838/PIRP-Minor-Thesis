@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 1010/38 Bank Street- South Melbourne inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:50 to 10:10. With Travel time of 4 mins. With an area duration of 10. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 27 Stead Street- South Melbourne inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:30 to 13:40. With Travel time of 2 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 13:45.
+Inspection at 1002/52 Park Street- South Melbourne inspection window starts at 15:10 and Finishes at 15:25. It is inspected from 15:10 to 15:20. With Travel time of 11 mins. With an area duration of 0. And has an early start of 15:10 and a late finish of 15:25.
+Inspection at 22/88 Park Street- South Melbourne inspection window starts at 15:35 and Finishes at 15:50. It is inspected from 15:35 to 15:45. With Travel time of 11 mins. With an area duration of 0. And has an early start of 15:35 and a late finish of 15:50.
+Inspection at 101/222-224 Rouse Street- Port Melbourne inspection window starts at 16:45 and Finishes at 17:00. It is inspected from 16:35 to 16:55. With Travel time of 17 mins. With an area duration of 10. And has an early start of 16:45 and a late finish of 17:00.
+After Improve inspections are: 
+Inspection at 1010/38 Bank Street- South Melbourne inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:50 to 10:10. With Travel time of 4 mins. With an area duration of 10. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 27 Stead Street- South Melbourne inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:30 to 13:40. With Travel time of 2 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 13:45.
+Inspection at 1002/52 Park Street- South Melbourne inspection window starts at 15:10 and Finishes at 15:25. It is inspected from 15:10 to 15:20. With Travel time of 11 mins. With an area duration of 0. And has an early start of 15:10 and a late finish of 15:25.
+Inspection at 22/88 Park Street- South Melbourne inspection window starts at 15:35 and Finishes at 15:50. It is inspected from 15:35 to 15:45. With Travel time of 11 mins. With an area duration of 0. And has an early start of 15:35 and a late finish of 15:50.
+Inspection at 101/222-224 Rouse Street- Port Melbourne inspection window starts at 16:45 and Finishes at 17:00. It is inspected from 16:35 to 16:55. With Travel time of 17 mins. With an area duration of 10. And has an early start of 16:45 and a late finish of 17:00.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.

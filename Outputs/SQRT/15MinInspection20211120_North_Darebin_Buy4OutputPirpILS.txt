@@ -1,0 +1,20 @@
+After construction the inspections are: 
+Inspection at 6/188 Broadway- Reservoir inspection window starts at 09:15 and Finishes at 09:45. It is inspected from 09:02 to 09:37. With Travel time of 2 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:45.
+Inspection at 2/37 Boldrewood Parade- Reservoir inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 10:00 to 10:15. With Travel time of 2 mins. With an area duration of 0. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 124 Elizabeth Street- Coburg North inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:24 to 10:59. With Travel time of 9 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 17 Taylor Street- Thornbury inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:05 to 11:40. With Travel time of 6 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 22 Aberdeen Grove- Northcote inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:46 to 12:21. With Travel time of 6 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 57 James Street- Northcote inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:30 to 12:45. With Travel time of 3 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 86 May Street- Preston inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:57 to 13:32. With Travel time of 12 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 1/128 St Vigeons Road- Reservoir inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:40 to 13:55. With Travel time of 8 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+After Improve inspections are: 
+Inspection at 6/188 Broadway- Reservoir inspection window starts at 09:15 and Finishes at 09:45. It is inspected from 09:02 to 09:37. With Travel time of 2 mins. With an area duration of 20. And has an early start of 09:15 and a late finish of 09:45.
+Inspection at 2/37 Boldrewood Parade- Reservoir inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 10:00 to 10:15. With Travel time of 2 mins. With an area duration of 0. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 18 Cheddar Road- Reservoir inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:30 to 11:20. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 17 Taylor Street- Thornbury inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 11:05 to 11:40. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 1/85 Newlands Road- Coburg North inspection window starts at 11:30 and Finishes at 12:00. It is inspected from 11:40 to 13:15. With Travel time of 0 mins. With an area duration of 0. And has an early start of 11:30 and a late finish of 12:00.
+Inspection at 23 Robusta Avenue- Bundoora inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:45 to 13:45. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 1/128 St Vigeons Road- Reservoir inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:40 to 13:55. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:30 and a late finish of 14:00.
+Construct aspect of algorithm took 18597milliseconds to run. 
+Improve aspect of algorithm took 23377milliseconds to run.
+ Overall the algorithm took 41974milliseconds to run.

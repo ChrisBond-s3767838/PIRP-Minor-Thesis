@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 31 Blacksprings Road- Chirnside Park inspection window starts at 11:10 and Finishes at 11:25. It is inspected from 10:50 to 11:25. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:10 and a late finish of 11:25.
+Inspection at 131 Victoria Road- Chirnside Park inspection window starts at 13:50 and Finishes at 14:05. It is inspected from 13:50 to 14:05. With Travel time of 6 mins. With an area duration of 0. And has an early start of 13:50 and a late finish of 14:05.
+Inspection at 3/691 Mt Dandenong Road- Kilsyth inspection window starts at 14:30 and Finishes at 14:45. It is inspected from 14:17 to 14:52. With Travel time of 12 mins. With an area duration of 20. And has an early start of 14:30 and a late finish of 14:45.
+After Improve inspections are: 
+Inspection at 31 Blacksprings Road- Chirnside Park inspection window starts at 11:10 and Finishes at 11:25. It is inspected from 10:50 to 11:25. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:10 and a late finish of 11:25.
+Inspection at 31a Songbird Avenue- Chirnside Park inspection window starts at 11:35 and Finishes at 11:50. It is inspected from 11:35 to 14:45. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:35 and a late finish of 11:50.
+Inspection at 3/691 Mt Dandenong Road- Kilsyth inspection window starts at 14:30 and Finishes at 14:45. It is inspected from 14:17 to 14:52. With Travel time of 0 mins. With an area duration of 20. And has an early start of 14:30 and a late finish of 14:45.
+Construct aspect of algorithm took 4622milliseconds to run. 
+Improve aspect of algorithm took 10298milliseconds to run.
+ Overall the algorithm took 14920milliseconds to run.

@@ -1,0 +1,16 @@
+After construction the inspections are: 
+Inspection at 5/1 Tulip Cres- Boronia inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:40 to 10:20. With Travel time of 16 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 11 topaz Court- Wantirna South inspection window starts at 11:30 and Finishes at 12:30. It is inspected from 11:10 to 11:50. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:30.
+Inspection at 106/18 Myrtle Street- Bayswater inspection window starts at 14:00 and Finishes at 14:15. It is inspected from 13:40 to 14:20. With Travel time of 11 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:15.
+Inspection at 123 Harley Street North- Knoxfield inspection window starts at 15:05 and Finishes at 15:25. It is inspected from 14:45 to 15:25. With Travel time of 11 mins. With an area duration of 20. And has an early start of 15:05 and a late finish of 15:25.
+Inspection at 3 Warrien Court- Bayswater inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:20. With Travel time of 9 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+After Improve inspections are: 
+Inspection at 5/1 Tulip Cres- Boronia inspection window starts at 10:00 and Finishes at 10:15. It is inspected from 09:40 to 10:20. With Travel time of 16 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:15.
+Inspection at 11 topaz Court- Wantirna South inspection window starts at 11:30 and Finishes at 12:30. It is inspected from 11:10 to 11:50. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:30 and a late finish of 12:30.
+Inspection at 106/18 Myrtle Street- Bayswater inspection window starts at 14:00 and Finishes at 14:15. It is inspected from 13:40 to 14:20. With Travel time of 11 mins. With an area duration of 20. And has an early start of 14:00 and a late finish of 14:15.
+Inspection at 123 Harley Street North- Knoxfield inspection window starts at 15:05 and Finishes at 15:25. It is inspected from 14:45 to 15:25. With Travel time of 0 mins. With an area duration of 20. And has an early start of 15:05 and a late finish of 15:25.
+Inspection at 3 Warrien Court- Bayswater inspection window starts at 16:00 and Finishes at 16:30. It is inspected from 16:00 to 16:20. With Travel time of 9 mins. With an area duration of 0. And has an early start of 16:00 and a late finish of 16:30.
+Inspection at 5/208 Bayswater Road- Bayswater inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:30 to 16:50. With Travel time of 5 mins. With an area duration of 0. And has an early start of 16:30 and a late finish of 16:45.
+Construct aspect of algorithm took 9365milliseconds to run. 
+Improve aspect of algorithm took 22274milliseconds to run.
+ Overall the algorithm took 31639milliseconds to run.

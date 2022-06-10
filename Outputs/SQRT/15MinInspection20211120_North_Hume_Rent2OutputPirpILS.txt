@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 52 Recreation Street- Roxburgh Park inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 10:40 to 11:15. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 44 Frontier Avenue- Greenvale inspection window starts at 11:40 and Finishes at 11:50. It is inspected from 11:26 to 12:01. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:40 and a late finish of 11:50.
+Inspection at 32 Taylan Street- Craigieburn inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:13 to 12:48. With Travel time of 12 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 47 Alma Street- Craigieburn inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:15. With Travel time of 9 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 1443 Pascoe Vale Road- Meadow Heights inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:28 to 14:03. With Travel time of 13 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 13:45.
+After Improve inspections are: 
+Inspection at 52 Recreation Street- Roxburgh Park inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 10:40 to 11:15. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 44 Frontier Avenue- Greenvale inspection window starts at 11:40 and Finishes at 11:50. It is inspected from 11:26 to 12:01. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:40 and a late finish of 11:50.
+Inspection at 32 Taylan Street- Craigieburn inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:13 to 12:48. With Travel time of 12 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 47 Alma Street- Craigieburn inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:15. With Travel time of 9 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 1443 Pascoe Vale Road- Meadow Heights inspection window starts at 13:30 and Finishes at 13:45. It is inspected from 13:28 to 14:03. With Travel time of 13 mins. With an area duration of 20. And has an early start of 13:30 and a late finish of 13:45.
+Construct aspect of algorithm took 13025milliseconds to run. 
+Improve aspect of algorithm took 19559milliseconds to run.
+ Overall the algorithm took 32585milliseconds to run.

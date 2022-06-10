@@ -1,0 +1,9 @@
+After construction the inspections are: 
+Inspection at 6/10 Eldridge Street- Footscray inspection window starts at 13:45 and Finishes at 13:55. It is inspected from 13:35 to 14:05. With Travel time of 7 mins. With an area duration of 10. And has an early start of 13:45 and a late finish of 13:55.
+Inspection at 13/103-107 Gordon Street- Footscray inspection window starts at 14:45 and Finishes at 14:55. It is inspected from 14:45 to 15:05. With Travel time of 2 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 14:55.
+After Improve inspections are: 
+Inspection at 6/10 Eldridge Street- Footscray inspection window starts at 13:45 and Finishes at 13:55. It is inspected from 13:35 to 14:05. With Travel time of 7 mins. With an area duration of 10. And has an early start of 13:45 and a late finish of 13:55.
+Inspection at 13/103-107 Gordon Street- Footscray inspection window starts at 14:45 and Finishes at 14:55. It is inspected from 14:45 to 15:05. With Travel time of 2 mins. With an area duration of 0. And has an early start of 14:45 and a late finish of 14:55.
+Construct aspect of algorithm took 3974milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 13974milliseconds to run.

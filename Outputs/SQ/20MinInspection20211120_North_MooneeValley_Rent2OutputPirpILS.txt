@@ -1,0 +1,11 @@
+After construction the inspections are: 
+Inspection at 3/91 Deakin Street- Essendon inspection window starts at 10:15 and Finishes at 10:30. It is inspected from 09:55 to 10:35. With Travel time of 11 mins. With an area duration of 20. And has an early start of 10:15 and a late finish of 10:30.
+Inspection at 4/61 Primrose Street- Essendon inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:30 to 12:50. With Travel time of 8 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 10/118 Holmes Rd- Moonee Ponds inspection window starts at 15:00 and Finishes at 15:15. It is inspected from 14:40 to 15:20. With Travel time of 6 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:15.
+After Improve inspections are: 
+Inspection at 3/91 Deakin Street- Essendon inspection window starts at 10:15 and Finishes at 10:30. It is inspected from 09:55 to 10:35. With Travel time of 11 mins. With an area duration of 20. And has an early start of 10:15 and a late finish of 10:30.
+Inspection at 4/61 Primrose Street- Essendon inspection window starts at 12:30 and Finishes at 12:45. It is inspected from 12:30 to 12:50. With Travel time of 8 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 12:45.
+Inspection at 10/118 Holmes Rd- Moonee Ponds inspection window starts at 15:00 and Finishes at 15:15. It is inspected from 14:40 to 15:20. With Travel time of 6 mins. With an area duration of 20. And has an early start of 15:00 and a late finish of 15:15.
+Construct aspect of algorithm took 7257milliseconds to run. 
+Improve aspect of algorithm took 22673milliseconds to run.
+ Overall the algorithm took 29931milliseconds to run.

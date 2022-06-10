@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 14/70-72 Coghlan Street- Niddrie inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:10 to 09:40. With Travel time of 5 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 107/1c Berry Street- Essendon North inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:46 to 10:16. With Travel time of 6 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 8 Balmanno Crescent- Strathmore inspection window starts at 10:15 and Finishes at 10:45. It is inspected from 10:19 to 10:49. With Travel time of 3 mins. With an area duration of 20. And has an early start of 10:15 and a late finish of 10:45.
+Inspection at 7 Chancellor Road- Airport West inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:56 to 11:26. With Travel time of 7 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 9/130-132 Hoffmans Road- Essendon inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:30 to 12:40. With Travel time of 5 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 505/19 Russell Street- Essendon inspection window starts at 13:00 and Finishes at 13:15. It is inspected from 13:00 to 13:10. With Travel time of 8 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:15.
+Inspection at 33 St James Street- Moonee Ponds inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:15 to 13:45. With Travel time of 5 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+After Improve inspections are: 
+Inspection at 14/70-72 Coghlan Street- Niddrie inspection window starts at 09:30 and Finishes at 10:00. It is inspected from 09:10 to 09:40. With Travel time of 5 mins. With an area duration of 20. And has an early start of 09:30 and a late finish of 10:00.
+Inspection at 411/40 Collins Street- Essendon inspection window starts at 09:40 and Finishes at 10:00. It is inspected from 09:40 to 10:25. With Travel time of 0 mins. With an area duration of 20. And has an early start of 09:40 and a late finish of 10:00.
+Inspection at 8 Balmanno Crescent- Strathmore inspection window starts at 10:15 and Finishes at 10:45. It is inspected from 10:19 to 10:49. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:15 and a late finish of 10:45.
+Inspection at 3/23 Hoddle Street- Essendon inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:00 to 12:40. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 9/130-132 Hoffmans Road- Essendon inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:30 to 12:40. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 1 Gordon Street- Essendon inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:40 to 13:20. With Travel time of 0 mins. With an area duration of 20. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 33 St James Street- Moonee Ponds inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:15 to 13:45. With Travel time of 0 mins. With an area duration of 20. And has an early start of 13:00 and a late finish of 13:30.
+Construct aspect of algorithm took 18890milliseconds to run. 
+Improve aspect of algorithm took 13975milliseconds to run.
+ Overall the algorithm took 32866milliseconds to run.

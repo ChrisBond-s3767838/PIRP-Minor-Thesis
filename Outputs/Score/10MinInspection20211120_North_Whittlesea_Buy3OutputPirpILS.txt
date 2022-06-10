@@ -1,0 +1,19 @@
+After construction the inspections are: 
+Inspection at 56 Roycroft Avenue- Mill Park inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of 6 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 388 Childs Road- Mill Park inspection window starts at 10:30 and Finishes at 11:00. It is inspected from 10:30 to 10:40. With Travel time of 2 mins. With an area duration of 0. And has an early start of 10:30 and a late finish of 11:00.
+Inspection at 3/42 Tramoo Street- Lalor inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:51 to 11:21. With Travel time of 11 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 319 Gordons Road- South Morang inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:40 to 12:10. With Travel time of 16 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 8 Hummingbird Place- South Morang inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 12:13 to 12:23. With Travel time of 3 mins. With an area duration of 0. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 18 Grattan Street- South Morang inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:10. With Travel time of 6 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 10 Taree Place- Mill Park inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:19 to 13:29. With Travel time of 9 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+After Improve inspections are: 
+Inspection at 56 Roycroft Avenue- Mill Park inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 09:40 to 10:10. With Travel time of 6 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 3 Bella Court- Thomastown inspection window starts at 10:00 and Finishes at 10:30. It is inspected from 10:10 to 11:10. With Travel time of 0 mins. With an area duration of 20. And has an early start of 10:00 and a late finish of 10:30.
+Inspection at 3/42 Tramoo Street- Lalor inspection window starts at 11:00 and Finishes at 11:30. It is inspected from 10:51 to 11:21. With Travel time of 0 mins. With an area duration of 20. And has an early start of 11:00 and a late finish of 11:30.
+Inspection at 319 Gordons Road- South Morang inspection window starts at 12:00 and Finishes at 12:30. It is inspected from 11:40 to 12:10. With Travel time of 16 mins. With an area duration of 20. And has an early start of 12:00 and a late finish of 12:30.
+Inspection at 39 David Street- Lalor inspection window starts at 12:30 and Finishes at 13:00. It is inspected from 12:30 to 13:10. With Travel time of 0 mins. With an area duration of 0. And has an early start of 12:30 and a late finish of 13:00.
+Inspection at 18 Grattan Street- South Morang inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:00 to 13:10. With Travel time of 0 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 10 Taree Place- Mill Park inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 13:19 to 13:29. With Travel time of 9 mins. With an area duration of 0. And has an early start of 13:00 and a late finish of 13:30.
+Construct aspect of algorithm took 19794milliseconds to run. 
+Improve aspect of algorithm took 26255milliseconds to run.
+ Overall the algorithm took 46050milliseconds to run.

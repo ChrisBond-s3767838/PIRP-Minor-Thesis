@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 5/709 Barkly Street- West Footscray inspection window starts at 11:40 and Finishes at 12:10. It is inspected from 11:30 to 11:50. With Travel time of 10 mins. With an area duration of 10. And has an early start of 11:40 and a late finish of 12:10.
+Inspection at 70 Roberts Street- West Footscray inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:54 to 12:04. With Travel time of 4 mins. With an area duration of 0. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 607D /2 Tannery Walk- Footscray inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:50 to 13:10. With Travel time of 8 mins. With an area duration of 10. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 10/11D Murray Street- Yarraville inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:20 to 13:40. With Travel time of 7 mins. With an area duration of 10. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 16 Emma Street- Seddon inspection window starts at 14:15 and Finishes at 14:45. It is inspected from 14:15 to 14:25. With Travel time of 6 mins. With an area duration of 0. And has an early start of 14:15 and a late finish of 14:45.
+After Improve inspections are: 
+Inspection at 5/709 Barkly Street- West Footscray inspection window starts at 11:40 and Finishes at 12:10. It is inspected from 11:30 to 11:50. With Travel time of 10 mins. With an area duration of 10. And has an early start of 11:40 and a late finish of 12:10.
+Inspection at 70 Roberts Street- West Footscray inspection window starts at 11:45 and Finishes at 12:15. It is inspected from 11:54 to 12:04. With Travel time of 4 mins. With an area duration of 0. And has an early start of 11:45 and a late finish of 12:15.
+Inspection at 607D /2 Tannery Walk- Footscray inspection window starts at 13:00 and Finishes at 13:30. It is inspected from 12:50 to 13:10. With Travel time of 8 mins. With an area duration of 10. And has an early start of 13:00 and a late finish of 13:30.
+Inspection at 10/11D Murray Street- Yarraville inspection window starts at 13:30 and Finishes at 14:00. It is inspected from 13:20 to 13:40. With Travel time of 7 mins. With an area duration of 10. And has an early start of 13:30 and a late finish of 14:00.
+Inspection at 16 Emma Street- Seddon inspection window starts at 14:15 and Finishes at 14:45. It is inspected from 14:15 to 14:25. With Travel time of 6 mins. With an area duration of 0. And has an early start of 14:15 and a late finish of 14:45.
+Construct aspect of algorithm took 11663milliseconds to run. 
+Improve aspect of algorithm took 10958milliseconds to run.
+ Overall the algorithm took 22622milliseconds to run.

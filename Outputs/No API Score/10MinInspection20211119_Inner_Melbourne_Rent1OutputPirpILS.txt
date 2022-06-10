@@ -1,0 +1,15 @@
+After construction the inspections are: 
+Inspection at 7/119 Gipps Street- East Melbourne inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 10:50 to 11:10. With Travel time of 15 mins. With an area duration of 10. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 316/51-67 Rathdowne Street- Carlton inspection window starts at 11:45 and Finishes at 12:00. It is inspected from 11:35 to 11:55. With Travel time of 15 mins. With an area duration of 10. And has an early start of 11:45 and a late finish of 12:00.
+Inspection at 13/10-12 Lennon Street- Parkville inspection window starts at 15:20 and Finishes at 15:35. It is inspected from 15:10 to 15:30. With Travel time of 21 mins. With an area duration of 10. And has an early start of 15:20 and a late finish of 15:35.
+Inspection at 508/51 Galada Avenue- Parkville inspection window starts at 15:45 and Finishes at 16:00. It is inspected from 15:45 to 15:55. With Travel time of 3 mins. With an area duration of 0. And has an early start of 15:45 and a late finish of 16:00.
+Inspection at 509/481-495 Rathdowne Street- Carlton inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:30 to 16:40. With Travel time of 22 mins. With an area duration of 0. And has an early start of 16:30 and a late finish of 16:45.
+After Improve inspections are: 
+Inspection at 7/119 Gipps Street- East Melbourne inspection window starts at 11:00 and Finishes at 11:15. It is inspected from 10:50 to 11:10. With Travel time of 15 mins. With an area duration of 10. And has an early start of 11:00 and a late finish of 11:15.
+Inspection at 309/151 Princes Street- Carlton inspection window starts at 13:45 and Finishes at 14:00. It is inspected from 13:45 to 15:30. With Travel time of 0 mins. With an area duration of 10. And has an early start of 13:45 and a late finish of 14:00.
+Inspection at 13/10-12 Lennon Street- Parkville inspection window starts at 15:20 and Finishes at 15:35. It is inspected from 15:10 to 15:30. With Travel time of 0 mins. With an area duration of 10. And has an early start of 15:20 and a late finish of 15:35.
+Inspection at 508/51 Galada Avenue- Parkville inspection window starts at 15:45 and Finishes at 16:00. It is inspected from 15:45 to 15:55. With Travel time of 3 mins. With an area duration of 0. And has an early start of 15:45 and a late finish of 16:00.
+Inspection at 509/481-495 Rathdowne Street- Carlton inspection window starts at 16:30 and Finishes at 16:45. It is inspected from 16:30 to 16:40. With Travel time of 22 mins. With an area duration of 0. And has an early start of 16:30 and a late finish of 16:45.
+Construct aspect of algorithm took 0milliseconds to run. 
+Improve aspect of algorithm took 10000milliseconds to run.
+ Overall the algorithm took 10000milliseconds to run.
